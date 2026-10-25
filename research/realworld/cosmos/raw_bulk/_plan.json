@@ -1,0 +1,10 @@
+{
+ "start": 27846637,
+ "len": 200000,
+ "chunk": 2000,
+ "lo": 25480088,
+ "hi": 32677241,
+ "dev_windows_avoided": 30,
+ "utc": "2026-09-21T20:11:27Z",
+ "seed": "cosmos-bulk-select-2026-09-22"
+}

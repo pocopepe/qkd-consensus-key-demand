@@ -1,0 +1,23 @@
+{
+  "label": "D-all",
+  "n": 4,
+  "views": 12234,
+  "support_mean": 3,
+  "m_mean": 1,
+  "m_sd": 0.0,
+  "m_cv": 0.0,
+  "k_mean": 1,
+  "k_sd": 0.0,
+  "k_cv": 0.0,
+  "rho_mean": 0.0,
+  "pi_measured": 1.0,
+  "pi_sd": 0.0,
+  "m_used": 1,
+  "k_used": 1,
+  "pi_theory": 1.0,
+  "error": 0.0,
+  "impl": "libhotstuff",
+  "regime": "stable-leader",
+  "file": "hotstuff_stable_run1.json",
+  "demand_model": "D-all"
+}

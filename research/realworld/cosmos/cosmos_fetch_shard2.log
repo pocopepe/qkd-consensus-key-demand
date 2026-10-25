@@ -1,0 +1,7 @@
+[13:41:10] shard 2/4: 5 windows [27759587, 28905145, 30011292, 30957143, 32217698]
+[13:43:13] window 27759587: 300 blocks, n=180, refetches=2, inconsistent=0
+[13:45:20] window 28905145: 300 blocks, n=180, refetches=0, inconsistent=0
+[13:47:25] window 30011292: 300 blocks, n=180, refetches=0, inconsistent=0
+[13:49:41] window 30957143: 300 blocks, n=180, refetches=0, inconsistent=0
+[13:51:59] window 32217698: 300 blocks, n=180, refetches=0, inconsistent=0
+[13:51:59] FETCH_COMPLETE

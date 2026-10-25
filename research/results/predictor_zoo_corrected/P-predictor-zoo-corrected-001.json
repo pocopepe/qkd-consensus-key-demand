@@ -1,0 +1,228 @@
+{
+  "experiment_id": "P-predictor-zoo-corrected-001",
+  "utc": "2026-08-21T15:56:25.065420+00:00",
+  "supersedes": null,
+  "addendum_to": "P-predictor-zoo-001 (frozen, NOT overwritten)",
+  "definitions": {
+    "demand": "d_t(p) = number of distinct hubs incident to p (1 or 2)",
+    "D_t": "sum_p d_t(p) = |hubs| * (n-1)",
+    "S_t": "{p : d_t(p) > 0}",
+    "budget_B": "|S(t)|  (support cardinality)",
+    "pi": "sum_{p in S(t-1)} d_t(p) / D_t",
+    "coverage": "sum_{p in top-B} d_t(p) / D_t",
+    "tie_break": "descending score, then ascending pair tuple (min,max)"
+  },
+  "config": {
+    "n_values": [
+      16,
+      32
+    ],
+    "schedules": [
+      "round_robin",
+      "shuffled_epoch",
+      "vrf",
+      "weighted"
+    ],
+    "views": 600,
+    "burn_in": 120,
+    "seeds": [
+      0
+    ],
+    "ewma_alphas": [
+      0.5,
+      0.7
+    ]
+  },
+  "environment": {
+    "python": "3.12.3",
+    "numpy": "1.26.4",
+    "platform": "Linux-6.8.0-138-generic-x86_64-with-glibc2.39"
+  },
+  "provenance": {
+    "git_commit_before_run": "330b87b6d69f609f39856ecf44ea806c13494f32",
+    "script_sha256": "e2742ba284a6b03f3862e12cdcbc4cfd9cee454477bbc082d32b8dd351c5a810",
+    "command": "python3 research/predictor_zoo_corrected.py"
+  },
+  "rows": [
+    {
+      "n": 16,
+      "schedule": "round_robin",
+      "seed": 0,
+      "pi": 0.5666666666666665,
+      "S_min": 29,
+      "S_max": 29,
+      "D_mean": 30.0,
+      "views_scored": 480,
+      "ewma0.5": 0.5666666666666665,
+      "ewma0.7": 0.5666666666666665,
+      "last": 0.5666666666666665,
+      "freq": 0.18541666666666665,
+      "markov1": 0.9458333333333333,
+      "periodic": 1.0,
+      "oracle": 1.0
+    },
+    {
+      "n": 16,
+      "schedule": "shuffled_epoch",
+      "seed": 0,
+      "pi": 0.569236111111111,
+      "S_min": 15,
+      "S_max": 29,
+      "D_mean": 29.9375,
+      "views_scored": 480,
+      "ewma0.5": 0.565486111111111,
+      "ewma0.7": 0.565486111111111,
+      "last": 0.5670138888888888,
+      "freq": 0.178125,
+      "markov1": 0.39131944444444444,
+      "periodic": 0.2565972222222222,
+      "oracle": 1.0
+    },
+    {
+      "n": 16,
+      "schedule": "vrf",
+      "seed": 0,
+      "pi": 0.6216666666666666,
+      "S_min": 15,
+      "S_max": 29,
+      "D_mean": 29.09375,
+      "views_scored": 480,
+      "ewma0.5": 0.5787499999999999,
+      "ewma0.7": 0.5784722222222222,
+      "last": 0.5945833333333331,
+      "freq": 0.2398611111111111,
+      "markov1": 0.440625,
+      "periodic": 0.22555555555555554,
+      "oracle": 1.0
+    },
+    {
+      "n": 16,
+      "schedule": "weighted",
+      "seed": 0,
+      "pi": 0.6553472222222221,
+      "S_min": 15,
+      "S_max": 29,
+      "D_mean": 28.21875,
+      "views_scored": 480,
+      "ewma0.5": 0.5852083333333333,
+      "ewma0.7": 0.5850694444444444,
+      "last": 0.6257638888888887,
+      "freq": 0.46881944444444446,
+      "markov1": 0.5330555555555556,
+      "periodic": 0.29874999999999996,
+      "oracle": 1.0
+    },
+    {
+      "n": 32,
+      "schedule": "round_robin",
+      "seed": 0,
+      "pi": 0.532258064516129,
+      "S_min": 61,
+      "S_max": 61,
+      "D_mean": 62.0,
+      "views_scored": 480,
+      "ewma0.5": 0.532258064516129,
+      "ewma0.7": 0.532258064516129,
+      "last": 0.532258064516129,
+      "freq": 0.08820564516129031,
+      "markov1": 0.970766129032258,
+      "periodic": 1.0,
+      "oracle": 1.0
+    },
+    {
+      "n": 32,
+      "schedule": "shuffled_epoch",
+      "seed": 0,
+      "pi": 0.5351814516129032,
+      "S_min": 61,
+      "S_max": 61,
+      "D_mean": 62.0,
+      "views_scored": 480,
+      "ewma0.5": 0.5351814516129032,
+      "ewma0.7": 0.5351814516129032,
+      "last": 0.5351814516129032,
+      "freq": 0.07100134408602152,
+      "markov1": 0.3266129032258064,
+      "periodic": 0.12590725806451608,
+      "oracle": 1.0
+    },
+    {
+      "n": 32,
+      "schedule": "vrf",
+      "seed": 0,
+      "pi": 0.5610887096774192,
+      "S_min": 31,
+      "S_max": 61,
+      "D_mean": 61.225,
+      "views_scored": 480,
+      "ewma0.5": 0.5381048387096773,
+      "ewma0.7": 0.5381048387096773,
+      "last": 0.5490591397849462,
+      "freq": 0.12718413978494622,
+      "markov1": 0.3352150537634408,
+      "periodic": 0.10258736559139782,
+      "oracle": 1.0
+    },
+    {
+      "n": 32,
+      "schedule": "weighted",
+      "seed": 0,
+      "pi": 0.6042338709677418,
+      "S_min": 31,
+      "S_max": 61,
+      "D_mean": 59.610416666666666,
+      "views_scored": 480,
+      "ewma0.5": 0.55127688172043,
+      "ewma0.7": 0.55127688172043,
+      "last": 0.5843413978494623,
+      "freq": 0.36206317204301075,
+      "markov1": 0.4417674731182795,
+      "periodic": 0.1979838709677419,
+      "oracle": 1.0
+    }
+  ],
+  "checks": [
+    {
+      "check": "A. pi == Theorem A pi(n,2,1)=(n+1)/(2(n-1)) on round-robin",
+      "pass": true,
+      "detail": "max |pi_measured - pi_theory| = 1.110e-16"
+    },
+    {
+      "check": "B. |S(t-1)|=B => cov=pi   (strictly dominant RWC)",
+      "pass": true,
+      "detail": "0 violations / 7186 views"
+    },
+    {
+      "check": "B. |S(t-1)|>B => cov<=pi  (strictly dominant RWC)",
+      "pass": true,
+      "detail": "0 violations / 248 views"
+    },
+    {
+      "check": "B. |S(t-1)|<B => cov>=pi  (strictly dominant RWC)",
+      "pass": true,
+      "detail": "0 violations / 246 views"
+    },
+    {
+      "check": "C. periodicity can exceed pi",
+      "pass": true,
+      "detail": "2/8 configs; max +0.4677"
+    },
+    {
+      "check": "D. markov1 can exceed pi",
+      "pass": true,
+      "detail": "2/8 configs; max +0.4385"
+    },
+    {
+      "check": "E. freq (uniform weights) fails lag-1 dominance and is unbounded by the theorem",
+      "pass": true,
+      "detail": "freq mean coverage 0.2151 vs mean pi 0.5807"
+    }
+  ],
+  "violations": [],
+  "boundary_predictor_note": {
+    "predictor": "ewma0.5",
+    "deviations": 0,
+    "views": 3840,
+    "reason": "alpha=0.5 gives w1 = sum_{s>=2} w_s exactly; lag-1 dominance requires STRICT inequality, so ewma0.5 is on the class boundary and is excluded from check B but reported here."
+  }
+}

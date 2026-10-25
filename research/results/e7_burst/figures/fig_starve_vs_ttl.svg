@@ -1,0 +1,44 @@
+<svg viewBox="0 0 760 420" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Starvation vs TTL, by workload and capacity" class="viz">
+<style>.viz{--surface-1:#fcfcfb;--text-primary:#0b0b0b;--text-secondary:#52514e;--muted:#8a8a86;--grid:#e4e4e1;--s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--s4:#4a3aa7;font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .viz{--surface-1:#1a1a19;--text-primary:#f5f5f2;--text-secondary:#c3c2b7;--muted:#8e8e88;--grid:#2e2e2c;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#9085e9;}}:root[data-theme="dark"] .viz{--surface-1:#1a1a19;--text-primary:#f5f5f2;--text-secondary:#c3c2b7;--muted:#8e8e88;--grid:#2e2e2c;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#9085e9;}.viz .ttl{fill:var(--text-primary);font-size:15px;font-weight:600}.viz .sub{fill:var(--text-secondary);font-size:12px}.viz .ax{fill:var(--text-secondary);font-size:11px;font-variant-numeric:tabular-nums}.viz .axname{fill:var(--muted);font-size:11px;letter-spacing:.04em}.viz .gl{stroke:var(--grid);stroke-width:1}.viz .dl{font-size:11.5px;font-weight:600;font-variant-numeric:tabular-nums}.viz .ln{fill:none;stroke-width:2;stroke-linejoin:round;stroke-linecap:round}.viz .mk{stroke:var(--surface-1);stroke-width:2}</style>
+<rect x="0" y="0" width="760" height="420" fill="var(--surface-1)"/>
+<text class="ttl" x="64" y="24">Starvation vs TTL, by workload and capacity</text>
+<text class="sub" x="64" y="42">Same sign in every arm: longer leases reduce starvation. No reversal under bursts.</text>
+<line class="gl" x1="64" y1="364.0" x2="628" y2="364.0"/>
+<text class="ax" x="55" y="368.0" text-anchor="end">0.00</text>
+<line class="gl" x1="64" y1="266.0" x2="628" y2="266.0"/>
+<text class="ax" x="55" y="270.0" text-anchor="end">0.20</text>
+<line class="gl" x1="64" y1="168.0" x2="628" y2="168.0"/>
+<text class="ax" x="55" y="172.0" text-anchor="end">0.40</text>
+<line class="gl" x1="64" y1="70.0" x2="628" y2="70.0"/>
+<text class="ax" x="55" y="74.0" text-anchor="end">0.60</text>
+<text class="ax" x="64.0" y="383.0" text-anchor="middle">1</text>
+<text class="ax" x="144.6" y="383.0" text-anchor="middle">2</text>
+<text class="ax" x="305.7" y="383.0" text-anchor="middle">4</text>
+<text class="ax" x="628.0" y="383.0" text-anchor="middle">8</text>
+<text class="axname" x="346" y="410" text-anchor="middle">TTL (views)</text>
+<text class="axname" transform="translate(16,217) rotate(-90)" text-anchor="middle">starvation rate</text>
+<path class="ln" d="M64.0,364.0 L144.6,364.0 L305.7,364.0 L628.0,364.0" stroke="var(--s1)"/>
+<circle class="mk" cx="64.0" cy="364.0" r="4.5" fill="var(--s1)"><title>stationary/ample: 1, 0.00</title></circle>
+<circle class="mk" cx="144.6" cy="364.0" r="4.5" fill="var(--s1)"><title>stationary/ample: 2, 0.00</title></circle>
+<circle class="mk" cx="305.7" cy="364.0" r="4.5" fill="var(--s1)"><title>stationary/ample: 4, 0.00</title></circle>
+<circle class="mk" cx="628.0" cy="364.0" r="4.5" fill="var(--s1)"><title>stationary/ample: 8, 0.00</title></circle>
+<text class="dl" x="638.0" y="368.0" fill="var(--s1)">stationary/ample</text>
+<path class="ln" d="M64.0,91.0 L144.6,130.9 L305.7,176.4 L628.0,219.5" stroke="var(--s2)"/>
+<circle class="mk" cx="64.0" cy="91.0" r="4.5" fill="var(--s2)"><title>stationary/scarce: 1, 0.56</title></circle>
+<circle class="mk" cx="144.6" cy="130.9" r="4.5" fill="var(--s2)"><title>stationary/scarce: 2, 0.48</title></circle>
+<circle class="mk" cx="305.7" cy="176.4" r="4.5" fill="var(--s2)"><title>stationary/scarce: 4, 0.38</title></circle>
+<circle class="mk" cx="628.0" cy="219.5" r="4.5" fill="var(--s2)"><title>stationary/scarce: 8, 0.29</title></circle>
+<text class="dl" x="638.0" y="223.5" fill="var(--s2)">stationary/scarce</text>
+<path class="ln" d="M64.0,336.1 L144.6,335.5 L305.7,337.5 L628.0,339.7" stroke="var(--s3)"/>
+<circle class="mk" cx="64.0" cy="336.1" r="4.5" fill="var(--s3)"><title>bursty/ample: 1, 0.06</title></circle>
+<circle class="mk" cx="144.6" cy="335.5" r="4.5" fill="var(--s3)"><title>bursty/ample: 2, 0.06</title></circle>
+<circle class="mk" cx="305.7" cy="337.5" r="4.5" fill="var(--s3)"><title>bursty/ample: 4, 0.05</title></circle>
+<circle class="mk" cx="628.0" cy="339.7" r="4.5" fill="var(--s3)"><title>bursty/ample: 8, 0.05</title></circle>
+<text class="dl" x="638.0" y="343.7" fill="var(--s3)">bursty/ample</text>
+<path class="ln" d="M64.0,72.7 L144.6,108.5 L305.7,150.8 L628.0,192.2" stroke="var(--s4)"/>
+<circle class="mk" cx="64.0" cy="72.7" r="4.5" fill="var(--s4)"><title>bursty/scarce: 1, 0.59</title></circle>
+<circle class="mk" cx="144.6" cy="108.5" r="4.5" fill="var(--s4)"><title>bursty/scarce: 2, 0.52</title></circle>
+<circle class="mk" cx="305.7" cy="150.8" r="4.5" fill="var(--s4)"><title>bursty/scarce: 4, 0.44</title></circle>
+<circle class="mk" cx="628.0" cy="192.2" r="4.5" fill="var(--s4)"><title>bursty/scarce: 8, 0.35</title></circle>
+<text class="dl" x="638.0" y="196.2" fill="var(--s4)">bursty/scarce</text>
+</svg>

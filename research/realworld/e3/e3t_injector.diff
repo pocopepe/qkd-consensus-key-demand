@@ -1,0 +1,79 @@
+diff --git a/protocol/comm/clique.go b/protocol/comm/clique.go
+index 8511e70..d102746 100644
+--- a/protocol/comm/clique.go
++++ b/protocol/comm/clique.go
+@@ -47,6 +47,12 @@ func (hs *Clique) Disseminate(proposal *hotstuff.ProposeMsg, pc hotstuff.Partial
+ func (hs *Clique) Aggregate(proposal *hotstuff.ProposeMsg, pc hotstuff.PartialCert) error {
+ 	nextView := proposal.Block.View() + 1
+ 	leaderID := hs.leaderRotation.GetLeader(nextView)
++	if leaderID != hs.config.ID() {
++		if drop, role := e3tSuppress(proposal.Block.View(), hs.config.ID(), hs.leaderRotation); drop {
++			hs.logger.Debugf("E3T SUPPRESS_VOTE view=%d from=%d to=%d role=%s", proposal.Block.View(), hs.config.ID(), leaderID, role)
++			return nil
++		}
++	}
+ 	hs.logger.Debugf("E2 SEND_VOTE view=%d from=%d to=%d", proposal.Block.View(), hs.config.ID(), leaderID)
+ 	if leaderID == hs.config.ID() {
+ 		// if I am the leader in the next view, collect the vote for myself beforehand.
+diff --git a/protocol/comm/e3t_inject.go b/protocol/comm/e3t_inject.go
+new file mode 100644
+index 0000000..40ffee8
+--- /dev/null
++++ b/protocol/comm/e3t_inject.go
+@@ -0,0 +1,56 @@
++package comm
++
++// E3T experiment harness: sender-side vote suppression by role.
++// Consensus and safety rules are untouched: the replica still forms its vote;
++// only its transmission is suppressed, so the pair it would have crossed is
++// genuinely absent from the view's support. Configured by environment:
++//   E3T_ROLE  none|a|b|g|other|blind  (roles relative to the vote of view t,
++//             which is sent to c = leader(t+1): a = leader(t-1), b = leader(t),
++//             g = leader(t+2), other = everyone else; blind = every sender)
++//   E3T_P     suppression probability for each eligible sender and view
++//   E3T_SEED  seed string; the decision is a pure function of (seed, view, sender)
++import (
++	"crypto/sha256"
++	"encoding/binary"
++	"os"
++	"strconv"
++
++	"github.com/relab/hotstuff"
++	"github.com/relab/hotstuff/protocol/leaderrotation"
++)
++
++var (
++	e3tRole = os.Getenv("E3T_ROLE")
++	e3tSeed = os.Getenv("E3T_SEED")
++	e3tP, _ = strconv.ParseFloat(os.Getenv("E3T_P"), 64)
++)
++
++// e3tRoleOf names the sender's role for the vote of view v.
++func e3tRoleOf(v hotstuff.View, me hotstuff.ID, lr leaderrotation.LeaderRotation) string {
++	switch me {
++	case lr.GetLeader(v - 1):
++		return "a"
++	case lr.GetLeader(v):
++		return "b"
++	case lr.GetLeader(v + 2):
++		return "g"
++	}
++	return "other"
++}
++
++// e3tSuppress reports whether this sender's vote for view v is suppressed, and its role.
++func e3tSuppress(v hotstuff.View, me hotstuff.ID, lr leaderrotation.LeaderRotation) (bool, string) {
++	if e3tRole == "" || e3tRole == "none" || e3tP <= 0 {
++		return false, ""
++	}
++	role := e3tRoleOf(v, me, lr)
++	if e3tRole != "blind" && e3tRole != role {
++		return false, role
++	}
++	var buf [16]byte
++	binary.BigEndian.PutUint64(buf[:8], uint64(v))
++	binary.BigEndian.PutUint64(buf[8:], uint64(me))
++	h := sha256.Sum256(append([]byte(e3tSeed+"|"), buf[:]...))
++	u := float64(binary.BigEndian.Uint64(h[:8])>>11) / float64(uint64(1)<<53)
++	return u < e3tP, role
++}

@@ -1,0 +1,2910 @@
+{
+ "epochs": [
+  "epoch_17230.json",
+  "epoch_17231.json",
+  "epoch_17235.json",
+  "epoch_17242.json",
+  "epoch_17243.json",
+  "epoch_17248.json",
+  "epoch_17249.json",
+  "epoch_17254.json",
+  "epoch_17255.json",
+  "epoch_17256.json",
+  "epoch_17262.json",
+  "epoch_17263.json",
+  "epoch_17264.json",
+  "epoch_17268.json",
+  "epoch_17271.json",
+  "epoch_17272.json",
+  "epoch_17274.json",
+  "epoch_17275.json",
+  "epoch_17276.json",
+  "epoch_17278.json",
+  "epoch_17281.json",
+  "epoch_17289.json",
+  "epoch_17302.json",
+  "epoch_17306.json",
+  "epoch_17310.json",
+  "epoch_17311.json",
+  "epoch_17317.json",
+  "epoch_17318.json",
+  "epoch_17320.json",
+  "epoch_17323.json",
+  "epoch_17284.json",
+  "epoch_17285.json",
+  "epoch_17287.json",
+  "epoch_17292.json",
+  "epoch_17293.json",
+  "epoch_17297.json",
+  "epoch_17298.json",
+  "epoch_17299.json",
+  "epoch_17300.json",
+  "epoch_17301.json",
+  "epoch_17303.json",
+  "epoch_17304.json",
+  "epoch_17307.json",
+  "epoch_17308.json",
+  "epoch_17315.json",
+  "epoch_17319.json",
+  "epoch_17322.json",
+  "epoch_17324.json",
+  "epoch_17325.json",
+  "epoch_17327.json",
+  "epoch_17328.json",
+  "epoch_17331.json",
+  "epoch_17332.json",
+  "epoch_17339.json",
+  "epoch_17343.json",
+  "epoch_17345.json",
+  "epoch_17347.json",
+  "epoch_17348.json",
+  "epoch_17349.json",
+  "epoch_17350.json",
+  "epoch_17351.json",
+  "epoch_17352.json",
+  "epoch_17353.json",
+  "epoch_17354.json",
+  "epoch_17356.json",
+  "epoch_17360.json"
+ ],
+ "cells": {
+  "1": {
+   "delta": 1,
+   "per_epoch": [
+    {
+     "epoch": "epoch_17230.json",
+     "delta": 1,
+     "served": 322605,
+     "total": 331834,
+     "standing_per_pair": 2.3386544103951
+    },
+    {
+     "epoch": "epoch_17231.json",
+     "delta": 1,
+     "served": 322457,
+     "total": 331834,
+     "standing_per_pair": 2.375169512467077
+    },
+    {
+     "epoch": "epoch_17235.json",
+     "delta": 1,
+     "served": 322630,
+     "total": 331834,
+     "standing_per_pair": 2.358341104000078
+    },
+    {
+     "epoch": "epoch_17242.json",
+     "delta": 1,
+     "served": 322395,
+     "total": 331834,
+     "standing_per_pair": 2.40143565758783
+    },
+    {
+     "epoch": "epoch_17243.json",
+     "delta": 1,
+     "served": 322622,
+     "total": 331834,
+     "standing_per_pair": 2.3274903372512417
+    },
+    {
+     "epoch": "epoch_17248.json",
+     "delta": 1,
+     "served": 322238,
+     "total": 331834,
+     "standing_per_pair": 2.388927825932473
+    },
+    {
+     "epoch": "epoch_17249.json",
+     "delta": 1,
+     "served": 322435,
+     "total": 331834,
+     "standing_per_pair": 2.4199384545973506
+    },
+    {
+     "epoch": "epoch_17254.json",
+     "delta": 1,
+     "served": 322298,
+     "total": 331834,
+     "standing_per_pair": 2.4088119791393114
+    },
+    {
+     "epoch": "epoch_17255.json",
+     "delta": 1,
+     "served": 322541,
+     "total": 331834,
+     "standing_per_pair": 2.3636082240776153
+    },
+    {
+     "epoch": "epoch_17256.json",
+     "delta": 1,
+     "served": 322616,
+     "total": 331834,
+     "standing_per_pair": 2.333910931369299
+    },
+    {
+     "epoch": "epoch_17262.json",
+     "delta": 1,
+     "served": 322277,
+     "total": 331834,
+     "standing_per_pair": 2.3909921110870984
+    },
+    {
+     "epoch": "epoch_17263.json",
+     "delta": 1,
+     "served": 322492,
+     "total": 331834,
+     "standing_per_pair": 2.3200583366841196
+    },
+    {
+     "epoch": "epoch_17264.json",
+     "delta": 1,
+     "served": 322454,
+     "total": 331834,
+     "standing_per_pair": 2.3874095682379344
+    },
+    {
+     "epoch": "epoch_17268.json",
+     "delta": 1,
+     "served": 322691,
+     "total": 331834,
+     "standing_per_pair": 2.3125748186772674
+    },
+    {
+     "epoch": "epoch_17271.json",
+     "delta": 1,
+     "served": 322595,
+     "total": 331834,
+     "standing_per_pair": 2.364242362144928
+    },
+    {
+     "epoch": "epoch_17272.json",
+     "delta": 1,
+     "served": 322503,
+     "total": 331834,
+     "standing_per_pair": 2.389192875267238
+    },
+    {
+     "epoch": "epoch_17274.json",
+     "delta": 1,
+     "served": 322625,
+     "total": 331834,
+     "standing_per_pair": 2.3731212996056263
+    },
+    {
+     "epoch": "epoch_17275.json",
+     "delta": 1,
+     "served": 322889,
+     "total": 331834,
+     "standing_per_pair": 2.319507860642886
+    },
+    {
+     "epoch": "epoch_17276.json",
+     "delta": 1,
+     "served": 322730,
+     "total": 331834,
+     "standing_per_pair": 2.3261264883732746
+    },
+    {
+     "epoch": "epoch_17278.json",
+     "delta": 1,
+     "served": 322652,
+     "total": 331834,
+     "standing_per_pair": 2.3463366795273712
+    },
+    {
+     "epoch": "epoch_17281.json",
+     "delta": 1,
+     "served": 322327,
+     "total": 331834,
+     "standing_per_pair": 2.376056358644038
+    },
+    {
+     "epoch": "epoch_17289.json",
+     "delta": 1,
+     "served": 322777,
+     "total": 331834,
+     "standing_per_pair": 2.2870238906027884
+    },
+    {
+     "epoch": "epoch_17302.json",
+     "delta": 1,
+     "served": 326486,
+     "total": 335832,
+     "standing_per_pair": 2.3287191214654945
+    },
+    {
+     "epoch": "epoch_17306.json",
+     "delta": 1,
+     "served": 326348,
+     "total": 335832,
+     "standing_per_pair": 2.368868187595198
+    },
+    {
+     "epoch": "epoch_17310.json",
+     "delta": 1,
+     "served": 326371,
+     "total": 335832,
+     "standing_per_pair": 2.3568623247197826
+    },
+    {
+     "epoch": "epoch_17311.json",
+     "delta": 1,
+     "served": 326625,
+     "total": 335832,
+     "standing_per_pair": 2.3145541958654396
+    },
+    {
+     "epoch": "epoch_17317.json",
+     "delta": 1,
+     "served": 326296,
+     "total": 335832,
+     "standing_per_pair": 2.3743793465360135
+    },
+    {
+     "epoch": "epoch_17318.json",
+     "delta": 1,
+     "served": 326666,
+     "total": 335832,
+     "standing_per_pair": 2.3151979351020047
+    },
+    {
+     "epoch": "epoch_17320.json",
+     "delta": 1,
+     "served": 326194,
+     "total": 335832,
+     "standing_per_pair": 2.383595018797914
+    },
+    {
+     "epoch": "epoch_17323.json",
+     "delta": 1,
+     "served": 326342,
+     "total": 335832,
+     "standing_per_pair": 2.365513288857314
+    },
+    {
+     "epoch": "epoch_17284.json",
+     "delta": 1,
+     "served": 985425,
+     "total": 995834,
+     "standing_per_pair": 2.6706177459104152
+    },
+    {
+     "epoch": "epoch_17285.json",
+     "delta": 1,
+     "served": 985651,
+     "total": 995834,
+     "standing_per_pair": 2.6451362566930023
+    },
+    {
+     "epoch": "epoch_17287.json",
+     "delta": 1,
+     "served": 985576,
+     "total": 995834,
+     "standing_per_pair": 2.617811564884069
+    },
+    {
+     "epoch": "epoch_17292.json",
+     "delta": 1,
+     "served": 985689,
+     "total": 995834,
+     "standing_per_pair": 2.6437651637674935
+    },
+    {
+     "epoch": "epoch_17293.json",
+     "delta": 1,
+     "served": 985460,
+     "total": 995834,
+     "standing_per_pair": 2.688015606349385
+    },
+    {
+     "epoch": "epoch_17297.json",
+     "delta": 1,
+     "served": 997340,
+     "total": 1007832,
+     "standing_per_pair": 2.6236262066086646
+    },
+    {
+     "epoch": "epoch_17298.json",
+     "delta": 1,
+     "served": 997500,
+     "total": 1007832,
+     "standing_per_pair": 2.6039292729927443
+    },
+    {
+     "epoch": "epoch_17299.json",
+     "delta": 1,
+     "served": 997524,
+     "total": 1007832,
+     "standing_per_pair": 2.6193382370451097
+    },
+    {
+     "epoch": "epoch_17300.json",
+     "delta": 1,
+     "served": 997190,
+     "total": 1007832,
+     "standing_per_pair": 2.6707779961459495
+    },
+    {
+     "epoch": "epoch_17301.json",
+     "delta": 1,
+     "served": 997464,
+     "total": 1007832,
+     "standing_per_pair": 2.6488204149804613
+    },
+    {
+     "epoch": "epoch_17303.json",
+     "delta": 1,
+     "served": 997511,
+     "total": 1007832,
+     "standing_per_pair": 2.670771926039961
+    },
+    {
+     "epoch": "epoch_17304.json",
+     "delta": 1,
+     "served": 997286,
+     "total": 1007832,
+     "standing_per_pair": 2.673513279290713
+    },
+    {
+     "epoch": "epoch_17307.json",
+     "delta": 1,
+     "served": 997182,
+     "total": 1007832,
+     "standing_per_pair": 2.686875870534912
+    },
+    {
+     "epoch": "epoch_17308.json",
+     "delta": 1,
+     "served": 997067,
+     "total": 1007832,
+     "standing_per_pair": 2.705185831625532
+    },
+    {
+     "epoch": "epoch_17315.json",
+     "delta": 1,
+     "served": 997380,
+     "total": 1007832,
+     "standing_per_pair": 2.655571166623009
+    },
+    {
+     "epoch": "epoch_17319.json",
+     "delta": 1,
+     "served": 997451,
+     "total": 1007832,
+     "standing_per_pair": 2.6593179628911074
+    },
+    {
+     "epoch": "epoch_17322.json",
+     "delta": 1,
+     "served": 997285,
+     "total": 1007832,
+     "standing_per_pair": 2.655702094139873
+    },
+    {
+     "epoch": "epoch_17324.json",
+     "delta": 1,
+     "served": 997269,
+     "total": 1007832,
+     "standing_per_pair": 2.6801073755056284
+    },
+    {
+     "epoch": "epoch_17325.json",
+     "delta": 1,
+     "served": 997292,
+     "total": 1007832,
+     "standing_per_pair": 2.706866270428825
+    },
+    {
+     "epoch": "epoch_17327.json",
+     "delta": 1,
+     "served": 997279,
+     "total": 1007832,
+     "standing_per_pair": 2.6621538230227912
+    },
+    {
+     "epoch": "epoch_17328.json",
+     "delta": 1,
+     "served": 997414,
+     "total": 1007832,
+     "standing_per_pair": 2.623068550640793
+    },
+    {
+     "epoch": "epoch_17331.json",
+     "delta": 1,
+     "served": 997444,
+     "total": 1007832,
+     "standing_per_pair": 2.6421241075193205
+    },
+    {
+     "epoch": "epoch_17332.json",
+     "delta": 1,
+     "served": 997273,
+     "total": 1007832,
+     "standing_per_pair": 2.685126746147701
+    },
+    {
+     "epoch": "epoch_17339.json",
+     "delta": 1,
+     "served": 997338,
+     "total": 1007832,
+     "standing_per_pair": 2.6954019414066677
+    },
+    {
+     "epoch": "epoch_17343.json",
+     "delta": 1,
+     "served": 997401,
+     "total": 1007832,
+     "standing_per_pair": 2.6104528625919445
+    },
+    {
+     "epoch": "epoch_17345.json",
+     "delta": 1,
+     "served": 997275,
+     "total": 1007832,
+     "standing_per_pair": 2.6934215926744094
+    },
+    {
+     "epoch": "epoch_17347.json",
+     "delta": 1,
+     "served": 997305,
+     "total": 1007832,
+     "standing_per_pair": 2.6541156952862823
+    },
+    {
+     "epoch": "epoch_17348.json",
+     "delta": 1,
+     "served": 997185,
+     "total": 1007832,
+     "standing_per_pair": 2.7078726006155085
+    },
+    {
+     "epoch": "epoch_17349.json",
+     "delta": 1,
+     "served": 997374,
+     "total": 1007832,
+     "standing_per_pair": 2.6465294169009494
+    },
+    {
+     "epoch": "epoch_17350.json",
+     "delta": 1,
+     "served": 997284,
+     "total": 1007832,
+     "standing_per_pair": 2.652520658204939
+    },
+    {
+     "epoch": "epoch_17351.json",
+     "delta": 1,
+     "served": 997172,
+     "total": 1007832,
+     "standing_per_pair": 2.7004452189277113
+    },
+    {
+     "epoch": "epoch_17352.json",
+     "delta": 1,
+     "served": 997243,
+     "total": 1007832,
+     "standing_per_pair": 2.6952975355836615
+    },
+    {
+     "epoch": "epoch_17353.json",
+     "delta": 1,
+     "served": 997183,
+     "total": 1007832,
+     "standing_per_pair": 2.64334102369069
+    },
+    {
+     "epoch": "epoch_17354.json",
+     "delta": 1,
+     "served": 997217,
+     "total": 1007832,
+     "standing_per_pair": 2.678068987221493
+    },
+    {
+     "epoch": "epoch_17356.json",
+     "delta": 1,
+     "served": 997506,
+     "total": 1007832,
+     "standing_per_pair": 2.591457166297091
+    },
+    {
+     "epoch": "epoch_17360.json",
+     "delta": 1,
+     "served": 997323,
+     "total": 1007832,
+     "standing_per_pair": 2.6856145025104556
+    }
+   ],
+   "fill": 0.9857813091944104,
+   "standing_per_pair": 2.5228694420750055,
+   "ci": [
+    0.9841331082733685,
+    0.9870879041648107
+   ]
+  },
+  "2": {
+   "delta": 2,
+   "per_epoch": [
+    {
+     "epoch": "epoch_17230.json",
+     "delta": 2,
+     "served": 319958,
+     "total": 331834,
+     "standing_per_pair": 2.8421979205322683
+    },
+    {
+     "epoch": "epoch_17231.json",
+     "delta": 2,
+     "served": 319687,
+     "total": 331834,
+     "standing_per_pair": 2.915527471136601
+    },
+    {
+     "epoch": "epoch_17235.json",
+     "delta": 2,
+     "served": 319972,
+     "total": 331834,
+     "standing_per_pair": 2.925765521888885
+    },
+    {
+     "epoch": "epoch_17242.json",
+     "delta": 2,
+     "served": 319463,
+     "total": 331834,
+     "standing_per_pair": 2.9878969892289806
+    },
+    {
+     "epoch": "epoch_17243.json",
+     "delta": 2,
+     "served": 319970,
+     "total": 331834,
+     "standing_per_pair": 2.84206518061096
+    },
+    {
+     "epoch": "epoch_17248.json",
+     "delta": 2,
+     "served": 319420,
+     "total": 331834,
+     "standing_per_pair": 2.9580041024528327
+    },
+    {
+     "epoch": "epoch_17249.json",
+     "delta": 2,
+     "served": 319733,
+     "total": 331834,
+     "standing_per_pair": 2.9977923557303607
+    },
+    {
+     "epoch": "epoch_17254.json",
+     "delta": 2,
+     "served": 319431,
+     "total": 331834,
+     "standing_per_pair": 2.9999394418953593
+    },
+    {
+     "epoch": "epoch_17255.json",
+     "delta": 2,
+     "served": 319828,
+     "total": 331834,
+     "standing_per_pair": 2.898661895491635
+    },
+    {
+     "epoch": "epoch_17256.json",
+     "delta": 2,
+     "served": 319903,
+     "total": 331834,
+     "standing_per_pair": 2.8757172619585756
+    },
+    {
+     "epoch": "epoch_17262.json",
+     "delta": 2,
+     "served": 319472,
+     "total": 331834,
+     "standing_per_pair": 2.9455978706507584
+    },
+    {
+     "epoch": "epoch_17263.json",
+     "delta": 2,
+     "served": 319806,
+     "total": 331834,
+     "standing_per_pair": 2.825160141746146
+    },
+    {
+     "epoch": "epoch_17264.json",
+     "delta": 2,
+     "served": 319805,
+     "total": 331834,
+     "standing_per_pair": 2.89458326409332
+    },
+    {
+     "epoch": "epoch_17268.json",
+     "delta": 2,
+     "served": 320205,
+     "total": 331834,
+     "standing_per_pair": 2.7972236261561645
+    },
+    {
+     "epoch": "epoch_17271.json",
+     "delta": 2,
+     "served": 319987,
+     "total": 331834,
+     "standing_per_pair": 2.8915334029608033
+    },
+    {
+     "epoch": "epoch_17272.json",
+     "delta": 2,
+     "served": 319640,
+     "total": 331834,
+     "standing_per_pair": 2.986370264880002
+    },
+    {
+     "epoch": "epoch_17274.json",
+     "delta": 2,
+     "served": 319990,
+     "total": 331834,
+     "standing_per_pair": 2.9160420715234268
+    },
+    {
+     "epoch": "epoch_17275.json",
+     "delta": 2,
+     "served": 320392,
+     "total": 331834,
+     "standing_per_pair": 2.819289736664086
+    },
+    {
+     "epoch": "epoch_17276.json",
+     "delta": 2,
+     "served": 320143,
+     "total": 331834,
+     "standing_per_pair": 2.836838384768977
+    },
+    {
+     "epoch": "epoch_17278.json",
+     "delta": 2,
+     "served": 319894,
+     "total": 331834,
+     "standing_per_pair": 2.898514661805946
+    },
+    {
+     "epoch": "epoch_17281.json",
+     "delta": 2,
+     "served": 319606,
+     "total": 331834,
+     "standing_per_pair": 2.904583100500336
+    },
+    {
+     "epoch": "epoch_17289.json",
+     "delta": 2,
+     "served": 320189,
+     "total": 331834,
+     "standing_per_pair": 2.773480544058604
+    },
+    {
+     "epoch": "epoch_17302.json",
+     "delta": 2,
+     "served": 323757,
+     "total": 335832,
+     "standing_per_pair": 2.8723784861618484
+    },
+    {
+     "epoch": "epoch_17306.json",
+     "delta": 2,
+     "served": 323582,
+     "total": 335832,
+     "standing_per_pair": 2.8981698131979154
+    },
+    {
+     "epoch": "epoch_17310.json",
+     "delta": 2,
+     "served": 323733,
+     "total": 335832,
+     "standing_per_pair": 2.9033822233245474
+    },
+    {
+     "epoch": "epoch_17311.json",
+     "delta": 2,
+     "served": 323930,
+     "total": 335832,
+     "standing_per_pair": 2.8490064359911047
+    },
+    {
+     "epoch": "epoch_17317.json",
+     "delta": 2,
+     "served": 323626,
+     "total": 335832,
+     "standing_per_pair": 2.902698688279714
+    },
+    {
+     "epoch": "epoch_17318.json",
+     "delta": 2,
+     "served": 324132,
+     "total": 335832,
+     "standing_per_pair": 2.81038950847973
+    },
+    {
+     "epoch": "epoch_17320.json",
+     "delta": 2,
+     "served": 323513,
+     "total": 335832,
+     "standing_per_pair": 2.9119762962713853
+    },
+    {
+     "epoch": "epoch_17323.json",
+     "delta": 2,
+     "served": 323654,
+     "total": 335832,
+     "standing_per_pair": 2.8867356647511433
+    },
+    {
+     "epoch": "epoch_17284.json",
+     "delta": 2,
+     "served": 982118,
+     "total": 995834,
+     "standing_per_pair": 3.4330647668663845
+    },
+    {
+     "epoch": "epoch_17285.json",
+     "delta": 2,
+     "served": 982461,
+     "total": 995834,
+     "standing_per_pair": 3.376265569983599
+    },
+    {
+     "epoch": "epoch_17287.json",
+     "delta": 2,
+     "served": 982446,
+     "total": 995834,
+     "standing_per_pair": 3.355560311878333
+    },
+    {
+     "epoch": "epoch_17292.json",
+     "delta": 2,
+     "served": 982543,
+     "total": 995834,
+     "standing_per_pair": 3.3753860965735636
+    },
+    {
+     "epoch": "epoch_17293.json",
+     "delta": 2,
+     "served": 982212,
+     "total": 995834,
+     "standing_per_pair": 3.455508362122316
+    },
+    {
+     "epoch": "epoch_17297.json",
+     "delta": 2,
+     "served": 994042,
+     "total": 1007832,
+     "standing_per_pair": 3.3611858745832053
+    },
+    {
+     "epoch": "epoch_17298.json",
+     "delta": 2,
+     "served": 994256,
+     "total": 1007832,
+     "standing_per_pair": 3.325271438797223
+    },
+    {
+     "epoch": "epoch_17299.json",
+     "delta": 2,
+     "served": 994260,
+     "total": 1007832,
+     "standing_per_pair": 3.3574065799015056
+    },
+    {
+     "epoch": "epoch_17300.json",
+     "delta": 2,
+     "served": 993881,
+     "total": 1007832,
+     "standing_per_pair": 3.4489101124697252
+    },
+    {
+     "epoch": "epoch_17301.json",
+     "delta": 2,
+     "served": 994276,
+     "total": 1007832,
+     "standing_per_pair": 3.3675601862682063
+    },
+    {
+     "epoch": "epoch_17303.json",
+     "delta": 2,
+     "served": 994324,
+     "total": 1007832,
+     "standing_per_pair": 3.409006449721079
+    },
+    {
+     "epoch": "epoch_17304.json",
+     "delta": 2,
+     "served": 993995,
+     "total": 1007832,
+     "standing_per_pair": 3.4327241748508035
+    },
+    {
+     "epoch": "epoch_17307.json",
+     "delta": 2,
+     "served": 993827,
+     "total": 1007832,
+     "standing_per_pair": 3.450643641353858
+    },
+    {
+     "epoch": "epoch_17308.json",
+     "delta": 2,
+     "served": 993777,
+     "total": 1007832,
+     "standing_per_pair": 3.4654163649123593
+    },
+    {
+     "epoch": "epoch_17315.json",
+     "delta": 2,
+     "served": 994096,
+     "total": 1007832,
+     "standing_per_pair": 3.415013706766254
+    },
+    {
+     "epoch": "epoch_17319.json",
+     "delta": 2,
+     "served": 994189,
+     "total": 1007832,
+     "standing_per_pair": 3.4122692717693845
+    },
+    {
+     "epoch": "epoch_17322.json",
+     "delta": 2,
+     "served": 993973,
+     "total": 1007832,
+     "standing_per_pair": 3.4196562639057957
+    },
+    {
+     "epoch": "epoch_17324.json",
+     "delta": 2,
+     "served": 993975,
+     "total": 1007832,
+     "standing_per_pair": 3.4407432517931325
+    },
+    {
+     "epoch": "epoch_17325.json",
+     "delta": 2,
+     "served": 993974,
+     "total": 1007832,
+     "standing_per_pair": 3.476255379631432
+    },
+    {
+     "epoch": "epoch_17327.json",
+     "delta": 2,
+     "served": 994000,
+     "total": 1007832,
+     "standing_per_pair": 3.4109573350927302
+    },
+    {
+     "epoch": "epoch_17328.json",
+     "delta": 2,
+     "served": 994162,
+     "total": 1007832,
+     "standing_per_pair": 3.359529342658884
+    },
+    {
+     "epoch": "epoch_17331.json",
+     "delta": 2,
+     "served": 994126,
+     "total": 1007832,
+     "standing_per_pair": 3.3986780243019026
+    },
+    {
+     "epoch": "epoch_17332.json",
+     "delta": 2,
+     "served": 994010,
+     "total": 1007832,
+     "standing_per_pair": 3.42963659209308
+    },
+    {
+     "epoch": "epoch_17339.json",
+     "delta": 2,
+     "served": 994099,
+     "total": 1007832,
+     "standing_per_pair": 3.4729256463378815
+    },
+    {
+     "epoch": "epoch_17343.json",
+     "delta": 2,
+     "served": 994235,
+     "total": 1007832,
+     "standing_per_pair": 3.3194884488217693
+    },
+    {
+     "epoch": "epoch_17345.json",
+     "delta": 2,
+     "served": 993984,
+     "total": 1007832,
+     "standing_per_pair": 3.4701909235105943
+    },
+    {
+     "epoch": "epoch_17347.json",
+     "delta": 2,
+     "served": 994054,
+     "total": 1007832,
+     "standing_per_pair": 3.398537104456718
+    },
+    {
+     "epoch": "epoch_17348.json",
+     "delta": 2,
+     "served": 993960,
+     "total": 1007832,
+     "standing_per_pair": 3.4528685219712156
+    },
+    {
+     "epoch": "epoch_17349.json",
+     "delta": 2,
+     "served": 994138,
+     "total": 1007832,
+     "standing_per_pair": 3.378866318989673
+    },
+    {
+     "epoch": "epoch_17350.json",
+     "delta": 2,
+     "served": 993988,
+     "total": 1007832,
+     "standing_per_pair": 3.392380476111098
+    },
+    {
+     "epoch": "epoch_17351.json",
+     "delta": 2,
+     "served": 993970,
+     "total": 1007832,
+     "standing_per_pair": 3.4269056981018777
+    },
+    {
+     "epoch": "epoch_17352.json",
+     "delta": 2,
+     "served": 993886,
+     "total": 1007832,
+     "standing_per_pair": 3.4606228955993132
+    },
+    {
+     "epoch": "epoch_17353.json",
+     "delta": 2,
+     "served": 993909,
+     "total": 1007832,
+     "standing_per_pair": 3.3620477829404805
+    },
+    {
+     "epoch": "epoch_17354.json",
+     "delta": 2,
+     "served": 993995,
+     "total": 1007832,
+     "standing_per_pair": 3.4181595625414696
+    },
+    {
+     "epoch": "epoch_17356.json",
+     "delta": 2,
+     "served": 994286,
+     "total": 1007832,
+     "standing_per_pair": 3.3183012761697444
+    },
+    {
+     "epoch": "epoch_17360.json",
+     "delta": 2,
+     "served": 994047,
+     "total": 1007832,
+     "standing_per_pair": 3.463859616191868
+    }
+   ],
+   "fill": 0.9814955608398596,
+   "standing_per_pair": 3.1739291772307703,
+   "ci": [
+    0.9793795484088923,
+    0.9831588415360717
+   ]
+  },
+  "5": {
+   "delta": 5,
+   "per_epoch": [
+    {
+     "epoch": "epoch_17230.json",
+     "delta": 5,
+     "served": 317409,
+     "total": 331834,
+     "standing_per_pair": 3.454022191818801
+    },
+    {
+     "epoch": "epoch_17231.json",
+     "delta": 5,
+     "served": 316839,
+     "total": 331834,
+     "standing_per_pair": 3.6246393420462386
+    },
+    {
+     "epoch": "epoch_17235.json",
+     "delta": 5,
+     "served": 317222,
+     "total": 331834,
+     "standing_per_pair": 3.5549274924323893
+    },
+    {
+     "epoch": "epoch_17242.json",
+     "delta": 5,
+     "served": 316876,
+     "total": 331834,
+     "standing_per_pair": 3.619151227937549
+    },
+    {
+     "epoch": "epoch_17243.json",
+     "delta": 5,
+     "served": 317442,
+     "total": 331834,
+     "standing_per_pair": 3.4796483152649187
+    },
+    {
+     "epoch": "epoch_17248.json",
+     "delta": 5,
+     "served": 317103,
+     "total": 331834,
+     "standing_per_pair": 3.58332508193282
+    },
+    {
+     "epoch": "epoch_17249.json",
+     "delta": 5,
+     "served": 316701,
+     "total": 331834,
+     "standing_per_pair": 3.7007425112441474
+    },
+    {
+     "epoch": "epoch_17254.json",
+     "delta": 5,
+     "served": 316706,
+     "total": 331834,
+     "standing_per_pair": 3.6450475668126665
+    },
+    {
+     "epoch": "epoch_17255.json",
+     "delta": 5,
+     "served": 317317,
+     "total": 331834,
+     "standing_per_pair": 3.5759677027268655
+    },
+    {
+     "epoch": "epoch_17256.json",
+     "delta": 5,
+     "served": 317379,
+     "total": 331834,
+     "standing_per_pair": 3.5026843599654103
+    },
+    {
+     "epoch": "epoch_17262.json",
+     "delta": 5,
+     "served": 316533,
+     "total": 331834,
+     "standing_per_pair": 3.6095597999803113
+    },
+    {
+     "epoch": "epoch_17263.json",
+     "delta": 5,
+     "served": 316766,
+     "total": 331834,
+     "standing_per_pair": 3.536065795376173
+    },
+    {
+     "epoch": "epoch_17264.json",
+     "delta": 5,
+     "served": 316805,
+     "total": 331834,
+     "standing_per_pair": 3.612894083300974
+    },
+    {
+     "epoch": "epoch_17268.json",
+     "delta": 5,
+     "served": 317298,
+     "total": 331834,
+     "standing_per_pair": 3.5431533896609806
+    },
+    {
+     "epoch": "epoch_17271.json",
+     "delta": 5,
+     "served": 317420,
+     "total": 331834,
+     "standing_per_pair": 3.480517941127764
+    },
+    {
+     "epoch": "epoch_17272.json",
+     "delta": 5,
+     "served": 316904,
+     "total": 331834,
+     "standing_per_pair": 3.6643433592872166
+    },
+    {
+     "epoch": "epoch_17274.json",
+     "delta": 5,
+     "served": 317181,
+     "total": 331834,
+     "standing_per_pair": 3.5380977924418318
+    },
+    {
+     "epoch": "epoch_17275.json",
+     "delta": 5,
+     "served": 317022,
+     "total": 331834,
+     "standing_per_pair": 3.545095123580149
+    },
+    {
+     "epoch": "epoch_17276.json",
+     "delta": 5,
+     "served": 317218,
+     "total": 331834,
+     "standing_per_pair": 3.5405508261876206
+    },
+    {
+     "epoch": "epoch_17278.json",
+     "delta": 5,
+     "served": 317072,
+     "total": 331834,
+     "standing_per_pair": 3.5803759596378795
+    },
+    {
+     "epoch": "epoch_17281.json",
+     "delta": 5,
+     "served": 316936,
+     "total": 331834,
+     "standing_per_pair": 3.5657722722520178
+    },
+    {
+     "epoch": "epoch_17289.json",
+     "delta": 5,
+     "served": 316961,
+     "total": 331834,
+     "standing_per_pair": 3.5893629545696544
+    },
+    {
+     "epoch": "epoch_17302.json",
+     "delta": 5,
+     "served": 320870,
+     "total": 335832,
+     "standing_per_pair": 3.579178104458392
+    },
+    {
+     "epoch": "epoch_17306.json",
+     "delta": 5,
+     "served": 320631,
+     "total": 335832,
+     "standing_per_pair": 3.5875687143291537
+    },
+    {
+     "epoch": "epoch_17310.json",
+     "delta": 5,
+     "served": 321016,
+     "total": 335832,
+     "standing_per_pair": 3.5457207595394333
+    },
+    {
+     "epoch": "epoch_17311.json",
+     "delta": 5,
+     "served": 320716,
+     "total": 335832,
+     "standing_per_pair": 3.6266184913184882
+    },
+    {
+     "epoch": "epoch_17317.json",
+     "delta": 5,
+     "served": 320140,
+     "total": 335832,
+     "standing_per_pair": 3.7022878385971696
+    },
+    {
+     "epoch": "epoch_17318.json",
+     "delta": 5,
+     "served": 321178,
+     "total": 335832,
+     "standing_per_pair": 3.4577184951018927
+    },
+    {
+     "epoch": "epoch_17320.json",
+     "delta": 5,
+     "served": 320744,
+     "total": 335832,
+     "standing_per_pair": 3.558122618732335
+    },
+    {
+     "epoch": "epoch_17323.json",
+     "delta": 5,
+     "served": 320614,
+     "total": 335832,
+     "standing_per_pair": 3.5698563567498036
+    },
+    {
+     "epoch": "epoch_17284.json",
+     "delta": 5,
+     "served": 978221,
+     "total": 995834,
+     "standing_per_pair": 4.459116584452735
+    },
+    {
+     "epoch": "epoch_17285.json",
+     "delta": 5,
+     "served": 979111,
+     "total": 995834,
+     "standing_per_pair": 4.209945681327458
+    },
+    {
+     "epoch": "epoch_17287.json",
+     "delta": 5,
+     "served": 979217,
+     "total": 995834,
+     "standing_per_pair": 4.110410589563742
+    },
+    {
+     "epoch": "epoch_17292.json",
+     "delta": 5,
+     "served": 978777,
+     "total": 995834,
+     "standing_per_pair": 4.2838623801997215
+    },
+    {
+     "epoch": "epoch_17293.json",
+     "delta": 5,
+     "served": 979093,
+     "total": 995834,
+     "standing_per_pair": 4.228923409208477
+    },
+    {
+     "epoch": "epoch_17297.json",
+     "delta": 5,
+     "served": 990205,
+     "total": 1007832,
+     "standing_per_pair": 4.2723876481747896
+    },
+    {
+     "epoch": "epoch_17298.json",
+     "delta": 5,
+     "served": 990853,
+     "total": 1007832,
+     "standing_per_pair": 4.22385444259384
+    },
+    {
+     "epoch": "epoch_17299.json",
+     "delta": 5,
+     "served": 990891,
+     "total": 1007832,
+     "standing_per_pair": 4.159811322428622
+    },
+    {
+     "epoch": "epoch_17300.json",
+     "delta": 5,
+     "served": 990238,
+     "total": 1007832,
+     "standing_per_pair": 4.3127470824969425
+    },
+    {
+     "epoch": "epoch_17301.json",
+     "delta": 5,
+     "served": 990719,
+     "total": 1007832,
+     "standing_per_pair": 4.210023239167312
+    },
+    {
+     "epoch": "epoch_17303.json",
+     "delta": 5,
+     "served": 990677,
+     "total": 1007832,
+     "standing_per_pair": 4.233256569839138
+    },
+    {
+     "epoch": "epoch_17304.json",
+     "delta": 5,
+     "served": 990608,
+     "total": 1007832,
+     "standing_per_pair": 4.2530474500185145
+    },
+    {
+     "epoch": "epoch_17307.json",
+     "delta": 5,
+     "served": 990776,
+     "total": 1007832,
+     "standing_per_pair": 4.192173111951899
+    },
+    {
+     "epoch": "epoch_17308.json",
+     "delta": 5,
+     "served": 989775,
+     "total": 1007832,
+     "standing_per_pair": 4.389774252758279
+    },
+    {
+     "epoch": "epoch_17315.json",
+     "delta": 5,
+     "served": 990732,
+     "total": 1007832,
+     "standing_per_pair": 4.20469172499805
+    },
+    {
+     "epoch": "epoch_17319.json",
+     "delta": 5,
+     "served": 990609,
+     "total": 1007832,
+     "standing_per_pair": 4.225146067761994
+    },
+    {
+     "epoch": "epoch_17322.json",
+     "delta": 5,
+     "served": 990508,
+     "total": 1007832,
+     "standing_per_pair": 4.224297280172279
+    },
+    {
+     "epoch": "epoch_17324.json",
+     "delta": 5,
+     "served": 990227,
+     "total": 1007832,
+     "standing_per_pair": 4.28766349013351
+    },
+    {
+     "epoch": "epoch_17325.json",
+     "delta": 5,
+     "served": 990539,
+     "total": 1007832,
+     "standing_per_pair": 4.274587688050716
+    },
+    {
+     "epoch": "epoch_17327.json",
+     "delta": 5,
+     "served": 990623,
+     "total": 1007832,
+     "standing_per_pair": 4.27681219512309
+    },
+    {
+     "epoch": "epoch_17328.json",
+     "delta": 5,
+     "served": 990662,
+     "total": 1007832,
+     "standing_per_pair": 4.223800978968017
+    },
+    {
+     "epoch": "epoch_17331.json",
+     "delta": 5,
+     "served": 990866,
+     "total": 1007832,
+     "standing_per_pair": 4.201231204267004
+    },
+    {
+     "epoch": "epoch_17332.json",
+     "delta": 5,
+     "served": 990635,
+     "total": 1007832,
+     "standing_per_pair": 4.269062070569184
+    },
+    {
+     "epoch": "epoch_17339.json",
+     "delta": 5,
+     "served": 990650,
+     "total": 1007832,
+     "standing_per_pair": 4.271110217716025
+    },
+    {
+     "epoch": "epoch_17343.json",
+     "delta": 5,
+     "served": 990843,
+     "total": 1007832,
+     "standing_per_pair": 4.1299558329749635
+    },
+    {
+     "epoch": "epoch_17345.json",
+     "delta": 5,
+     "served": 990476,
+     "total": 1007832,
+     "standing_per_pair": 4.273496796618297
+    },
+    {
+     "epoch": "epoch_17347.json",
+     "delta": 5,
+     "served": 990340,
+     "total": 1007832,
+     "standing_per_pair": 4.304896941273593
+    },
+    {
+     "epoch": "epoch_17348.json",
+     "delta": 5,
+     "served": 990707,
+     "total": 1007832,
+     "standing_per_pair": 4.245948741223444
+    },
+    {
+     "epoch": "epoch_17349.json",
+     "delta": 5,
+     "served": 990667,
+     "total": 1007832,
+     "standing_per_pair": 4.2194393743495064
+    },
+    {
+     "epoch": "epoch_17350.json",
+     "delta": 5,
+     "served": 990661,
+     "total": 1007832,
+     "standing_per_pair": 4.195713758081996
+    },
+    {
+     "epoch": "epoch_17351.json",
+     "delta": 5,
+     "served": 990266,
+     "total": 1007832,
+     "standing_per_pair": 4.286626015633791
+    },
+    {
+     "epoch": "epoch_17352.json",
+     "delta": 5,
+     "served": 990016,
+     "total": 1007832,
+     "standing_per_pair": 4.358285111010566
+    },
+    {
+     "epoch": "epoch_17353.json",
+     "delta": 5,
+     "served": 990417,
+     "total": 1007832,
+     "standing_per_pair": 4.183692473488812
+    },
+    {
+     "epoch": "epoch_17354.json",
+     "delta": 5,
+     "served": 990368,
+     "total": 1007832,
+     "standing_per_pair": 4.268709257331871
+    },
+    {
+     "epoch": "epoch_17356.json",
+     "delta": 5,
+     "served": 990896,
+     "total": 1007832,
+     "standing_per_pair": 4.155718156574181
+    },
+    {
+     "epoch": "epoch_17360.json",
+     "delta": 5,
+     "served": 990291,
+     "total": 1007832,
+     "standing_per_pair": 4.3028489808992445
+    }
+   ],
+   "fill": 0.9769138526060073,
+   "standing_per_pair": 3.9408497665123132,
+   "ci": [
+    0.9743358265113043,
+    0.978947586364893
+   ]
+  },
+  "10": {
+   "delta": 10,
+   "per_epoch": [
+    {
+     "epoch": "epoch_17230.json",
+     "delta": 10,
+     "served": 314246,
+     "total": 331834,
+     "standing_per_pair": 4.221909864857845
+    },
+    {
+     "epoch": "epoch_17231.json",
+     "delta": 10,
+     "served": 313599,
+     "total": 331834,
+     "standing_per_pair": 4.404235680663051
+    },
+    {
+     "epoch": "epoch_17235.json",
+     "delta": 10,
+     "served": 313763,
+     "total": 331834,
+     "standing_per_pair": 4.347589887887144
+    },
+    {
+     "epoch": "epoch_17242.json",
+     "delta": 10,
+     "served": 313399,
+     "total": 331834,
+     "standing_per_pair": 4.38211374763687
+    },
+    {
+     "epoch": "epoch_17243.json",
+     "delta": 10,
+     "served": 314188,
+     "total": 331834,
+     "standing_per_pair": 4.157994659980593
+    },
+    {
+     "epoch": "epoch_17248.json",
+     "delta": 10,
+     "served": 314189,
+     "total": 331834,
+     "standing_per_pair": 4.225971706449897
+    },
+    {
+     "epoch": "epoch_17249.json",
+     "delta": 10,
+     "served": 313836,
+     "total": 331834,
+     "standing_per_pair": 4.375887886570939
+    },
+    {
+     "epoch": "epoch_17254.json",
+     "delta": 10,
+     "served": 313962,
+     "total": 331834,
+     "standing_per_pair": 4.304302466781297
+    },
+    {
+     "epoch": "epoch_17255.json",
+     "delta": 10,
+     "served": 314364,
+     "total": 331834,
+     "standing_per_pair": 4.272540888918355
+    },
+    {
+     "epoch": "epoch_17256.json",
+     "delta": 10,
+     "served": 313972,
+     "total": 331834,
+     "standing_per_pair": 4.183892003374034
+    },
+    {
+     "epoch": "epoch_17262.json",
+     "delta": 10,
+     "served": 313789,
+     "total": 331834,
+     "standing_per_pair": 4.289856345269594
+    },
+    {
+     "epoch": "epoch_17263.json",
+     "delta": 10,
+     "served": 314006,
+     "total": 331834,
+     "standing_per_pair": 4.226572264904684
+    },
+    {
+     "epoch": "epoch_17264.json",
+     "delta": 10,
+     "served": 313654,
+     "total": 331834,
+     "standing_per_pair": 4.319517762323502
+    },
+    {
+     "epoch": "epoch_17268.json",
+     "delta": 10,
+     "served": 314169,
+     "total": 331834,
+     "standing_per_pair": 4.262337709302155
+    },
+    {
+     "epoch": "epoch_17271.json",
+     "delta": 10,
+     "served": 314194,
+     "total": 331834,
+     "standing_per_pair": 4.190391380429171
+    },
+    {
+     "epoch": "epoch_17272.json",
+     "delta": 10,
+     "served": 314028,
+     "total": 331834,
+     "standing_per_pair": 4.253785814307038
+    },
+    {
+     "epoch": "epoch_17274.json",
+     "delta": 10,
+     "served": 313594,
+     "total": 331834,
+     "standing_per_pair": 4.314445518800708
+    },
+    {
+     "epoch": "epoch_17275.json",
+     "delta": 10,
+     "served": 313872,
+     "total": 331834,
+     "standing_per_pair": 4.2840734767842905
+    },
+    {
+     "epoch": "epoch_17276.json",
+     "delta": 10,
+     "served": 314028,
+     "total": 331834,
+     "standing_per_pair": 4.2814417822795505
+    },
+    {
+     "epoch": "epoch_17278.json",
+     "delta": 10,
+     "served": 313980,
+     "total": 331834,
+     "standing_per_pair": 4.3046619408384625
+    },
+    {
+     "epoch": "epoch_17281.json",
+     "delta": 10,
+     "served": 314173,
+     "total": 331834,
+     "standing_per_pair": 4.3064504139620015
+    },
+    {
+     "epoch": "epoch_17289.json",
+     "delta": 10,
+     "served": 313780,
+     "total": 331834,
+     "standing_per_pair": 4.33607724688506
+    },
+    {
+     "epoch": "epoch_17302.json",
+     "delta": 10,
+     "served": 317647,
+     "total": 335832,
+     "standing_per_pair": 4.308561984073269
+    },
+    {
+     "epoch": "epoch_17306.json",
+     "delta": 10,
+     "served": 317557,
+     "total": 335832,
+     "standing_per_pair": 4.313682751740015
+    },
+    {
+     "epoch": "epoch_17310.json",
+     "delta": 10,
+     "served": 317596,
+     "total": 335832,
+     "standing_per_pair": 4.23749381693648
+    },
+    {
+     "epoch": "epoch_17311.json",
+     "delta": 10,
+     "served": 317822,
+     "total": 335832,
+     "standing_per_pair": 4.299907516783602
+    },
+    {
+     "epoch": "epoch_17317.json",
+     "delta": 10,
+     "served": 317190,
+     "total": 335832,
+     "standing_per_pair": 4.447259484083779
+    },
+    {
+     "epoch": "epoch_17318.json",
+     "delta": 10,
+     "served": 318151,
+     "total": 335832,
+     "standing_per_pair": 4.151619507232608
+    },
+    {
+     "epoch": "epoch_17320.json",
+     "delta": 10,
+     "served": 317667,
+     "total": 335832,
+     "standing_per_pair": 4.258222668757348
+    },
+    {
+     "epoch": "epoch_17323.json",
+     "delta": 10,
+     "served": 317426,
+     "total": 335832,
+     "standing_per_pair": 4.386936045053339
+    },
+    {
+     "epoch": "epoch_17284.json",
+     "delta": 10,
+     "served": 974404,
+     "total": 995834,
+     "standing_per_pair": 5.442338496461974
+    },
+    {
+     "epoch": "epoch_17285.json",
+     "delta": 10,
+     "served": 975059,
+     "total": 995834,
+     "standing_per_pair": 5.204837591501433
+    },
+    {
+     "epoch": "epoch_17287.json",
+     "delta": 10,
+     "served": 975653,
+     "total": 995834,
+     "standing_per_pair": 4.952643474620029
+    },
+    {
+     "epoch": "epoch_17292.json",
+     "delta": 10,
+     "served": 975027,
+     "total": 995834,
+     "standing_per_pair": 5.258049175723206
+    },
+    {
+     "epoch": "epoch_17293.json",
+     "delta": 10,
+     "served": 975522,
+     "total": 995834,
+     "standing_per_pair": 5.148161096269917
+    },
+    {
+     "epoch": "epoch_17297.json",
+     "delta": 10,
+     "served": 986800,
+     "total": 1007832,
+     "standing_per_pair": 5.146653947459964
+    },
+    {
+     "epoch": "epoch_17298.json",
+     "delta": 10,
+     "served": 987072,
+     "total": 1007832,
+     "standing_per_pair": 5.0979308876409375
+    },
+    {
+     "epoch": "epoch_17299.json",
+     "delta": 10,
+     "served": 987116,
+     "total": 1007832,
+     "standing_per_pair": 5.042197135563677
+    },
+    {
+     "epoch": "epoch_17300.json",
+     "delta": 10,
+     "served": 986557,
+     "total": 1007832,
+     "standing_per_pair": 5.1744147834162835
+    },
+    {
+     "epoch": "epoch_17301.json",
+     "delta": 10,
+     "served": 986933,
+     "total": 1007832,
+     "standing_per_pair": 5.092517380347704
+    },
+    {
+     "epoch": "epoch_17303.json",
+     "delta": 10,
+     "served": 987139,
+     "total": 1007832,
+     "standing_per_pair": 5.098927599044285
+    },
+    {
+     "epoch": "epoch_17304.json",
+     "delta": 10,
+     "served": 987077,
+     "total": 1007832,
+     "standing_per_pair": 5.103406776946485
+    },
+    {
+     "epoch": "epoch_17307.json",
+     "delta": 10,
+     "served": 986346,
+     "total": 1007832,
+     "standing_per_pair": 5.180485869960587
+    },
+    {
+     "epoch": "epoch_17308.json",
+     "delta": 10,
+     "served": 986156,
+     "total": 1007832,
+     "standing_per_pair": 5.284442178271543
+    },
+    {
+     "epoch": "epoch_17315.json",
+     "delta": 10,
+     "served": 987041,
+     "total": 1007832,
+     "standing_per_pair": 5.098500497048294
+    },
+    {
+     "epoch": "epoch_17319.json",
+     "delta": 10,
+     "served": 986757,
+     "total": 1007832,
+     "standing_per_pair": 5.075131289388567
+    },
+    {
+     "epoch": "epoch_17322.json",
+     "delta": 10,
+     "served": 986503,
+     "total": 1007832,
+     "standing_per_pair": 5.144754844761709
+    },
+    {
+     "epoch": "epoch_17324.json",
+     "delta": 10,
+     "served": 986508,
+     "total": 1007832,
+     "standing_per_pair": 5.205499049094549
+    },
+    {
+     "epoch": "epoch_17325.json",
+     "delta": 10,
+     "served": 986771,
+     "total": 1007832,
+     "standing_per_pair": 5.188597399286436
+    },
+    {
+     "epoch": "epoch_17327.json",
+     "delta": 10,
+     "served": 986759,
+     "total": 1007832,
+     "standing_per_pair": 5.182787654151509
+    },
+    {
+     "epoch": "epoch_17328.json",
+     "delta": 10,
+     "served": 987063,
+     "total": 1007832,
+     "standing_per_pair": 5.119065035582494
+    },
+    {
+     "epoch": "epoch_17331.json",
+     "delta": 10,
+     "served": 986868,
+     "total": 1007832,
+     "standing_per_pair": 5.121328624798811
+    },
+    {
+     "epoch": "epoch_17332.json",
+     "delta": 10,
+     "served": 986877,
+     "total": 1007832,
+     "standing_per_pair": 5.111345028092917
+    },
+    {
+     "epoch": "epoch_17339.json",
+     "delta": 10,
+     "served": 986524,
+     "total": 1007832,
+     "standing_per_pair": 5.188039930091056
+    },
+    {
+     "epoch": "epoch_17343.json",
+     "delta": 10,
+     "served": 986949,
+     "total": 1007832,
+     "standing_per_pair": 5.089098136337382
+    },
+    {
+     "epoch": "epoch_17345.json",
+     "delta": 10,
+     "served": 986762,
+     "total": 1007832,
+     "standing_per_pair": 5.0839242581513355
+    },
+    {
+     "epoch": "epoch_17347.json",
+     "delta": 10,
+     "served": 986663,
+     "total": 1007832,
+     "standing_per_pair": 5.1797650215278646
+    },
+    {
+     "epoch": "epoch_17348.json",
+     "delta": 10,
+     "served": 986671,
+     "total": 1007832,
+     "standing_per_pair": 5.239153911272794
+    },
+    {
+     "epoch": "epoch_17349.json",
+     "delta": 10,
+     "served": 986616,
+     "total": 1007832,
+     "standing_per_pair": 5.16023198077364
+    },
+    {
+     "epoch": "epoch_17350.json",
+     "delta": 10,
+     "served": 987207,
+     "total": 1007832,
+     "standing_per_pair": 5.032675754082263
+    },
+    {
+     "epoch": "epoch_17351.json",
+     "delta": 10,
+     "served": 986786,
+     "total": 1007832,
+     "standing_per_pair": 5.1469913986598135
+    },
+    {
+     "epoch": "epoch_17352.json",
+     "delta": 10,
+     "served": 985958,
+     "total": 1007832,
+     "standing_per_pair": 5.352331924601812
+    },
+    {
+     "epoch": "epoch_17353.json",
+     "delta": 10,
+     "served": 986700,
+     "total": 1007832,
+     "standing_per_pair": 5.112054576789876
+    },
+    {
+     "epoch": "epoch_17354.json",
+     "delta": 10,
+     "served": 986467,
+     "total": 1007832,
+     "standing_per_pair": 5.125981267652919
+    },
+    {
+     "epoch": "epoch_17356.json",
+     "delta": 10,
+     "served": 987041,
+     "total": 1007832,
+     "standing_per_pair": 5.101176713392475
+    },
+    {
+     "epoch": "epoch_17360.json",
+     "delta": 10,
+     "served": 986146,
+     "total": 1007832,
+     "standing_per_pair": 5.240643188430565
+    }
+   ],
+   "fill": 0.9719399261173687,
+   "standing_per_pair": 4.760239668197937,
+   "ci": [
+    0.9688446694445049,
+    0.9743873149696805
+   ]
+  },
+  "20": {
+   "delta": 20,
+   "per_epoch": [
+    {
+     "epoch": "epoch_17230.json",
+     "delta": 20,
+     "served": 309152,
+     "total": 331834,
+     "standing_per_pair": 5.405379827033425
+    },
+    {
+     "epoch": "epoch_17231.json",
+     "delta": 20,
+     "served": 308511,
+     "total": 331834,
+     "standing_per_pair": 5.4987133555303185
+    },
+    {
+     "epoch": "epoch_17235.json",
+     "delta": 20,
+     "served": 309251,
+     "total": 331834,
+     "standing_per_pair": 5.372368341370915
+    },
+    {
+     "epoch": "epoch_17242.json",
+     "delta": 20,
+     "served": 308693,
+     "total": 331834,
+     "standing_per_pair": 5.503464583697471
+    },
+    {
+     "epoch": "epoch_17243.json",
+     "delta": 20,
+     "served": 310135,
+     "total": 331834,
+     "standing_per_pair": 5.242012429048719
+    },
+    {
+     "epoch": "epoch_17248.json",
+     "delta": 20,
+     "served": 309357,
+     "total": 331834,
+     "standing_per_pair": 5.3171354753682065
+    },
+    {
+     "epoch": "epoch_17249.json",
+     "delta": 20,
+     "served": 309425,
+     "total": 331834,
+     "standing_per_pair": 5.39356310398458
+    },
+    {
+     "epoch": "epoch_17254.json",
+     "delta": 20,
+     "served": 309343,
+     "total": 331834,
+     "standing_per_pair": 5.432154832436298
+    },
+    {
+     "epoch": "epoch_17255.json",
+     "delta": 20,
+     "served": 309656,
+     "total": 331834,
+     "standing_per_pair": 5.2993100107139055
+    },
+    {
+     "epoch": "epoch_17256.json",
+     "delta": 20,
+     "served": 309123,
+     "total": 331834,
+     "standing_per_pair": 5.400632760442183
+    },
+    {
+     "epoch": "epoch_17262.json",
+     "delta": 20,
+     "served": 309274,
+     "total": 331834,
+     "standing_per_pair": 5.380261415848486
+    },
+    {
+     "epoch": "epoch_17263.json",
+     "delta": 20,
+     "served": 308764,
+     "total": 331834,
+     "standing_per_pair": 5.46986430679482
+    },
+    {
+     "epoch": "epoch_17264.json",
+     "delta": 20,
+     "served": 308784,
+     "total": 331834,
+     "standing_per_pair": 5.376561918365953
+    },
+    {
+     "epoch": "epoch_17268.json",
+     "delta": 20,
+     "served": 309622,
+     "total": 331834,
+     "standing_per_pair": 5.370711603650363
+    },
+    {
+     "epoch": "epoch_17271.json",
+     "delta": 20,
+     "served": 309655,
+     "total": 331834,
+     "standing_per_pair": 5.249944105730433
+    },
+    {
+     "epoch": "epoch_17272.json",
+     "delta": 20,
+     "served": 309430,
+     "total": 331834,
+     "standing_per_pair": 5.318249773194113
+    },
+    {
+     "epoch": "epoch_17274.json",
+     "delta": 20,
+     "served": 309367,
+     "total": 331834,
+     "standing_per_pair": 5.385968945459535
+    },
+    {
+     "epoch": "epoch_17275.json",
+     "delta": 20,
+     "served": 309737,
+     "total": 331834,
+     "standing_per_pair": 5.353087186163362
+    },
+    {
+     "epoch": "epoch_17276.json",
+     "delta": 20,
+     "served": 309750,
+     "total": 331834,
+     "standing_per_pair": 5.2731598157081985
+    },
+    {
+     "epoch": "epoch_17278.json",
+     "delta": 20,
+     "served": 309346,
+     "total": 331834,
+     "standing_per_pair": 5.367525415031095
+    },
+    {
+     "epoch": "epoch_17281.json",
+     "delta": 20,
+     "served": 310003,
+     "total": 331834,
+     "standing_per_pair": 5.314637381800482
+    },
+    {
+     "epoch": "epoch_17289.json",
+     "delta": 20,
+     "served": 309184,
+     "total": 331834,
+     "standing_per_pair": 5.445627145184755
+    },
+    {
+     "epoch": "epoch_17302.json",
+     "delta": 20,
+     "served": 313407,
+     "total": 335832,
+     "standing_per_pair": 5.2954304883534205
+    },
+    {
+     "epoch": "epoch_17306.json",
+     "delta": 20,
+     "served": 312662,
+     "total": 335832,
+     "standing_per_pair": 5.473089345793345
+    },
+    {
+     "epoch": "epoch_17310.json",
+     "delta": 20,
+     "served": 313219,
+     "total": 335832,
+     "standing_per_pair": 5.209302550434882
+    },
+    {
+     "epoch": "epoch_17311.json",
+     "delta": 20,
+     "served": 313406,
+     "total": 335832,
+     "standing_per_pair": 5.248994665399927
+    },
+    {
+     "epoch": "epoch_17317.json",
+     "delta": 20,
+     "served": 312790,
+     "total": 335832,
+     "standing_per_pair": 5.466781570056737
+    },
+    {
+     "epoch": "epoch_17318.json",
+     "delta": 20,
+     "served": 313580,
+     "total": 335832,
+     "standing_per_pair": 5.179015698325353
+    },
+    {
+     "epoch": "epoch_17320.json",
+     "delta": 20,
+     "served": 313566,
+     "total": 335832,
+     "standing_per_pair": 5.25343343940878
+    },
+    {
+     "epoch": "epoch_17323.json",
+     "delta": 20,
+     "served": 313148,
+     "total": 335832,
+     "standing_per_pair": 5.344512312178498
+    },
+    {
+     "epoch": "epoch_17284.json",
+     "delta": 20,
+     "served": 969573,
+     "total": 995834,
+     "standing_per_pair": 6.683859434594999
+    },
+    {
+     "epoch": "epoch_17285.json",
+     "delta": 20,
+     "served": 969710,
+     "total": 995834,
+     "standing_per_pair": 6.499700466428857
+    },
+    {
+     "epoch": "epoch_17287.json",
+     "delta": 20,
+     "served": 970315,
+     "total": 995834,
+     "standing_per_pair": 6.273346906067822
+    },
+    {
+     "epoch": "epoch_17292.json",
+     "delta": 20,
+     "served": 969418,
+     "total": 995834,
+     "standing_per_pair": 6.610188999753928
+    },
+    {
+     "epoch": "epoch_17293.json",
+     "delta": 20,
+     "served": 970162,
+     "total": 995834,
+     "standing_per_pair": 6.453268124530604
+    },
+    {
+     "epoch": "epoch_17297.json",
+     "delta": 20,
+     "served": 980847,
+     "total": 1007832,
+     "standing_per_pair": 6.583413155227085
+    },
+    {
+     "epoch": "epoch_17298.json",
+     "delta": 20,
+     "served": 981901,
+     "total": 1007832,
+     "standing_per_pair": 6.335079282588182
+    },
+    {
+     "epoch": "epoch_17299.json",
+     "delta": 20,
+     "served": 981198,
+     "total": 1007832,
+     "standing_per_pair": 6.466489046026813
+    },
+    {
+     "epoch": "epoch_17300.json",
+     "delta": 20,
+     "served": 981329,
+     "total": 1007832,
+     "standing_per_pair": 6.4851161001156585
+    },
+    {
+     "epoch": "epoch_17301.json",
+     "delta": 20,
+     "served": 981484,
+     "total": 1007832,
+     "standing_per_pair": 6.428786450402798
+    },
+    {
+     "epoch": "epoch_17303.json",
+     "delta": 20,
+     "served": 981369,
+     "total": 1007832,
+     "standing_per_pair": 6.481976454525801
+    },
+    {
+     "epoch": "epoch_17304.json",
+     "delta": 20,
+     "served": 981718,
+     "total": 1007832,
+     "standing_per_pair": 6.425687100978081
+    },
+    {
+     "epoch": "epoch_17307.json",
+     "delta": 20,
+     "served": 981417,
+     "total": 1007832,
+     "standing_per_pair": 6.37854007413934
+    },
+    {
+     "epoch": "epoch_17308.json",
+     "delta": 20,
+     "served": 981178,
+     "total": 1007832,
+     "standing_per_pair": 6.495619251201064
+    },
+    {
+     "epoch": "epoch_17315.json",
+     "delta": 20,
+     "served": 981654,
+     "total": 1007832,
+     "standing_per_pair": 6.390165214277077
+    },
+    {
+     "epoch": "epoch_17319.json",
+     "delta": 20,
+     "served": 981301,
+     "total": 1007832,
+     "standing_per_pair": 6.418846465073777
+    },
+    {
+     "epoch": "epoch_17322.json",
+     "delta": 20,
+     "served": 980827,
+     "total": 1007832,
+     "standing_per_pair": 6.518548002631625
+    },
+    {
+     "epoch": "epoch_17324.json",
+     "delta": 20,
+     "served": 981055,
+     "total": 1007832,
+     "standing_per_pair": 6.526643936454395
+    },
+    {
+     "epoch": "epoch_17325.json",
+     "delta": 20,
+     "served": 981674,
+     "total": 1007832,
+     "standing_per_pair": 6.443167185193797
+    },
+    {
+     "epoch": "epoch_17327.json",
+     "delta": 20,
+     "served": 981011,
+     "total": 1007832,
+     "standing_per_pair": 6.4791550692622435
+    },
+    {
+     "epoch": "epoch_17328.json",
+     "delta": 20,
+     "served": 981639,
+     "total": 1007832,
+     "standing_per_pair": 6.3910719480324225
+    },
+    {
+     "epoch": "epoch_17331.json",
+     "delta": 20,
+     "served": 981269,
+     "total": 1007832,
+     "standing_per_pair": 6.478555763028665
+    },
+    {
+     "epoch": "epoch_17332.json",
+     "delta": 20,
+     "served": 981629,
+     "total": 1007832,
+     "standing_per_pair": 6.359114707726731
+    },
+    {
+     "epoch": "epoch_17339.json",
+     "delta": 20,
+     "served": 981080,
+     "total": 1007832,
+     "standing_per_pair": 6.539135234023599
+    },
+    {
+     "epoch": "epoch_17343.json",
+     "delta": 20,
+     "served": 981771,
+     "total": 1007832,
+     "standing_per_pair": 6.370486490979123
+    },
+    {
+     "epoch": "epoch_17345.json",
+     "delta": 20,
+     "served": 981613,
+     "total": 1007832,
+     "standing_per_pair": 6.438532986123271
+    },
+    {
+     "epoch": "epoch_17347.json",
+     "delta": 20,
+     "served": 981661,
+     "total": 1007832,
+     "standing_per_pair": 6.441239879849256
+    },
+    {
+     "epoch": "epoch_17348.json",
+     "delta": 20,
+     "served": 980982,
+     "total": 1007832,
+     "standing_per_pair": 6.525579660102081
+    },
+    {
+     "epoch": "epoch_17349.json",
+     "delta": 20,
+     "served": 981326,
+     "total": 1007832,
+     "standing_per_pair": 6.429882618158115
+    },
+    {
+     "epoch": "epoch_17350.json",
+     "delta": 20,
+     "served": 981393,
+     "total": 1007832,
+     "standing_per_pair": 6.365140548634857
+    },
+    {
+     "epoch": "epoch_17351.json",
+     "delta": 20,
+     "served": 981177,
+     "total": 1007832,
+     "standing_per_pair": 6.424657284150532
+    },
+    {
+     "epoch": "epoch_17352.json",
+     "delta": 20,
+     "served": 980952,
+     "total": 1007832,
+     "standing_per_pair": 6.569130616073734
+    },
+    {
+     "epoch": "epoch_17353.json",
+     "delta": 20,
+     "served": 981234,
+     "total": 1007832,
+     "standing_per_pair": 6.441614872319989
+    },
+    {
+     "epoch": "epoch_17354.json",
+     "delta": 20,
+     "served": 981315,
+     "total": 1007832,
+     "standing_per_pair": 6.40815868938007
+    },
+    {
+     "epoch": "epoch_17356.json",
+     "delta": 20,
+     "served": 981196,
+     "total": 1007832,
+     "standing_per_pair": 6.525780533917184
+    },
+    {
+     "epoch": "epoch_17360.json",
+     "delta": 20,
+     "served": 980892,
+     "total": 1007832,
+     "standing_per_pair": 6.52378963253913
+    }
+   ],
+   "fill": 0.9647826787554605,
+   "standing_per_pair": 5.958338817985171,
+   "ci": [
+    0.9609195010016224,
+    0.9678400971553786
+   ]
+  },
+  "50": {
+   "delta": 50,
+   "per_epoch": [
+    {
+     "epoch": "epoch_17230.json",
+     "delta": 50,
+     "served": 298687,
+     "total": 331834,
+     "standing_per_pair": 7.843524745734887
+    },
+    {
+     "epoch": "epoch_17231.json",
+     "delta": 50,
+     "served": 299045,
+     "total": 331834,
+     "standing_per_pair": 7.746683295749998
+    },
+    {
+     "epoch": "epoch_17235.json",
+     "delta": 50,
+     "served": 299007,
+     "total": 331834,
+     "standing_per_pair": 7.706053256117444
+    },
+    {
+     "epoch": "epoch_17242.json",
+     "delta": 50,
+     "served": 299014,
+     "total": 331834,
+     "standing_per_pair": 7.7952623758809985
+    },
+    {
+     "epoch": "epoch_17243.json",
+     "delta": 50,
+     "served": 300366,
+     "total": 331834,
+     "standing_per_pair": 7.558381456936156
+    },
+    {
+     "epoch": "epoch_17248.json",
+     "delta": 50,
+     "served": 299548,
+     "total": 331834,
+     "standing_per_pair": 7.592526326272718
+    },
+    {
+     "epoch": "epoch_17249.json",
+     "delta": 50,
+     "served": 298942,
+     "total": 331834,
+     "standing_per_pair": 7.879919162105436
+    },
+    {
+     "epoch": "epoch_17254.json",
+     "delta": 50,
+     "served": 299407,
+     "total": 331834,
+     "standing_per_pair": 7.750294969630541
+    },
+    {
+     "epoch": "epoch_17255.json",
+     "delta": 50,
+     "served": 299150,
+     "total": 331834,
+     "standing_per_pair": 7.783830096344787
+    },
+    {
+     "epoch": "epoch_17256.json",
+     "delta": 50,
+     "served": 299372,
+     "total": 331834,
+     "standing_per_pair": 7.735594274475161
+    },
+    {
+     "epoch": "epoch_17262.json",
+     "delta": 50,
+     "served": 299998,
+     "total": 331834,
+     "standing_per_pair": 7.65668936017062
+    },
+    {
+     "epoch": "epoch_17263.json",
+     "delta": 50,
+     "served": 298934,
+     "total": 331834,
+     "standing_per_pair": 7.739611056245277
+    },
+    {
+     "epoch": "epoch_17264.json",
+     "delta": 50,
+     "served": 298437,
+     "total": 331834,
+     "standing_per_pair": 7.761374806737849
+    },
+    {
+     "epoch": "epoch_17268.json",
+     "delta": 50,
+     "served": 300256,
+     "total": 331834,
+     "standing_per_pair": 7.569493438629814
+    },
+    {
+     "epoch": "epoch_17271.json",
+     "delta": 50,
+     "served": 300435,
+     "total": 331834,
+     "standing_per_pair": 7.446191827985134
+    },
+    {
+     "epoch": "epoch_17272.json",
+     "delta": 50,
+     "served": 300199,
+     "total": 331834,
+     "standing_per_pair": 7.466432728699404
+    },
+    {
+     "epoch": "epoch_17274.json",
+     "delta": 50,
+     "served": 299563,
+     "total": 331834,
+     "standing_per_pair": 7.608228956704399
+    },
+    {
+     "epoch": "epoch_17275.json",
+     "delta": 50,
+     "served": 299723,
+     "total": 331834,
+     "standing_per_pair": 7.584985120213577
+    },
+    {
+     "epoch": "epoch_17276.json",
+     "delta": 50,
+     "served": 299489,
+     "total": 331834,
+     "standing_per_pair": 7.6178386094940755
+    },
+    {
+     "epoch": "epoch_17278.json",
+     "delta": 50,
+     "served": 299613,
+     "total": 331834,
+     "standing_per_pair": 7.617752651426114
+    },
+    {
+     "epoch": "epoch_17281.json",
+     "delta": 50,
+     "served": 300156,
+     "total": 331834,
+     "standing_per_pair": 7.6349527316727785
+    },
+    {
+     "epoch": "epoch_17289.json",
+     "delta": 50,
+     "served": 299326,
+     "total": 331834,
+     "standing_per_pair": 7.760932388167692
+    },
+    {
+     "epoch": "epoch_17302.json",
+     "delta": 50,
+     "served": 304273,
+     "total": 335832,
+     "standing_per_pair": 7.396324352652517
+    },
+    {
+     "epoch": "epoch_17306.json",
+     "delta": 50,
+     "served": 302545,
+     "total": 335832,
+     "standing_per_pair": 7.719815930374151
+    },
+    {
+     "epoch": "epoch_17310.json",
+     "delta": 50,
+     "served": 303324,
+     "total": 335832,
+     "standing_per_pair": 7.470028011204482
+    },
+    {
+     "epoch": "epoch_17311.json",
+     "delta": 50,
+     "served": 303255,
+     "total": 335832,
+     "standing_per_pair": 7.598007547190962
+    },
+    {
+     "epoch": "epoch_17317.json",
+     "delta": 50,
+     "served": 302942,
+     "total": 335832,
+     "standing_per_pair": 7.727541081465102
+    },
+    {
+     "epoch": "epoch_17318.json",
+     "delta": 50,
+     "served": 303357,
+     "total": 335832,
+     "standing_per_pair": 7.566388236134874
+    },
+    {
+     "epoch": "epoch_17320.json",
+     "delta": 50,
+     "served": 303802,
+     "total": 335832,
+     "standing_per_pair": 7.472977104798898
+    },
+    {
+     "epoch": "epoch_17323.json",
+     "delta": 50,
+     "served": 303356,
+     "total": 335832,
+     "standing_per_pair": 7.483662559571102
+    },
+    {
+     "epoch": "epoch_17284.json",
+     "delta": 50,
+     "served": 957901,
+     "total": 995834,
+     "standing_per_pair": 9.494340996017982
+    },
+    {
+     "epoch": "epoch_17285.json",
+     "delta": 50,
+     "served": 959207,
+     "total": 995834,
+     "standing_per_pair": 9.134465851403615
+    },
+    {
+     "epoch": "epoch_17287.json",
+     "delta": 50,
+     "served": 959305,
+     "total": 995834,
+     "standing_per_pair": 9.01608357560454
+    },
+    {
+     "epoch": "epoch_17292.json",
+     "delta": 50,
+     "served": 958155,
+     "total": 995834,
+     "standing_per_pair": 9.43084733858397
+    },
+    {
+     "epoch": "epoch_17293.json",
+     "delta": 50,
+     "served": 958116,
+     "total": 995834,
+     "standing_per_pair": 9.429745223362431
+    },
+    {
+     "epoch": "epoch_17297.json",
+     "delta": 50,
+     "served": 969263,
+     "total": 1007832,
+     "standing_per_pair": 9.404106846939477
+    },
+    {
+     "epoch": "epoch_17298.json",
+     "delta": 50,
+     "served": 970040,
+     "total": 1007832,
+     "standing_per_pair": 9.275745677500872
+    },
+    {
+     "epoch": "epoch_17299.json",
+     "delta": 50,
+     "served": 969467,
+     "total": 1007832,
+     "standing_per_pair": 9.28394961251712
+    },
+    {
+     "epoch": "epoch_17300.json",
+     "delta": 50,
+     "served": 969792,
+     "total": 1007832,
+     "standing_per_pair": 9.364900405903317
+    },
+    {
+     "epoch": "epoch_17301.json",
+     "delta": 50,
+     "served": 969335,
+     "total": 1007832,
+     "standing_per_pair": 9.279788928406834
+    },
+    {
+     "epoch": "epoch_17303.json",
+     "delta": 50,
+     "served": 968497,
+     "total": 1007832,
+     "standing_per_pair": 9.466590463489947
+    },
+    {
+     "epoch": "epoch_17304.json",
+     "delta": 50,
+     "served": 970240,
+     "total": 1007832,
+     "standing_per_pair": 9.212905325490755
+    },
+    {
+     "epoch": "epoch_17307.json",
+     "delta": 50,
+     "served": 970425,
+     "total": 1007832,
+     "standing_per_pair": 9.0625131266042
+    },
+    {
+     "epoch": "epoch_17308.json",
+     "delta": 50,
+     "served": 969449,
+     "total": 1007832,
+     "standing_per_pair": 9.302992375479946
+    },
+    {
+     "epoch": "epoch_17315.json",
+     "delta": 50,
+     "served": 969615,
+     "total": 1007832,
+     "standing_per_pair": 9.298452169666
+    },
+    {
+     "epoch": "epoch_17319.json",
+     "delta": 50,
+     "served": 969701,
+     "total": 1007832,
+     "standing_per_pair": 9.24547083710964
+    },
+    {
+     "epoch": "epoch_17322.json",
+     "delta": 50,
+     "served": 968775,
+     "total": 1007832,
+     "standing_per_pair": 9.471552961908216
+    },
+    {
+     "epoch": "epoch_17324.json",
+     "delta": 50,
+     "served": 968702,
+     "total": 1007832,
+     "standing_per_pair": 9.4669307629703
+    },
+    {
+     "epoch": "epoch_17325.json",
+     "delta": 50,
+     "served": 969723,
+     "total": 1007832,
+     "standing_per_pair": 9.309564385847688
+    },
+    {
+     "epoch": "epoch_17327.json",
+     "delta": 50,
+     "served": 969674,
+     "total": 1007832,
+     "standing_per_pair": 9.268682969103628
+    },
+    {
+     "epoch": "epoch_17328.json",
+     "delta": 50,
+     "served": 970051,
+     "total": 1007832,
+     "standing_per_pair": 9.244168519216322
+    },
+    {
+     "epoch": "epoch_17331.json",
+     "delta": 50,
+     "served": 969340,
+     "total": 1007832,
+     "standing_per_pair": 9.243194920908854
+    },
+    {
+     "epoch": "epoch_17332.json",
+     "delta": 50,
+     "served": 969967,
+     "total": 1007832,
+     "standing_per_pair": 9.210123676074863
+    },
+    {
+     "epoch": "epoch_17339.json",
+     "delta": 50,
+     "served": 970138,
+     "total": 1007832,
+     "standing_per_pair": 9.186796445532705
+    },
+    {
+     "epoch": "epoch_17343.json",
+     "delta": 50,
+     "served": 970161,
+     "total": 1007832,
+     "standing_per_pair": 9.141654047850178
+    },
+    {
+     "epoch": "epoch_17345.json",
+     "delta": 50,
+     "served": 969690,
+     "total": 1007832,
+     "standing_per_pair": 9.348039846043436
+    },
+    {
+     "epoch": "epoch_17347.json",
+     "delta": 50,
+     "served": 969982,
+     "total": 1007832,
+     "standing_per_pair": 9.204046519424573
+    },
+    {
+     "epoch": "epoch_17348.json",
+     "delta": 50,
+     "served": 968706,
+     "total": 1007832,
+     "standing_per_pair": 9.461831080156683
+    },
+    {
+     "epoch": "epoch_17349.json",
+     "delta": 50,
+     "served": 969883,
+     "total": 1007832,
+     "standing_per_pair": 9.192432258784493
+    },
+    {
+     "epoch": "epoch_17350.json",
+     "delta": 50,
+     "served": 969881,
+     "total": 1007832,
+     "standing_per_pair": 9.207649874418847
+    },
+    {
+     "epoch": "epoch_17351.json",
+     "delta": 50,
+     "served": 970315,
+     "total": 1007832,
+     "standing_per_pair": 9.092439963149788
+    },
+    {
+     "epoch": "epoch_17352.json",
+     "delta": 50,
+     "served": 968967,
+     "total": 1007832,
+     "standing_per_pair": 9.463351968558719
+    },
+    {
+     "epoch": "epoch_17353.json",
+     "delta": 50,
+     "served": 969687,
+     "total": 1007832,
+     "standing_per_pair": 9.287436981793883
+    },
+    {
+     "epoch": "epoch_17354.json",
+     "delta": 50,
+     "served": 970040,
+     "total": 1007832,
+     "standing_per_pair": 9.196443898446192
+    },
+    {
+     "epoch": "epoch_17356.json",
+     "delta": 50,
+     "served": 968915,
+     "total": 1007832,
+     "standing_per_pair": 9.423675327774049
+    },
+    {
+     "epoch": "epoch_17360.json",
+     "delta": 50,
+     "served": 969062,
+     "total": 1007832,
+     "standing_per_pair": 9.368546438412004
+    }
+   ],
+   "fill": 0.9492895383116774,
+   "standing_per_pair": 8.542163031200651,
+   "ci": [
+    0.9437553051620758,
+    0.9536735074160079
+   ]
+  }
+ }
+}

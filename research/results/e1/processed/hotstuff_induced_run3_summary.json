@@ -1,0 +1,23 @@
+{
+  "label": "D-all",
+  "n": 4,
+  "views": 1502,
+  "support_mean": 3,
+  "m_mean": 1,
+  "m_sd": 0.0,
+  "m_cv": 0.0,
+  "k_mean": 0.9980013324450366,
+  "k_sd": 0.04466176085834608,
+  "k_cv": 0.04475120363710112,
+  "rho_mean": 0.0,
+  "pi_measured": 0.9986675549633578,
+  "pi_sd": 0.02977450723889739,
+  "m_used": 1,
+  "k_used": 1,
+  "pi_theory": 1.0,
+  "error": 0.0013324450366422047,
+  "impl": "libhotstuff",
+  "regime": "induced-rotation",
+  "file": "hotstuff_induced_run3.json",
+  "demand_model": "D-all"
+}

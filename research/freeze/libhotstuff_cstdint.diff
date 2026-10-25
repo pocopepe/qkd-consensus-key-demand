@@ -1,0 +1,18 @@
+diff --git a/include/hotstuff/type.h b/include/hotstuff/type.h
+index d895b73..aedc3d4 100644
+--- a/include/hotstuff/type.h
++++ b/include/hotstuff/type.h
+@@ -17,6 +17,7 @@
+ #ifndef _HOTSTUFF_TYPE_H
+ #define _HOTSTUFF_TYPE_H
+ 
++#include <cstdint>
+ #include "promise.hpp"
+ #include "salticidae/event.h"
+ #include "salticidae/ref.h"
+diff --git a/salticidae b/salticidae
+--- a/salticidae
++++ b/salticidae
+@@ -1 +1 @@
+-Subproject commit bec7c8fee67ee34d888d2fdc118aefbd65f454c9
++Subproject commit bec7c8fee67ee34d888d2fdc118aefbd65f454c9-dirty

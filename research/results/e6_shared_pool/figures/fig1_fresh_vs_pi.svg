@@ -1,0 +1,46 @@
+<svg viewBox="0 0 760 420" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Figure 1  Fresh-hit rate vs pi under shared-pool contention" class="viz">
+<style>.viz{--surface-1:#fcfcfb;--text-primary:#0b0b0b;--text-secondary:#52514e;--muted:#8a8a86;--grid:#e4e4e1;--s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--s4:#4a3aa7;font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .viz{--surface-1:#1a1a19;--text-primary:#f5f5f2;--text-secondary:#c3c2b7;--muted:#8e8e88;--grid:#2e2e2c;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#9085e9;}}:root[data-theme="dark"] .viz{--surface-1:#1a1a19;--text-primary:#f5f5f2;--text-secondary:#c3c2b7;--muted:#8e8e88;--grid:#2e2e2c;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#9085e9;}.viz .ttl{fill:var(--text-primary);font-size:15px;font-weight:600}.viz .sub{fill:var(--text-secondary);font-size:12px}.viz .ax{fill:var(--text-secondary);font-size:11px;font-variant-numeric:tabular-nums}.viz .axname{fill:var(--muted);font-size:11px;letter-spacing:.04em}.viz .gl{stroke:var(--grid);stroke-width:1}.viz .dl{font-size:11.5px;font-weight:600;font-variant-numeric:tabular-nums}.viz .ln{fill:none;stroke-width:2;stroke-linejoin:round;stroke-linecap:round}.viz .mk{stroke:var(--surface-1);stroke-width:2}</style>
+<rect x="0" y="0" width="760" height="420" fill="var(--surface-1)"/>
+<text class="ttl" x="64" y="24">Figure 1  Fresh-hit rate vs pi under shared-pool contention</text>
+<text class="sub" x="64" y="42">No curve crosses the line in any regime: contention pushes fresh hits down, never up.</text>
+<line class="gl" x1="64" y1="364.0" x2="628" y2="364.0"/>
+<text class="ax" x="55" y="368.0" text-anchor="end">0.00</text>
+<line class="gl" x1="64" y1="305.2" x2="628" y2="305.2"/>
+<text class="ax" x="55" y="309.2" text-anchor="end">0.20</text>
+<line class="gl" x1="64" y1="246.4" x2="628" y2="246.4"/>
+<text class="ax" x="55" y="250.4" text-anchor="end">0.40</text>
+<line class="gl" x1="64" y1="187.6" x2="628" y2="187.6"/>
+<text class="ax" x="55" y="191.6" text-anchor="end">0.60</text>
+<line class="gl" x1="64" y1="128.8" x2="628" y2="128.8"/>
+<text class="ax" x="55" y="132.8" text-anchor="end">0.80</text>
+<line class="gl" x1="64" y1="70.0" x2="628" y2="70.0"/>
+<text class="ax" x="55" y="74.0" text-anchor="end">1.00</text>
+<text class="ax" x="64.0" y="383.0" text-anchor="middle">0.13</text>
+<text class="ax" x="346.0" y="383.0" text-anchor="middle">0.57</text>
+<text class="ax" x="508.7" y="383.0" text-anchor="middle">0.82</text>
+<text class="ax" x="628.0" y="383.0" text-anchor="middle">1.00</text>
+<text class="axname" x="346" y="410" text-anchor="middle">support persistence pi</text>
+<text class="axname" transform="translate(16,217) rotate(-90)" text-anchor="middle">fresh-hit rate (actual predictions)</text>
+<path class="ln" d="M64.0,324.8 L628.0,70.0" stroke="var(--s1)" stroke-dasharray="6 4"/>
+<circle class="mk" cx="64.0" cy="324.8" r="4.5" fill="var(--s1)"><title>y = pi: 0.13, 0.13</title></circle>
+<circle class="mk" cx="628.0" cy="70.0" r="4.5" fill="var(--s1)"><title>y = pi: 1.00, 1.00</title></circle>
+<text class="dl" x="638.0" y="74.0" fill="var(--s1)">y = pi</text>
+<path class="ln" d="M64.0,323.5 L346.0,212.2 L508.7,146.7 L628.0,70.6" stroke="var(--s2)"/>
+<circle class="mk" cx="64.0" cy="323.5" r="4.5" fill="var(--s2)"><title>low: 0.13, 0.14</title></circle>
+<circle class="mk" cx="346.0" cy="212.2" r="4.5" fill="var(--s2)"><title>low: 0.57, 0.52</title></circle>
+<circle class="mk" cx="508.7" cy="146.7" r="4.5" fill="var(--s2)"><title>low: 0.82, 0.74</title></circle>
+<circle class="mk" cx="628.0" cy="70.6" r="4.5" fill="var(--s2)"><title>low: 1.00, 1.00</title></circle>
+<text class="dl" x="638.0" y="74.6" fill="var(--s2)">low</text>
+<path class="ln" d="M64.0,323.5 L346.0,212.2 L508.7,146.7 L628.0,70.6" stroke="var(--s3)"/>
+<circle class="mk" cx="64.0" cy="323.5" r="4.5" fill="var(--s3)"><title>moderate: 0.13, 0.14</title></circle>
+<circle class="mk" cx="346.0" cy="212.2" r="4.5" fill="var(--s3)"><title>moderate: 0.57, 0.52</title></circle>
+<circle class="mk" cx="508.7" cy="146.7" r="4.5" fill="var(--s3)"><title>moderate: 0.82, 0.74</title></circle>
+<circle class="mk" cx="628.0" cy="70.6" r="4.5" fill="var(--s3)"><title>moderate: 1.00, 1.00</title></circle>
+<text class="dl" x="638.0" y="74.6" fill="var(--s3)">moderate</text>
+<path class="ln" d="M64.0,334.4 L346.0,252.6 L508.7,201.0 L628.0,148.8" stroke="var(--s4)"/>
+<circle class="mk" cx="64.0" cy="334.4" r="4.5" fill="var(--s4)"><title>high: 0.13, 0.10</title></circle>
+<circle class="mk" cx="346.0" cy="252.6" r="4.5" fill="var(--s4)"><title>high: 0.57, 0.38</title></circle>
+<circle class="mk" cx="508.7" cy="201.0" r="4.5" fill="var(--s4)"><title>high: 0.82, 0.55</title></circle>
+<circle class="mk" cx="628.0" cy="148.8" r="4.5" fill="var(--s4)"><title>high: 1.00, 0.73</title></circle>
+<text class="dl" x="638.0" y="152.8" fill="var(--s4)">high</text>
+</svg>

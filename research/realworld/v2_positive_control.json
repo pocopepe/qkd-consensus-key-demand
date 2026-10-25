@@ -1,0 +1,1821 @@
+{
+ "per_epoch": [
+  {
+   "epoch": 90000,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9844922461230615
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6993012048192772,
+    "absence_recurrence_rate": 0.5494779978534491,
+    "predicted_iid_recurrence": 0.30069879518072284,
+    "numerator": 28158,
+    "denominator": 51245
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.01550775387693848,
+   "pi_schedule_implied": 0.5285647092876009,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.01901901901901902,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666707668537705,
+   "signed_stake_max": 0.7005952219549129,
+   "signed_stake_median": 0.6740756776165381,
+   "signed_count_fraction_mean": 0.6909761904761905,
+   "h2b_predicted": 0.547791503117063,
+   "h2b_observed": 0.54997104806022,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5140562248995985,
+    "ewma0.7": 0.5140562248995985,
+    "last": 0.5198293172690763,
+    "freq": 0.09698795180722893,
+    "markov1": 0.28349648594377513,
+    "periodic": 0.05823293172690764,
+    "oracle": 1.0,
+    "pi_mean": 0.5282128514056226,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90001,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9834917458729364
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6986024096385542,
+    "absence_recurrence_rate": 0.5501022494887525,
+    "predicted_iid_recurrence": 0.30139759036144576,
+    "numerator": 28245,
+    "denominator": 51345
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.016508254127063582,
+   "pi_schedule_implied": 0.5285616942243448,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.018518518518518517,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.666666953479847,
+   "signed_stake_max": 0.7007101479786277,
+   "signed_stake_median": 0.6740041211291763,
+   "signed_count_fraction_mean": 0.6902857142857143,
+   "h2b_predicted": 0.5500759245746765,
+   "h2b_observed": 0.5479088038203805,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5140813253012049,
+    "ewma0.7": 0.5140813253012049,
+    "last": 0.520042670682731,
+    "freq": 0.1010793172690763,
+    "markov1": 0.2845005020080321,
+    "periodic": 0.06864959839357429,
+    "oracle": 1.0,
+    "pi_mean": 0.5241842369477913,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90002,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9859929964982491
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6983915662650602,
+    "absence_recurrence_rate": 0.5513204465014974,
+    "predicted_iid_recurrence": 0.30160843373493984,
+    "numerator": 28350,
+    "denominator": 51422
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.014007003501750881,
+   "pi_schedule_implied": 0.527352653858678,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.018018018018018018,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666700469442282,
+   "signed_stake_max": 0.7012604256428064,
+   "signed_stake_median": 0.6744897483170655,
+   "signed_count_fraction_mean": 0.6900773809523809,
+   "h2b_predicted": 0.5483594369014193,
+   "h2b_observed": 0.5510157060020736,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.509964859437751,
+    "ewma0.7": 0.509964859437751,
+    "last": 0.5208835341365462,
+    "freq": 0.08930722891566265,
+    "markov1": 0.27546435742971886,
+    "periodic": 0.07310491967871487,
+    "oracle": 1.0,
+    "pi_mean": 0.5302208835341367,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90003,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9804902451225613
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6993192771084338,
+    "absence_recurrence_rate": 0.5497198195911513,
+    "predicted_iid_recurrence": 0.3006807228915662,
+    "numerator": 28155,
+    "denominator": 51217
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.019509754877438668,
+   "pi_schedule_implied": 0.5273164730996056,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.012012012012012012,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666670546273556,
+   "signed_stake_max": 0.7007235440286017,
+   "signed_stake_median": 0.6743180373839486,
+   "signed_count_fraction_mean": 0.6909940476190476,
+   "h2b_predicted": 0.5502506935881627,
+   "h2b_observed": 0.5495238462428191,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.516039156626506,
+    "ewma0.7": 0.5160642570281124,
+    "last": 0.521398092369478,
+    "freq": 0.08755020080321284,
+    "markov1": 0.25696536144578314,
+    "periodic": 0.06445783132530121,
+    "oracle": 1.0,
+    "pi_mean": 0.5282254016064257,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90004,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.984992496248124
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6983313253012049,
+    "absence_recurrence_rate": 0.5480670078020118,
+    "predicted_iid_recurrence": 0.3016686746987951,
+    "numerator": 28169,
+    "denominator": 51397
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.015007503751875984,
+   "pi_schedule_implied": 0.5285647092876009,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.01901901901901902,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666670158585037,
+   "signed_stake_max": 0.7008993261731404,
+   "signed_stake_median": 0.6743722439592357,
+   "signed_count_fraction_mean": 0.6900178571428571,
+   "h2b_predicted": 0.5522140753490151,
+   "h2b_observed": 0.5452755905511811,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.516089357429719,
+    "ewma0.7": 0.516089357429719,
+    "last": 0.5209211847389559,
+    "freq": 0.11268825301204818,
+    "markov1": 0.25942520080321285,
+    "periodic": 0.060391566265060245,
+    "oracle": 1.0,
+    "pi_mean": 0.5262173694779116,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90005,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9829914957478739
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6991325301204818,
+    "absence_recurrence_rate": 0.5473858759266484,
+    "predicted_iid_recurrence": 0.3008674698795182,
+    "numerator": 28059,
+    "denominator": 51260
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.017008504252126078,
+   "pi_schedule_implied": 0.5280672238503564,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.016516516516516516,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666707810475324,
+   "signed_stake_max": 0.7012667663510813,
+   "signed_stake_median": 0.6741289141096846,
+   "signed_count_fraction_mean": 0.6908095238095238,
+   "h2b_predicted": 0.5479059552681218,
+   "h2b_observed": 0.545664829021936,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5161144578313254,
+    "ewma0.7": 0.5161144578313254,
+    "last": 0.518687248995984,
+    "freq": 0.10702811244979919,
+    "markov1": 0.26389307228915665,
+    "periodic": 0.052384538152610446,
+    "oracle": 1.0,
+    "pi_mean": 0.5201430722891567,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90006,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9814907453726863
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6997951807228916,
+    "absence_recurrence_rate": 0.5460071140992065,
+    "predicted_iid_recurrence": 0.3002048192771084,
+    "numerator": 27937,
+    "denominator": 51166
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.018509254627313676,
+   "pi_schedule_implied": 0.5287908390318029,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.016516516516516516,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.666672145136306,
+   "signed_stake_max": 0.7011867199722807,
+   "signed_stake_median": 0.6741979974663066,
+   "signed_count_fraction_mean": 0.6914642857142858,
+   "h2b_predicted": 0.5453259881346791,
+   "h2b_observed": 0.5434606011372868,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5100150602409639,
+    "ewma0.7": 0.5100150602409639,
+    "last": 0.5193900602409639,
+    "freq": 0.10230923694779116,
+    "markov1": 0.2672941767068273,
+    "periodic": 0.04888303212851406,
+    "oracle": 1.0,
+    "pi_mean": 0.5282003012048193,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90007,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9799899949974987
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6989156626506023,
+    "absence_recurrence_rate": 0.549092256391256,
+    "predicted_iid_recurrence": 0.30108433734939766,
+    "numerator": 28158,
+    "denominator": 51281
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.020010005002501274,
+   "pi_schedule_implied": 0.5285345586550406,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.014014014014014014,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666765834227146,
+   "signed_stake_max": 0.7012126155478711,
+   "signed_stake_median": 0.6743250890234799,
+   "signed_count_fraction_mean": 0.690595238095238,
+   "h2b_predicted": 0.550160428219347,
+   "h2b_observed": 0.5480891352037871,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5140562248995985,
+    "ewma0.7": 0.5140562248995985,
+    "last": 0.5187374497991969,
+    "freq": 0.09004769076305222,
+    "markov1": 0.26704317269076305,
+    "periodic": 0.050627510040160646,
+    "oracle": 1.0,
+    "pi_mean": 0.5282254016064257,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90008,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9799899949974987
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6997048192771084,
+    "absence_recurrence_rate": 0.5486694541049588,
+    "predicted_iid_recurrence": 0.30029518072289163,
+    "numerator": 28082,
+    "denominator": 51182
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.020010005002501274,
+   "pi_schedule_implied": 0.5307355548319403,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.01901901901901902,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666712855907982,
+   "signed_stake_max": 0.7011066392827123,
+   "signed_stake_median": 0.6743531247128521,
+   "signed_count_fraction_mean": 0.691375,
+   "h2b_predicted": 0.5484829696339915,
+   "h2b_observed": 0.5466367365895193,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5150978915662651,
+    "ewma0.7": 0.5150978915662651,
+    "last": 0.521222389558233,
+    "freq": 0.09460341365461848,
+    "markov1": 0.267745983935743,
+    "periodic": 0.05729166666666667,
+    "oracle": 1.0,
+    "pi_mean": 0.5272213855421687,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90009,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9814907453726863
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6988253012048193,
+    "absence_recurrence_rate": 0.5485158928014958,
+    "predicted_iid_recurrence": 0.30117469879518066,
+    "numerator": 28163,
+    "denominator": 51344
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.018509254627313676,
+   "pi_schedule_implied": 0.5261104477971948,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.012012012012012012,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666711690112279,
+   "signed_stake_max": 0.7012614498653301,
+   "signed_stake_median": 0.6744300235880987,
+   "signed_count_fraction_mean": 0.6905059523809524,
+   "h2b_predicted": 0.5503390045806228,
+   "h2b_observed": 0.5453041437420646,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5161144578313254,
+    "ewma0.7": 0.5161144578313254,
+    "last": 0.5181350401606426,
+    "freq": 0.09036144578313253,
+    "markov1": 0.264796686746988,
+    "periodic": 0.05050200803212852,
+    "oracle": 1.0,
+    "pi_mean": 0.5191390562248996,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90010,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9864932466233116
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6982289156626506,
+    "absence_recurrence_rate": 0.5478804157421464,
+    "predicted_iid_recurrence": 0.30177108433734945,
+    "numerator": 28149,
+    "denominator": 51378
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.013506753376688385,
+   "pi_schedule_implied": 0.5280883292931486,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.02002002002002002,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666701839337634,
+   "signed_stake_max": 0.7012493751331786,
+   "signed_stake_median": 0.6742782244186196,
+   "signed_count_fraction_mean": 0.6899166666666666,
+   "h2b_predicted": 0.5490272437742221,
+   "h2b_observed": 0.5473736829962317,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5191641566265061,
+    "ewma0.7": 0.5191390562248996,
+    "last": 0.5241967871485944,
+    "freq": 0.08619477911646586,
+    "markov1": 0.2575050200803213,
+    "periodic": 0.05627510040160643,
+    "oracle": 1.0,
+    "pi_mean": 0.5292670682730924,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90011,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9804902451225613
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.697987951807229,
+    "absence_recurrence_rate": 0.549934871784902,
+    "predicted_iid_recurrence": 0.30201204819277105,
+    "numerator": 28287,
+    "denominator": 51437
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.019509754877438668,
+   "pi_schedule_implied": 0.5285436038448087,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.015515515515515516,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666700466343491,
+   "signed_stake_max": 0.7005822751488544,
+   "signed_stake_median": 0.6739606934109109,
+   "signed_count_fraction_mean": 0.6896785714285715,
+   "h2b_predicted": 0.5515706730032194,
+   "h2b_observed": 0.5483374975975399,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5069402610441768,
+    "ewma0.7": 0.5069402610441768,
+    "last": 0.5161144578313254,
+    "freq": 0.10700301204819278,
+    "markov1": 0.2570281124497992,
+    "periodic": 0.054882028112449806,
+    "oracle": 1.0,
+    "pi_mean": 0.5301957831325301,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90012,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.983991995997999
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6996084337349399,
+    "absence_recurrence_rate": 0.5463708102195484,
+    "predicted_iid_recurrence": 0.30039156626506014,
+    "numerator": 27972,
+    "denominator": 51196
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.016008004002000975,
+   "pi_schedule_implied": 0.5275817986661361,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.016016016016016016,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666733693708922,
+   "signed_stake_max": 0.7008953426894496,
+   "signed_stake_median": 0.6741341817513535,
+   "signed_count_fraction_mean": 0.6912797619047619,
+   "h2b_predicted": 0.5453719244118781,
+   "h2b_observed": 0.544808954071787,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5161144578313254,
+    "ewma0.7": 0.5161144578313254,
+    "last": 0.520808232931727,
+    "freq": 0.09329819277108434,
+    "markov1": 0.26864959839357433,
+    "periodic": 0.04730170682730924,
+    "oracle": 1.0,
+    "pi_mean": 0.5241967871485944,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90013,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9859929964982491
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6981265060240963,
+    "absence_recurrence_rate": 0.549668616742143,
+    "predicted_iid_recurrence": 0.3018734939759037,
+    "numerator": 28281,
+    "denominator": 51451
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.014007003501750881,
+   "pi_schedule_implied": 0.5278441091694104,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.01951951951951952,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666677838161993,
+   "signed_stake_max": 0.7008534276268483,
+   "signed_stake_median": 0.6743142212170786,
+   "signed_count_fraction_mean": 0.6898154761904762,
+   "h2b_predicted": 0.5478817576667051,
+   "h2b_observed": 0.5528131227962594,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5171310240963856,
+    "ewma0.7": 0.5171310240963856,
+    "last": 0.5231802208835342,
+    "freq": 0.10207078313253011,
+    "markov1": 0.28421184738955824,
+    "periodic": 0.06361696787148595,
+    "oracle": 1.0,
+    "pi_mean": 0.5292545180722892,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90014,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9834917458729364
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6989156626506023,
+    "absence_recurrence_rate": 0.547696149194335,
+    "predicted_iid_recurrence": 0.30108433734939766,
+    "numerator": 28076,
+    "denominator": 51262
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.016508254127063582,
+   "pi_schedule_implied": 0.5273345634791419,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.015015015015015015,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666674142494997,
+   "signed_stake_max": 0.7011622691821676,
+   "signed_stake_median": 0.6744859718286911,
+   "signed_count_fraction_mean": 0.690595238095238,
+   "h2b_predicted": 0.5479043511744321,
+   "h2b_observed": 0.5488203825578263,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5089733935742973,
+    "ewma0.7": 0.5089984939759037,
+    "last": 0.5190010040160643,
+    "freq": 0.09727660642570282,
+    "markov1": 0.27075803212851407,
+    "periodic": 0.055007530120481936,
+    "oracle": 1.0,
+    "pi_mean": 0.5312248995983936,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90015,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9859929964982491
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6994036144578313,
+    "absence_recurrence_rate": 0.5498721726742257,
+    "predicted_iid_recurrence": 0.3005963855421687,
+    "numerator": 28176,
+    "denominator": 51241
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.014007003501750881,
+   "pi_schedule_implied": 0.5258843180529928,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.014514514514514515,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666724448620522,
+   "signed_stake_max": 0.7009145568564921,
+   "signed_stake_median": 0.6746056223110027,
+   "signed_count_fraction_mean": 0.6910773809523809,
+   "h2b_predicted": 0.5479282518129919,
+   "h2b_observed": 0.5533161200816987,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5150978915662651,
+    "ewma0.7": 0.5150978915662651,
+    "last": 0.5189633534136546,
+    "freq": 0.10176957831325302,
+    "markov1": 0.2550828313253012,
+    "periodic": 0.0506777108433735,
+    "oracle": 1.0,
+    "pi_mean": 0.5231802208835342,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90016,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9879939969984992
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6988795180722891,
+    "absence_recurrence_rate": 0.5488686636393756,
+    "predicted_iid_recurrence": 0.3011204819277109,
+    "numerator": 28163,
+    "denominator": 51311
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.012006003001500787,
+   "pi_schedule_implied": 0.5283415946066549,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.022022022022022022,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666752947545471,
+   "signed_stake_max": 0.7007913063292609,
+   "signed_stake_median": 0.6743403804479735,
+   "signed_count_fraction_mean": 0.6905595238095238,
+   "h2b_predicted": 0.547343968632275,
+   "h2b_observed": 0.5479283098862979,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5130396586345382,
+    "ewma0.7": 0.5130647590361446,
+    "last": 0.5159638554216868,
+    "freq": 0.09126506024096386,
+    "markov1": 0.2546812248995984,
+    "periodic": 0.07048192771084337,
+    "oracle": 1.0,
+    "pi_mean": 0.523167670682731,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90017,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.983991995997999
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6985783132530121,
+    "absence_recurrence_rate": 0.5510057051619058,
+    "predicted_iid_recurrence": 0.3014216867469879,
+    "numerator": 28298,
+    "denominator": 51357
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.016008004002000975,
+   "pi_schedule_implied": 0.5270933584186597,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.015015015015015015,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666695049504396,
+   "signed_stake_max": 0.7012466925279743,
+   "signed_stake_median": 0.6744731965868547,
+   "signed_count_fraction_mean": 0.6902619047619047,
+   "h2b_predicted": 0.5519308142425517,
+   "h2b_observed": 0.5491628968023817,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5079819277108434,
+    "ewma0.7": 0.5079819277108434,
+    "last": 0.5185868473895583,
+    "freq": 0.08429969879518072,
+    "markov1": 0.2642570281124498,
+    "periodic": 0.05407881526104418,
+    "oracle": 1.0,
+    "pi_mean": 0.5261671686746988,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90018,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9789894947473737
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6984397590361445,
+    "absence_recurrence_rate": 0.5480035803237858,
+    "predicted_iid_recurrence": 0.3015602409638555,
+    "numerator": 28163,
+    "denominator": 51392
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.021010505252626266,
+   "pi_schedule_implied": 0.5292611888997432,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.014514514514514515,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666813682929132,
+   "signed_stake_max": 0.7010140997127979,
+   "signed_stake_median": 0.6740342480860261,
+   "signed_count_fraction_mean": 0.690125,
+   "h2b_predicted": 0.5483785818544981,
+   "h2b_observed": 0.5505384615384615,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5039156626506025,
+    "ewma0.7": 0.5039156626506025,
+    "last": 0.5115712851405623,
+    "freq": 0.09455321285140562,
+    "markov1": 0.2587725903614458,
+    "periodic": 0.07525100401606427,
+    "oracle": 1.0,
+    "pi_mean": 0.5251255020080322,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90019,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9874937468734367
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.699355421686747,
+    "absence_recurrence_rate": 0.5497746825071692,
+    "predicted_iid_recurrence": 0.300644578313253,
+    "numerator": 28182,
+    "denominator": 51261
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.012506253126563283,
+   "pi_schedule_implied": 0.5263848185534933,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.017517517517517518,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666746384561013,
+   "signed_stake_max": 0.7007110193541161,
+   "signed_stake_median": 0.674283091233533,
+   "signed_count_fraction_mean": 0.691029761904762,
+   "h2b_predicted": 0.5490029288219199,
+   "h2b_observed": 0.5524834181706,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.514031124497992,
+    "ewma0.7": 0.514031124497992,
+    "last": 0.5212474899598394,
+    "freq": 0.08645833333333333,
+    "markov1": 0.25827058232931727,
+    "periodic": 0.046987951807228916,
+    "oracle": 1.0,
+    "pi_mean": 0.5282254016064257,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90020,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9864932466233116
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6998012048192771,
+    "absence_recurrence_rate": 0.5466786530907385,
+    "predicted_iid_recurrence": 0.3001987951807229,
+    "numerator": 27973,
+    "denominator": 51169
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.013506753376688385,
+   "pi_schedule_implied": 0.5280913443564046,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.02052052052052052,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666768393765786,
+   "signed_stake_max": 0.7010210439246113,
+   "signed_stake_median": 0.6747095579537052,
+   "signed_count_fraction_mean": 0.6914702380952381,
+   "h2b_predicted": 0.54627669132169,
+   "h2b_observed": 0.5471407681059032,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5161144578313254,
+    "ewma0.7": 0.5161144578313254,
+    "last": 0.5196787148594377,
+    "freq": 0.08967118473895581,
+    "markov1": 0.2775727911646586,
+    "periodic": 0.050276104417670685,
+    "oracle": 1.0,
+    "pi_mean": 0.5241967871485944,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90021,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9859929964982491
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6989939759036145,
+    "absence_recurrence_rate": 0.5530131753332813,
+    "predicted_iid_recurrence": 0.30100602409638555,
+    "numerator": 28374,
+    "denominator": 51308
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.014007003501750881,
+   "pi_schedule_implied": 0.5280822991666365,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.01901901901901902,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666824146496935,
+   "signed_stake_max": 0.7012471358688813,
+   "signed_stake_median": 0.6740029174244683,
+   "signed_count_fraction_mean": 0.690672619047619,
+   "h2b_predicted": 0.5497985367731999,
+   "h2b_observed": 0.5541097208854668,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5161144578313254,
+    "ewma0.7": 0.5161144578313254,
+    "last": 0.520808232931727,
+    "freq": 0.08362198795180723,
+    "markov1": 0.2819277108433735,
+    "periodic": 0.06339106425702812,
+    "oracle": 1.0,
+    "pi_mean": 0.528237951807229,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90022,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9859929964982491
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6985783132530121,
+    "absence_recurrence_rate": 0.5481314144384506,
+    "predicted_iid_recurrence": 0.3014216867469879,
+    "numerator": 28146,
+    "denominator": 51349
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.014007003501750881,
+   "pi_schedule_implied": 0.5258873331162488,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.015015015015015015,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666717330940335,
+   "signed_stake_max": 0.7008179880122755,
+   "signed_stake_median": 0.674505619575267,
+   "signed_count_fraction_mean": 0.6902619047619047,
+   "h2b_predicted": 0.551586057230651,
+   "h2b_observed": 0.5430111667308433,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5140813253012049,
+    "ewma0.7": 0.5140813253012049,
+    "last": 0.5152986947791165,
+    "freq": 0.09592118473895582,
+    "markov1": 0.2529241967871486,
+    "periodic": 0.05961345381526105,
+    "oracle": 1.0,
+    "pi_mean": 0.5201430722891567,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90023,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9844922461230615
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6991626506024096,
+    "absence_recurrence_rate": 0.5483235483430533,
+    "predicted_iid_recurrence": 0.30083734939759044,
+    "numerator": 28112,
+    "denominator": 51269
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.01550775387693848,
+   "pi_schedule_implied": 0.5258782879264807,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.013513513513513514,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666697426237237,
+   "signed_stake_max": 0.7010589311873971,
+   "signed_stake_median": 0.6741899762009731,
+   "signed_count_fraction_mean": 0.6908392857142858,
+   "h2b_predicted": 0.5493066682057793,
+   "h2b_observed": 0.5491648343170158,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5069653614457832,
+    "ewma0.7": 0.5069402610441768,
+    "last": 0.5115461847389559,
+    "freq": 0.09184236947791165,
+    "markov1": 0.26625251004016065,
+    "periodic": 0.0481425702811245,
+    "oracle": 1.0,
+    "pi_mean": 0.521109437751004,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90024,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9834917458729364
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.699566265060241,
+    "absence_recurrence_rate": 0.5495280714439255,
+    "predicted_iid_recurrence": 0.300433734939759,
+    "numerator": 28121,
+    "denominator": 51173
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.016508254127063582,
+   "pi_schedule_implied": 0.5283144590373506,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.017517517517517518,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666819092912916,
+   "signed_stake_max": 0.700665571990537,
+   "signed_stake_median": 0.6745003635413986,
+   "signed_count_fraction_mean": 0.6912380952380952,
+   "h2b_predicted": 0.5495730380430589,
+   "h2b_observed": 0.548343553550079,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5100150602409639,
+    "ewma0.7": 0.5100150602409639,
+    "last": 0.5155371485943775,
+    "freq": 0.09486696787148595,
+    "markov1": 0.27375753012048193,
+    "periodic": 0.04893323293172691,
+    "oracle": 1.0,
+    "pi_mean": 0.5271837349397591,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90025,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9824912456228114
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6997530120481927,
+    "absence_recurrence_rate": 0.5498524266531146,
+    "predicted_iid_recurrence": 0.30024698795180726,
+    "numerator": 28131,
+    "denominator": 51161
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.017508754377188573,
+   "pi_schedule_implied": 0.5273285333526297,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.014014014014014014,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6667117531194706,
+   "signed_stake_max": 0.7009512135218785,
+   "signed_stake_median": 0.6745372581270713,
+   "signed_count_fraction_mean": 0.691422619047619,
+   "h2b_predicted": 0.5483699254509637,
+   "h2b_observed": 0.5492517741437828,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5201305220883534,
+    "ewma0.7": 0.5201305220883534,
+    "last": 0.5225652610441768,
+    "freq": 0.09613453815261044,
+    "markov1": 0.2596511044176707,
+    "periodic": 0.061282630522088356,
+    "oracle": 1.0,
+    "pi_mean": 0.5322791164658635,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90026,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.983991995997999
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6993313253012049,
+    "absence_recurrence_rate": 0.5497588691254857,
+    "predicted_iid_recurrence": 0.3006686746987951,
+    "numerator": 28157,
+    "denominator": 51217
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.016008004002000975,
+   "pi_schedule_implied": 0.5283144590373506,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.017517517517517518,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666681483987221,
+   "signed_stake_max": 0.7010656688655825,
+   "signed_stake_median": 0.673986651680184,
+   "signed_count_fraction_mean": 0.6910059523809524,
+   "h2b_predicted": 0.5495006353240153,
+   "h2b_observed": 0.5487381338272749,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5161144578313254,
+    "ewma0.7": 0.5161144578313254,
+    "last": 0.5189633534136546,
+    "freq": 0.09825552208835342,
+    "markov1": 0.2651104417670683,
+    "periodic": 0.06458333333333334,
+    "oracle": 1.0,
+    "pi_mean": 0.5221762048192772,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90027,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9844922461230615
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6998373493975903,
+    "absence_recurrence_rate": 0.5455451348182884,
+    "predicted_iid_recurrence": 0.30016265060240965,
+    "numerator": 27921,
+    "denominator": 51180
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.01550775387693848,
+   "pi_schedule_implied": 0.5251456275552662,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.012012012012012012,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666835519758726,
+   "signed_stake_max": 0.7011272008789755,
+   "signed_stake_median": 0.6747829933114955,
+   "signed_count_fraction_mean": 0.6915059523809524,
+   "h2b_predicted": 0.5448123285024155,
+   "h2b_observed": 0.5498129363212095,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5120481927710844,
+    "ewma0.7": 0.5120481927710844,
+    "last": 0.518574297188755,
+    "freq": 0.08333333333333333,
+    "markov1": 0.2512173694779116,
+    "periodic": 0.049309738955823294,
+    "oracle": 1.0,
+    "pi_mean": 0.524171686746988,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90028,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9819909954977488
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.699566265060241,
+    "absence_recurrence_rate": 0.5462874333378914,
+    "predicted_iid_recurrence": 0.300433734939759,
+    "numerator": 27965,
+    "denominator": 51191
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.01800900450225118,
+   "pi_schedule_implied": 0.5290380742187971,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.017517517517517518,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.666668101979447,
+   "signed_stake_max": 0.7006462478067758,
+   "signed_stake_median": 0.6743753328528778,
+   "signed_count_fraction_mean": 0.6912380952380952,
+   "h2b_predicted": 0.543553543794491,
+   "h2b_observed": 0.5473781402685338,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5161144578313254,
+    "ewma0.7": 0.516089357429719,
+    "last": 0.5227660642570282,
+    "freq": 0.09633534136546186,
+    "markov1": 0.2663654618473896,
+    "periodic": 0.059324799196787154,
+    "oracle": 1.0,
+    "pi_mean": 0.528237951807229,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  },
+  {
+   "epoch": 90029,
+   "n": 84,
+   "rounds": 2000,
+   "h1": {
+    "consecutive_pairs": 1999,
+    "distinct_proposer_rate": 0.9814907453726863
+   },
+   "h2": {
+    "rounds_seen": 2000,
+    "round_range": [
+     999,
+     2998
+    ],
+    "mean_participation_p": 0.6986144578313253,
+    "absence_recurrence_rate": 0.5503933328140821,
+    "predicted_iid_recurrence": 0.30138554216867475,
+    "numerator": 28266,
+    "denominator": 51356
+   },
+   "sum_s2": 0.016860703040731263,
+   "repeat_rate": 0.018509254627313676,
+   "pi_schedule_implied": 0.5302531447109761,
+   "pi_stake_predicted": 0.5282297828025257,
+   "pi_generic_n21": 0.5120481927710844,
+   "consecutive_run_len": 2000,
+   "lag2_repeat_rate": 0.01901901901901902,
+   "h8_fraction_in_band": 1.0,
+   "signed_stake_min": 0.6666669827294617,
+   "signed_stake_max": 0.7012735071961492,
+   "signed_stake_median": 0.6743442347777899,
+   "signed_count_fraction_mean": 0.690297619047619,
+   "h2b_predicted": 0.5495232939000424,
+   "h2b_observed": 0.5496622658888548,
+   "h9_live_count_fraction": 1.0,
+   "h9_live_stake_fraction": 1.0,
+   "h10_failed_round_fraction": 0.0,
+   "round_gaps": 0,
+   "h6": {
+    "ewma0.5": 0.5150727911646586,
+    "ewma0.7": 0.5150727911646586,
+    "last": 0.5258032128514056,
+    "freq": 0.0890687751004016,
+    "markov1": 0.27346887550200805,
+    "periodic": 0.04707580321285141,
+    "oracle": 1.0,
+    "pi_mean": 0.5373242971887551,
+    "theoremB_violations": {
+     "eq": 0,
+     "gt": 0,
+     "lt": 0,
+     "checked": 960
+    },
+    "views_scored": 480
+   }
+  }
+ ],
+ "verdicts": {
+  "H1": {
+   "mean": 0.9837085209271302,
+   "lo": 0.9828414207103552,
+   "hi": 0.9845255961313991,
+   "n": 30,
+   "verdict": "K_LT_M_DOMINANT"
+  },
+  "H1q": {
+   "mean": 0.9662396065877928,
+   "lo": 0.9167902920234231,
+   "hi": 1.015688921152163,
+   "n": 30,
+   "pooled_repeat_rate": 0.016291479072869777,
+   "pooled_sum_s2": 0.016860703040731263,
+   "verdict": "STAKE_COLLISION_SUPPORTED"
+  },
+  "H3": {
+   "mean": -0.0003867791563092175,
+   "lo": -0.0008396416573644872,
+   "hi": 5.754066552065007e-05,
+   "n": 30,
+   "mean_pi_schedule_implied": 0.5278430036462165,
+   "mean_pi_stake_predicted": 0.5282297828025257,
+   "mean_pi_generic": 0.5120481927710844,
+   "verdict": "SUPPORTED"
+  },
+  "H8": {
+   "pooled_fraction_in_band": 1.0,
+   "signed_stake_min": 0.666666953479847,
+   "signed_stake_max": 0.7012735071961492,
+   "verdict": "QUORUM_TRUNCATED"
+  },
+  "H2R": {
+   "mean": 0.5488315280649425,
+   "lo": 0.5482489712070995,
+   "hi": 0.5494180587130459,
+   "n": 30,
+   "mean_iid_predicted": 0.30096506024096387,
+   "verdict": "NON_IID"
+  },
+  "H2b": {
+   "mean": -0.00015002041329276183,
+   "lo": -0.0013767159560916602,
+   "hi": 0.0010453892621916686,
+   "n": 30,
+   "mean_observed": 0.5485015526969772,
+   "mean_predicted": 0.54865157311027,
+   "verdict": "STATIC_HETEROGENEITY_EXPLAINS"
+  },
+  "H9": {
+   "epochs_meeting_bound": 1.0,
+   "min_live_stake": 1.0,
+   "mean_live_stake": 1.0,
+   "mean_live_count": 1.0,
+   "verdict": "LIVENESS_BOUND_HOLDS"
+  },
+  "H10": {
+   "pooled_failed_round_fraction": 0.0,
+   "total_round_gaps": 0,
+   "verdict": "LOW_FAULT_RATE"
+  },
+  "H6": {
+   "epochs": 30,
+   "pi_mean": 0.5265018406961178,
+   "ewma0.5": {
+    "mean_coverage": 0.513559655287818,
+    "excess_over_pi": {
+     "mean": -0.012942185408299866,
+     "lo": -0.014902108433734936,
+     "hi": -0.011085174029451132,
+     "n": 30
+    }
+   },
+   "ewma0.7": {
+    "mean_coverage": 0.513559655287818,
+    "excess_over_pi": {
+     "mean": -0.012942185408299866,
+     "lo": -0.014900435073627852,
+     "hi": -0.011086429049531454,
+     "n": 30
+    }
+   },
+   "last": {
+    "mean_coverage": 0.519347389558233,
+    "excess_over_pi": {
+     "mean": -0.00715445113788488,
+     "lo": -0.00839022757697457,
+     "hi": -0.006030789825970558,
+     "n": 30
+    }
+   },
+   "freq": {
+    "mean_coverage": 0.09450677710843373,
+    "excess_over_pi": {
+     "mean": -0.43199506358768414,
+     "lo": -0.43498703145917006,
+     "hi": -0.42894410977242303,
+     "n": 30
+    }
+   },
+   "markov1": {
+    "mean_coverage": 0.26626966198125834,
+    "excess_over_pi": {
+     "mean": -0.2602321787148595,
+     "lo": -0.2635220046854084,
+     "hi": -0.25685491967871493,
+     "n": 30
+    }
+   },
+   "periodic": {
+    "mean_coverage": 0.057033969210174035,
+    "excess_over_pi": {
+     "mean": -0.4694678714859438,
+     "lo": -0.47252133534136553,
+     "hi": -0.46624832663989296,
+     "n": 30
+    }
+   },
+   "oracle": {
+    "mean_coverage": 1.0,
+    "excess_over_pi": {
+     "mean": 0.47349815930388217,
+     "lo": 0.47207454819277106,
+     "hi": 0.4748799364123159,
+     "n": 30
+    }
+   },
+   "theoremB_violations": {
+    "eq": 0,
+    "gt": 0,
+    "lt": 0,
+    "checked": 28800
+   },
+   "verdict": "NO_LEARNER_EXCEEDS_PI"
+  }
+ }
+}

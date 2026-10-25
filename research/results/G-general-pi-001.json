@@ -1,0 +1,7 @@
+{
+  "experiment_id": "G-general-pi-001",
+  "utc": "2026-08-20T14:10:12.961027+00:00",
+  "formula": "pi(n,m,k) = [k(n-1) + m(m-k)] / [m(n-1)]",
+  "asymptote": "k/m",
+  "max_abs_err_vs_simulation": 2.220446049250313e-16
+}

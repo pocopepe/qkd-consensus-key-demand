@@ -1,0 +1,24 @@
+diff --git a/include/salticidae/ref.h b/include/salticidae/ref.h
+index bb5fb3a..3898bdc 100644
+--- a/include/salticidae/ref.h
++++ b/include/salticidae/ref.h
+@@ -25,6 +25,7 @@
+ #ifndef _SALTICIDAE_REF_H
+ #define _SALTICIDAE_REF_H
+ 
++#include <cstdint>
+ #include <atomic>
+ #include <functional>
+ 
+diff --git a/include/salticidae/util.h b/include/salticidae/util.h
+index 1ad81c1..ffcae86 100644
+--- a/include/salticidae/util.h
++++ b/include/salticidae/util.h
+@@ -25,6 +25,7 @@
+ #ifndef _SALTICIDAE_UTIL_H
+ #define _SALTICIDAE_UTIL_H
+ 
++#include <cstdint>
+ #include <getopt.h>
+ #include <unistd.h>
+ #include <fcntl.h>

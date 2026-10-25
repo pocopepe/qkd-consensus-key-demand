@@ -1,0 +1,42 @@
+[
+  {
+    "hit_rate": 0.0,
+    "p50_ms": 5.542,
+    "p99_ms": 7.042,
+    "armed": 0.0,
+    "scheme": "reactive",
+    "speedup": 1.0
+  },
+  {
+    "hit_rate": 0.002813599062133646,
+    "p50_ms": 5.542,
+    "p99_ms": 7.042,
+    "armed": 6.268,
+    "scheme": "static VQKP",
+    "speedup": 1.0
+  },
+  {
+    "hit_rate": 0.0036576787807737396,
+    "p50_ms": 5.542,
+    "p99_ms": 7.042,
+    "armed": 21.206,
+    "scheme": "DT-VQKP",
+    "speedup": 1.0
+  },
+  {
+    "hit_rate": 0.0036576787807737396,
+    "p50_ms": 5.542,
+    "p99_ms": 7.042,
+    "armed": 47.854,
+    "scheme": "ewma+greedy",
+    "speedup": 1.0
+  },
+  {
+    "hit_rate": 0.5875263774912075,
+    "p50_ms": 0.014199999999999999,
+    "p99_ms": 7.042,
+    "armed": 25.058,
+    "scheme": "structural+quorum",
+    "speedup": 390.28169014084506
+  }
+]

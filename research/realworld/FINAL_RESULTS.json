@@ -1,0 +1,29 @@
+{
+  "utc": "2026-09-18T10:56:12.701317+00:00",
+  "source_file": "H2_H3_APTOS_HELDOUT_RESULT.json",
+  "epochs_attempted": 5,
+  "epochs_succeeded": 5,
+  "epochs_errored": 0,
+  "h1_verdict": {
+    "status": "K_LT_M_DOMINANT",
+    "n_epochs": 5,
+    "mean": 0.9890966635228366,
+    "ci95_lo": 0.9860050775386823,
+    "ci95_hi": 0.9921882495069909,
+    "per_epoch": [
+      0.9915966386554622,
+      0.9922480620155039,
+      0.984251968503937,
+      0.9924242424242424,
+      0.9849624060150376
+    ]
+  },
+  "h23_verdict": {
+    "status": "STICKY_SUPPORTED",
+    "n_epochs": 5,
+    "mean_recurrence": 0.7547030221967939,
+    "ci95_lo": 0.7234061704889194,
+    "ci95_hi": 0.7838439025401465,
+    "mean_iid_predicted": 0.40071209457790935
+  }
+}

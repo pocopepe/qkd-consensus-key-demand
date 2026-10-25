@@ -1,0 +1,110 @@
+{
+  "experiment_id": "H2-H3-APTOS-HELDOUT-001",
+  "utc": "2026-09-18T10:55:58.118472+00:00",
+  "excluded_epoch_phase0_peek": 17314,
+  "epochs": [
+    {
+      "rounds_seen": 120,
+      "round_range": [
+        40860,
+        40979
+      ],
+      "mean_participation_p": 0.6003012048192772,
+      "absence_recurrence_rate": 0.7068622575832919,
+      "predicted_iid_recurrence": 0.3996987951807228,
+      "numerator": 2843,
+      "denominator": 4022,
+      "epoch": 17265,
+      "n_validators": 84,
+      "h1_proposer_rotation": {
+        "consecutive_pairs": 119,
+        "distinct_proposer_rate": 0.9915966386554622
+      },
+      "raw_file": "/home/pocopepe/code/predictive/research/realworld/raw/epoch_17265.json",
+      "resumed_from_cache": true
+    },
+    {
+      "rounds_seen": 130,
+      "round_range": [
+        39124,
+        39253
+      ],
+      "mean_participation_p": 0.6029657089898054,
+      "absence_recurrence_rate": 0.7714417107381007,
+      "predicted_iid_recurrence": 0.3970342910101946,
+      "numerator": 3355,
+      "denominator": 4349,
+      "epoch": 17266,
+      "n_validators": 84,
+      "h1_proposer_rotation": {
+        "consecutive_pairs": 129,
+        "distinct_proposer_rate": 0.9922480620155039
+      },
+      "raw_file": "/home/pocopepe/code/predictive/research/realworld/raw/epoch_17266.json",
+      "resumed_from_cache": true
+    },
+    {
+      "rounds_seen": 128,
+      "round_range": [
+        36894,
+        37021
+      ],
+      "mean_participation_p": 0.599585843373494,
+      "absence_recurrence_rate": 0.7751218380134602,
+      "predicted_iid_recurrence": 0.40041415662650603,
+      "numerator": 3340,
+      "denominator": 4309,
+      "epoch": 17267,
+      "n_validators": 84,
+      "h1_proposer_rotation": {
+        "consecutive_pairs": 127,
+        "distinct_proposer_rate": 0.984251968503937
+      },
+      "raw_file": "/home/pocopepe/code/predictive/research/realworld/raw/epoch_17267.json"
+    },
+    {
+      "rounds_seen": 133,
+      "round_range": [
+        131124,
+        131256
+      ],
+      "mean_participation_p": 0.5945284898994474,
+      "absence_recurrence_rate": 0.7987670629678556,
+      "predicted_iid_recurrence": 0.4054715101005526,
+      "numerator": 3628,
+      "denominator": 4542,
+      "epoch": 17286,
+      "n_validators": 84,
+      "h1_proposer_rotation": {
+        "consecutive_pairs": 132,
+        "distinct_proposer_rate": 0.9924242424242424
+      },
+      "raw_file": "/home/pocopepe/code/predictive/research/realworld/raw/epoch_17286.json"
+    },
+    {
+      "rounds_seen": 134,
+      "round_range": [
+        72667,
+        72800
+      ],
+      "mean_participation_p": 0.5990582800284292,
+      "absence_recurrence_rate": 0.7213222416812609,
+      "predicted_iid_recurrence": 0.4009417199715708,
+      "numerator": 3295,
+      "denominator": 4568,
+      "epoch": 17305,
+      "n_validators": 85,
+      "h1_proposer_rotation": {
+        "consecutive_pairs": 133,
+        "distinct_proposer_rate": 0.9849624060150376
+      },
+      "raw_file": "/home/pocopepe/code/predictive/research/realworld/raw/epoch_17305.json"
+    }
+  ],
+  "bootstrap_ci": {
+    "mean": 0.7547030221967939,
+    "ci95_lo": 0.7234061704889194,
+    "ci95_hi": 0.7838439025401465
+  },
+  "verdict": "STICKY_SUPPORTED"
+}

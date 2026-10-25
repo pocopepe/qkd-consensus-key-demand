@@ -1,0 +1,93 @@
+diff --git a/protocol/comm/clique.go b/protocol/comm/clique.go
+index 554f882..8511e70 100644
+--- a/protocol/comm/clique.go
++++ b/protocol/comm/clique.go
+@@ -3,6 +3,7 @@ package comm
+ import (
+ 	"github.com/relab/hotstuff"
+ 	"github.com/relab/hotstuff/core"
++	"github.com/relab/hotstuff/core/logging"
+ 	"github.com/relab/hotstuff/protocol/leaderrotation"
+ 	"github.com/relab/hotstuff/protocol/votingmachine"
+ )
+@@ -15,6 +16,7 @@ type Clique struct {
+ 	votingMachine  *votingmachine.VotingMachine
+ 	leaderRotation leaderrotation.LeaderRotation
+ 	sender         core.Sender
++	logger         logging.Logger // E2 instrumentation only
+ }
+ 
+ // NewClique creates a new Clique instance for communicating proposals and votes.
+@@ -23,17 +25,20 @@ func NewClique(
+ 	votingMachine *votingmachine.VotingMachine,
+ 	leaderRotation leaderrotation.LeaderRotation,
+ 	sender core.Sender,
++	logger logging.Logger,
+ ) *Clique {
+ 	return &Clique{
+ 		config:         config,
+ 		votingMachine:  votingMachine,
+ 		leaderRotation: leaderRotation,
+ 		sender:         sender,
++		logger:         logger,
+ 	}
+ }
+ 
+ // Disseminate broadcasts the proposal and aggregates my vote for this proposals.
+ func (hs *Clique) Disseminate(proposal *hotstuff.ProposeMsg, pc hotstuff.PartialCert) error {
++	hs.logger.Debugf("E2 SEND_PROPOSE view=%d from=%d to=ALL", proposal.Block.View(), hs.config.ID())
+ 	hs.sender.Propose(proposal)
+ 	return hs.Aggregate(proposal, pc)
+ }
+@@ -42,6 +47,7 @@ func (hs *Clique) Disseminate(proposal *hotstuff.ProposeMsg, pc hotstuff.Partial
+ func (hs *Clique) Aggregate(proposal *hotstuff.ProposeMsg, pc hotstuff.PartialCert) error {
+ 	nextView := proposal.Block.View() + 1
+ 	leaderID := hs.leaderRotation.GetLeader(nextView)
++	hs.logger.Debugf("E2 SEND_VOTE view=%d from=%d to=%d", proposal.Block.View(), hs.config.ID(), leaderID)
+ 	if leaderID == hs.config.ID() {
+ 		// if I am the leader in the next view, collect the vote for myself beforehand.
+ 		hs.votingMachine.CollectVote(hotstuff.VoteMsg{
+diff --git a/protocol/comm/factory.go b/protocol/comm/factory.go
+index 4021f18..07a08c4 100644
+--- a/protocol/comm/factory.go
++++ b/protocol/comm/factory.go
+@@ -53,6 +53,7 @@ func New(
+ 			),
+ 			leaderRotation,
+ 			sender,
++			logger,
+ 		)
+ 	default:
+ 		return nil, fmt.Errorf("invalid communication type: '%s'", name)
+diff --git a/protocol/synchronizer/synchronizer.go b/protocol/synchronizer/synchronizer.go
+index 728ca15..976723f 100644
+--- a/protocol/synchronizer/synchronizer.go
++++ b/protocol/synchronizer/synchronizer.go
+@@ -95,6 +95,7 @@ func New(
+ 	})
+ 	eventloop.Register(el, func(proposal hotstuff.ProposeMsg) {
+ 		s.logger.Debugf("Received proposal: %v", proposal.Block)
++		s.logger.Debugf("E2 RECV_PROPOSE view=%d from=%d to=%d", proposal.Block.View(), proposal.ID, s.config.ID())
+ 
+ 		// advance the view regardless of vote status
+ 		s.advanceView(hotstuff.NewSyncInfoWith(proposal.Block.QuorumCert()))
+@@ -180,6 +181,7 @@ func (s *Synchronizer) Start(ctx context.Context) {
+ 
+ // OnLocalTimeout is called when a local timeout happens.
+ func (s *Synchronizer) OnLocalTimeout() {
++	s.logger.Debugf("E2 LOCAL_TIMEOUT view=%d id=%d", s.state.View(), s.config.ID())
+ 	s.logger.Debug("OnLocalTimeout")
+ 	s.startTimeoutTimer()
+ 	currentView := s.state.View()
+diff --git a/twins/node.go b/twins/node.go
+index 5403af8..274d4a5 100644
+--- a/twins/node.go
++++ b/twins/node.go
+@@ -96,6 +96,7 @@ func newNode(n *Network, nodeID NodeID, consensusName string, pk *ecdsa.PrivateK
+ 		votingMachine,
+ 		node.leaderRotation,
+ 		node.sender,
++		node.logger,
+ 	)
+ 	node.voter = consensus.NewVoter(
+ 		node.config,

@@ -1,0 +1,6 @@
+{
+ "validators": 673,
+ "smallest_count_exceeding_third_of_stake": 18,
+ "fetched": "2026-10-12",
+ "source": "api.mainnet-beta.solana.com getVoteAccounts activatedStake"
+}

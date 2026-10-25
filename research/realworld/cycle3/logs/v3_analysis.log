@@ -1,0 +1,52 @@
+epoch 17270: n=84 T=6000 distinct=0.9828 sum_s2=0.0169 h8=1.0000 rec=0.7719 h2b obs/pred=0.7682/0.7473 live_stake=0.9911 failed=0.0000
+epoch 17279: n=84 T=6000 distinct=0.9813 sum_s2=0.0169 h8=1.0000 rec=0.7582 h2b obs/pred=0.7568/0.7274 live_stake=0.9911 failed=0.0007
+epoch 17280: n=84 T=6000 distinct=0.9848 sum_s2=0.0169 h8=1.0000 rec=0.7555 h2b obs/pred=0.7545/0.7215 live_stake=0.9911 failed=0.0008
+epoch 17283: n=84 T=6000 distinct=0.9827 sum_s2=0.0169 h8=1.0000 rec=0.7672 h2b obs/pred=0.7643/0.7489 live_stake=0.9911 failed=0.0000
+epoch 17284: n=84 T=6000 distinct=0.9812 sum_s2=0.0169 h8=1.0000 rec=0.7592 h2b obs/pred=0.7490/0.7421 live_stake=0.9911 failed=0.0003
+epoch 17285: n=84 T=6000 distinct=0.9825 sum_s2=0.0169 h8=1.0000 rec=0.7623 h2b obs/pred=0.7509/0.7474 live_stake=0.9911 failed=0.0002
+epoch 17287: n=84 T=6000 distinct=0.9843 sum_s2=0.0169 h8=1.0000 rec=0.7580 h2b obs/pred=0.7553/0.7359 live_stake=0.9911 failed=0.0005
+epoch 17292: n=84 T=6000 distinct=0.9837 sum_s2=0.0169 h8=1.0000 rec=0.7509 h2b obs/pred=0.7491/0.7210 live_stake=0.9911 failed=0.0000
+epoch 17293: n=84 T=6000 distinct=0.9832 sum_s2=0.0169 h8=1.0000 rec=0.7610 h2b obs/pred=0.7534/0.7333 live_stake=0.9911 failed=0.0003
+epoch 17297: n=85 T=6000 distinct=0.9828 sum_s2=0.0167 h8=1.0000 rec=0.7541 h2b obs/pred=0.7548/0.7302 live_stake=0.9912 failed=0.0003
+epoch 17298: n=85 T=6000 distinct=0.9853 sum_s2=0.0167 h8=1.0000 rec=0.7510 h2b obs/pred=0.7515/0.7242 live_stake=0.9912 failed=0.0002
+epoch 17299: n=85 T=6000 distinct=0.9855 sum_s2=0.0167 h8=1.0000 rec=0.7414 h2b obs/pred=0.7303/0.7323 live_stake=0.9912 failed=0.0000
+epoch 17300: n=85 T=6000 distinct=0.9820 sum_s2=0.0167 h8=1.0000 rec=0.7408 h2b obs/pred=0.7448/0.7211 live_stake=0.9912 failed=0.0000
+epoch 17301: n=85 T=6000 distinct=0.9833 sum_s2=0.0167 h8=1.0000 rec=0.7521 h2b obs/pred=0.7527/0.7267 live_stake=0.9912 failed=0.0007
+epoch 17303: n=85 T=6000 distinct=0.9847 sum_s2=0.0167 h8=1.0000 rec=0.7546 h2b obs/pred=0.7561/0.7194 live_stake=0.9912 failed=0.0000
+epoch 17304: n=85 T=6000 distinct=0.9825 sum_s2=0.0167 h8=1.0000 rec=0.7519 h2b obs/pred=0.7561/0.7220 live_stake=0.9912 failed=0.0007
+epoch 17307: n=85 T=6000 distinct=0.9833 sum_s2=0.0167 h8=1.0000 rec=0.7456 h2b obs/pred=0.7450/0.7257 live_stake=0.9912 failed=0.0005
+epoch 17308: n=85 T=6000 distinct=0.9800 sum_s2=0.0167 h8=1.0000 rec=0.7378 h2b obs/pred=0.7323/0.7146 live_stake=0.9912 failed=0.0002
+epoch 17315: n=85 T=6000 distinct=0.9822 sum_s2=0.0166 h8=1.0000 rec=0.7684 h2b obs/pred=0.7685/0.7333 live_stake=0.9779 failed=0.0003
+epoch 17319: n=85 T=6000 distinct=0.9831 sum_s2=0.0166 h8=1.0000 rec=0.7663 h2b obs/pred=0.7697/0.7387 live_stake=0.9779 failed=0.0015
+epoch 17322: n=85 T=6000 distinct=0.9830 sum_s2=0.0166 h8=1.0000 rec=0.7545 h2b obs/pred=0.7575/0.7326 live_stake=0.9779 failed=0.0002
+epoch 17324: n=85 T=6000 distinct=0.9791 sum_s2=0.0166 h8=1.0000 rec=0.7582 h2b obs/pred=0.7564/0.7234 live_stake=0.9779 failed=0.0008
+epoch 17325: n=85 T=6000 distinct=0.9818 sum_s2=0.0166 h8=1.0000 rec=0.7627 h2b obs/pred=0.7585/0.7401 live_stake=0.9779 failed=0.0007
+epoch 17327: n=85 T=6000 distinct=0.9817 sum_s2=0.0166 h8=1.0000 rec=0.7633 h2b obs/pred=0.7580/0.7317 live_stake=0.9779 failed=0.0005
+epoch 17328: n=85 T=6000 distinct=0.9837 sum_s2=0.0166 h8=1.0000 rec=0.7614 h2b obs/pred=0.7605/0.7375 live_stake=0.9779 failed=0.0003
+epoch 17331: n=85 T=6000 distinct=0.9847 sum_s2=0.0166 h8=1.0000 rec=0.7595 h2b obs/pred=0.7575/0.7386 live_stake=0.9779 failed=0.0000
+epoch 17332: n=85 T=6000 distinct=0.9813 sum_s2=0.0166 h8=1.0000 rec=0.7676 h2b obs/pred=0.7713/0.7429 live_stake=0.9754 failed=0.0002
+epoch 17339: n=85 T=6000 distinct=0.9835 sum_s2=0.0166 h8=1.0000 rec=0.7690 h2b obs/pred=0.7624/0.7501 live_stake=0.9779 failed=0.0000
+epoch 17343: n=85 T=6000 distinct=0.9807 sum_s2=0.0166 h8=1.0000 rec=0.7713 h2b obs/pred=0.7656/0.7530 live_stake=0.9754 failed=0.0003
+epoch 17345: n=85 T=6000 distinct=0.9823 sum_s2=0.0166 h8=1.0000 rec=0.7615 h2b obs/pred=0.7633/0.7324 live_stake=0.9754 failed=0.0002
+epoch 17347: n=85 T=6000 distinct=0.9828 sum_s2=0.0166 h8=1.0000 rec=0.7638 h2b obs/pred=0.7642/0.7400 live_stake=0.9779 failed=0.0003
+epoch 17348: n=85 T=6000 distinct=0.9800 sum_s2=0.0166 h8=1.0000 rec=0.7646 h2b obs/pred=0.7623/0.7464 live_stake=0.9779 failed=0.0003
+epoch 17349: n=85 T=6000 distinct=0.9815 sum_s2=0.0166 h8=1.0000 rec=0.7543 h2b obs/pred=0.7467/0.7424 live_stake=0.9779 failed=0.0002
+epoch 17350: n=85 T=6000 distinct=0.9838 sum_s2=0.0166 h8=1.0000 rec=0.7625 h2b obs/pred=0.7594/0.7384 live_stake=0.9779 failed=0.0005
+epoch 17351: n=85 T=6000 distinct=0.9807 sum_s2=0.0166 h8=1.0000 rec=0.7568 h2b obs/pred=0.7488/0.7385 live_stake=0.9779 failed=0.0002
+epoch 17352: n=85 T=6000 distinct=0.9827 sum_s2=0.0166 h8=1.0000 rec=0.7562 h2b obs/pred=0.7569/0.7310 live_stake=0.9779 failed=0.0000
+epoch 17353: n=85 T=6000 distinct=0.9823 sum_s2=0.0166 h8=1.0000 rec=0.7651 h2b obs/pred=0.7640/0.7433 live_stake=0.9779 failed=0.0003
+epoch 17354: n=85 T=6000 distinct=0.9828 sum_s2=0.0166 h8=1.0000 rec=0.7690 h2b obs/pred=0.7738/0.7393 live_stake=0.9779 failed=0.0010
+epoch 17356: n=85 T=6000 distinct=0.9855 sum_s2=0.0166 h8=1.0000 rec=0.7587 h2b obs/pred=0.7607/0.7312 live_stake=0.9779 failed=0.0003
+epoch 17360: n=85 T=6000 distinct=0.9800 sum_s2=0.0166 h8=1.0000 rec=0.7604 h2b obs/pred=0.7620/0.7339 live_stake=0.9779 failed=0.0018
+
+=== VERDICTS ===
+H1: K_LT_M_DOMINANT  {"mean": 0.9826236237075958, "lo": 0.9821489207961719, "hi": 0.9830971923846826, "n": 40}
+H1q: STAKE_COLLISION_SUPPORTED  {"mean": 1.0407615441344724, "lo": 1.0112330580016609, "hi": 1.069847949213877, "n": 40, "pooled_repeat_rate": 0.01737637629240422, "pooled_sum_s2": 0.016697484700670107}
+H3: SUPPORTED  {"mean": 0.0006252815688890911, "lo": 4.427649862333016e-05, "hi": 0.0012254674549658034, "n": 40, "mean_pi_schedule_implied": 0.5285933444582439, "mean_pi_stake_predicted": 0.5279680628893548, "mean_pi_generic": 0.5119370338496844}
+H8: QUORUM_TRUNCATED  {"pooled_fraction_in_band": 1.0, "signed_stake_min": 0.6666666688865739, "signed_stake_max": 0.7010193895911155}
+H2R: NON_IID  {"mean": 0.7587082462252138, "lo": 0.7562057023786847, "hi": 0.761088893641453, "n": 40, "mean_iid_predicted": 0.40277312165327983}
+H2b: STATIC_HETEROGENEITY_EXPLAINS  {"mean": 0.022332078133170542, "lo": 0.019484542324843694, "hi": 0.025069804985155437, "n": 40, "mean_observed": 0.7568333825639126, "mean_predicted": 0.7345013044307421}
+H9: LIVENESS_BOUND_FAILS  {"epochs_meeting_bound": 0.45, "min_live_stake": 0.9754290251257433, "mean_live_stake": 0.983673968203546, "mean_live_count": 0.9572584033613445}
+H10: LOW_FAULT_RATE  {"pooled_failed_round_fraction": 0.00038333333333333334, "total_round_gaps": 92}
+H6: NO_LEARNER_EXCEEDS_PI  {"epochs": 40, "pi_mean": 0.5286600270128131}
+wrote V3_RESULTS.json

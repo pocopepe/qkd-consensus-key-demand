@@ -1,0 +1,54 @@
+[17:02:28]   epoch-table page at 17125 unavailable: HTTP 410 (pruned) on https://fullnode.mainnet.aptoslabs.com/v1/accounts/0x1/events/0x1::reconfiguration::Configuration/events?start=17125&limit=100
+[17:04:00] chose 30 epochs from 92 candidates: [17230, 17231, 17235, 17242, 17243, 17248, 17249, 17254, 17255, 17256, 17262, 17263, 17264, 17268, 17271, 17272, 17274, 17275, 17276, 17278, 17281, 17289, 17302, 17306, 17310, 17311, 17317, 17318, 17320, 17323]
+[17:04:33] epoch 17230: 2000 rounds, n=84
+[17:05:05] epoch 17231: 2000 rounds, n=84
+[17:05:38] epoch 17235: 2000 rounds, n=84
+[17:05:47]   HTTP 429, waiting 60s (attempt 1)
+[17:07:12] epoch 17242: 2000 rounds, n=84
+[17:07:27]   HTTP 429, waiting 60s (attempt 1)
+[17:08:47] epoch 17243: 2000 rounds, n=84
+[17:09:04]   HTTP 429, waiting 60s (attempt 1)
+[17:10:21] epoch 17248: 2000 rounds, n=84
+[17:10:42]   HTTP 429, waiting 60s (attempt 1)
+[17:11:55] epoch 17249: 2000 rounds, n=84
+[17:12:26]   HTTP 429, waiting 60s (attempt 1)
+[17:13:30] epoch 17254: 2000 rounds, n=84
+[17:14:02] epoch 17255: 2000 rounds, n=84
+[17:14:08]   HTTP 429, waiting 60s (attempt 1)
+[17:15:36] epoch 17256: 2000 rounds, n=84
+[17:15:53]   HTTP 429, waiting 60s (attempt 1)
+[17:17:13] epoch 17262: 2000 rounds, n=84
+[17:17:37]   HTTP 429, waiting 60s (attempt 1)
+[17:18:47] epoch 17263: 2000 rounds, n=84
+[17:19:19]   HTTP 429, waiting 60s (attempt 1)
+[17:20:21] epoch 17264: 2000 rounds, n=84
+[17:20:54] epoch 17268: 2000 rounds, n=84
+[17:21:07]   HTTP 429, waiting 60s (attempt 1)
+[17:22:32] epoch 17271: 2000 rounds, n=84
+[17:22:55]   HTTP 429, waiting 60s (attempt 1)
+[17:24:06] epoch 17272: 2000 rounds, n=84
+[17:24:39] epoch 17274: 2000 rounds, n=84
+[17:24:40]   HTTP 429, waiting 60s (attempt 1)
+[17:26:13] epoch 17275: 2000 rounds, n=84
+[17:26:31]   HTTP 429, waiting 60s (attempt 1)
+[17:27:48] epoch 17276: 2000 rounds, n=84
+[17:28:21] epoch 17278: 2000 rounds, n=84
+[17:28:23]   HTTP 429, waiting 60s (attempt 1)
+[17:29:53] epoch 17281: 2000 rounds, n=84
+[17:30:09]   HTTP 429, waiting 60s (attempt 1)
+[17:31:28] epoch 17289: 2000 rounds, n=84
+[17:32:01] epoch 17302: 2000 rounds, n=85
+[17:32:03]   HTTP 429, waiting 60s (attempt 1)
+[17:33:35] epoch 17306: 2000 rounds, n=85
+[17:33:54]   HTTP 429, waiting 60s (attempt 1)
+[17:35:10] epoch 17310: 2000 rounds, n=85
+[17:35:40]   HTTP 429, waiting 60s (attempt 1)
+[17:36:43] epoch 17311: 2000 rounds, n=85
+[17:37:14] epoch 17317: 2000 rounds, n=85
+[17:37:17]   HTTP 429, waiting 60s (attempt 1)
+[17:38:48] epoch 17318: 2000 rounds, n=85
+[17:38:57]   HTTP 429, waiting 60s (attempt 1)
+[17:40:22] epoch 17320: 2000 rounds, n=85
+[17:40:37]   HTTP 429, waiting 60s (attempt 1)
+[17:41:56] epoch 17323: 2000 rounds, n=85
+[17:41:56] FETCH_COMPLETE

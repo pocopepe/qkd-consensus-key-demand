@@ -1,0 +1,57 @@
+==============================================================================
+H2/H3 held-out test: absence autocorrelation on Aptos mainnet
+==============================================================================
+resumed 2 epoch(s) from cached raw data: [17265, 17266]
+epoch candidates available: 60, need 3 more (have 2 cached), chosen: [17267, 17286, 17305]
+
+[10:22:04] --- epoch 17267 (epoch start 7191583200, sampling from 7191781079, offset 197879/992701) ---
+    (429 rate-limited, backing off 30s)
+    (429 rate-limited, backing off 60s)
+    (429 rate-limited, backing off 30s)
+    (429 rate-limited, backing off 30s)
+    (429 rate-limited, backing off 60s)
+    (429 rate-limited, backing off 30s)
+[10:26:25]   n=84  rounds_seen=128  mean_p=0.5996  recurrence=0.7751  iid_predicts=0.4004  h1_distinct_rate=0.9843
+[10:26:25] spacing 300s before next epoch pull, to stay clear of the rate-limit window rather than relying on reactive backoff
+
+[10:31:25] --- epoch 17286 (epoch start 7212470587, sampling from 7213157652, offset 687065/1064782) ---
+    (429 rate-limited, backing off 30s)
+    (429 rate-limited, backing off 60s)
+    (429 rate-limited, backing off 30s)
+    (429 rate-limited, backing off 60s)
+    (429 rate-limited, backing off 90s)
+[10:36:12]   n=84  rounds_seen=133  mean_p=0.5945  recurrence=0.7988  iid_predicts=0.4055  h1_distinct_rate=0.9924
+[10:36:12] spacing 300s before next epoch pull, to stay clear of the rate-limit window rather than relying on reactive backoff
+
+[10:41:12] --- epoch 17305 (epoch start 7234275383, sampling from 7234970221, offset 694838/1564359) ---
+    (429 rate-limited, backing off 30s)
+    (429 rate-limited, backing off 60s)
+    (429 rate-limited, backing off 90s)
+    (429 rate-limited, backing off 30s)
+    (429 rate-limited, backing off 60s)
+    (429 rate-limited, backing off 30s)
+    (429 rate-limited, backing off 60s)
+    (429 rate-limited, backing off 30s)
+    (429 rate-limited, backing off 60s)
+    (429 rate-limited, backing off 30s)
+    (429 rate-limited, backing off 30s)
+    (429 rate-limited, backing off 60s)
+    (429 rate-limited, backing off 30s)
+    (429 rate-limited, backing off 60s)
+    (429 rate-limited, backing off 30s)
+    (429 rate-limited, backing off 60s)
+    (429 rate-limited, backing off 30s)
+    (429 rate-limited, backing off 60s)
+[10:55:58]   n=85  rounds_seen=134  mean_p=0.5991  recurrence=0.7213  iid_predicts=0.4009  h1_distinct_rate=0.9850
+
+==============================================================================
+Verdict against the locked falsification bands
+==============================================================================
+epochs used: 5
+mean absence-recurrence rate: 0.7547  95% CI [0.7234, 0.7838] (bootstrap over epochs, not raw transitions)
+mean IID-predicted rate (1-p): 0.4007
+gap: +0.3540
+
+VERDICT: STICKY_SUPPORTED
+
+wrote /home/pocopepe/code/predictive/research/realworld/H2_H3_APTOS_HELDOUT_RESULT.json

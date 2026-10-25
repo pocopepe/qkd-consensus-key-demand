@@ -1,0 +1,98 @@
+{
+  "experiment_id": "M-marginal-leak-001",
+  "utc": "2026-08-20T13:56:13.539635+00:00",
+  "n": 16,
+  "views": 400,
+  "protocol": "chained-linear",
+  "baseline_top1": 0.0625,
+  "marginal": {
+    "1": {
+      "0": {
+        "traffic": 0.9375,
+        "prearm": 0.9375,
+        "marginal": 0.0
+      },
+      "1": {
+        "traffic": 1.0,
+        "prearm": 1.0,
+        "marginal": 0.0
+      },
+      "2": {
+        "traffic": 0.0,
+        "prearm": 0.0,
+        "marginal": 0.0
+      },
+      "3": {
+        "traffic": 0.0,
+        "prearm": 0.0,
+        "marginal": 0.0
+      }
+    },
+    "2": {
+      "0": {
+        "traffic": 0.9375,
+        "prearm": 0.875,
+        "marginal": -0.0625
+      },
+      "1": {
+        "traffic": 1.0,
+        "prearm": 0.9375,
+        "marginal": -0.0625
+      },
+      "2": {
+        "traffic": 0.0,
+        "prearm": 0.0625,
+        "marginal": 0.0625
+      },
+      "3": {
+        "traffic": 0.0,
+        "prearm": 0.0,
+        "marginal": 0.0
+      }
+    },
+    "3": {
+      "0": {
+        "traffic": 0.9375,
+        "prearm": 0.8125,
+        "marginal": -0.125
+      },
+      "1": {
+        "traffic": 1.0,
+        "prearm": 0.875,
+        "marginal": -0.125
+      },
+      "2": {
+        "traffic": 0.0,
+        "prearm": 0.0625,
+        "marginal": 0.0625
+      },
+      "3": {
+        "traffic": 0.0,
+        "prearm": 0.0625,
+        "marginal": 0.0625
+      }
+    },
+    "4": {
+      "0": {
+        "traffic": 0.9375,
+        "prearm": 0.75,
+        "marginal": -0.1875
+      },
+      "1": {
+        "traffic": 1.0,
+        "prearm": 0.8125,
+        "marginal": -0.1875
+      },
+      "2": {
+        "traffic": 0.0,
+        "prearm": 0.0625,
+        "marginal": 0.0625
+      },
+      "3": {
+        "traffic": 0.0,
+        "prearm": 0.0625,
+        "marginal": 0.0625
+      }
+    }
+  }
+}

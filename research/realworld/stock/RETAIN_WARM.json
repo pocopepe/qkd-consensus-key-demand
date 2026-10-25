@@ -1,0 +1,100 @@
+{
+ "note": "post hoc; same policy as stock_levels.retain",
+ "by_quarter": {
+  "1": {
+   "late_all": 0.014218690805589573,
+   "late_by_quarter": [
+    0.04887549045102868,
+    0.004114963609560207,
+    0.002305100344197175,
+    0.00161772825734241
+   ],
+   "final_position_per_pair": 2.814686758237432,
+   "tags_per_pair_per_epoch": 197.37228588405057
+  },
+  "5": {
+   "late_all": 0.02308614739399273,
+   "late_by_quarter": [
+    0.07522657291263679,
+    0.008957666715234569,
+    0.0048850628977944455,
+    0.0033341227789478456
+   ],
+   "final_position_per_pair": 4.569502813903948,
+   "tags_per_pair_per_epoch": 197.37228588405057
+  },
+  "50": {
+   "late_all": 0.050710461688322606,
+   "late_by_quarter": [
+    0.16280843169496517,
+    0.021038090375526064,
+    0.01144225476755567,
+    0.007674052401055231
+   ],
+   "final_position_per_pair": 10.037011197323032,
+   "tags_per_pair_per_epoch": 197.37228588405057
+  }
+ },
+ "long": [
+  {
+   "n": 84,
+   "delta": 1,
+   "epochs": 27,
+   "views": 73999,
+   "late_all": 0.0010088055569621446,
+   "late_first_tenth": 0.008652260074220375,
+   "late_last_tenth": 6.431999114175913e-05,
+   "final_position_per_pair": 3.5547905909351694
+  },
+  {
+   "n": 84,
+   "delta": 5,
+   "epochs": 27,
+   "views": 73999,
+   "late_all": 0.0017683404057723395,
+   "late_first_tenth": 0.013980235036646138,
+   "late_last_tenth": 8.223188740907883e-05,
+   "final_position_per_pair": 6.231210556511761
+  },
+  {
+   "n": 84,
+   "delta": 50,
+   "epochs": 27,
+   "views": 73999,
+   "late_all": 0.003846437521054069,
+   "late_first_tenth": 0.03187340523059934,
+   "late_last_tenth": 0.0004315138646219241,
+   "final_position_per_pair": 13.553930005737234
+  },
+  {
+   "n": 85,
+   "delta": 1,
+   "epochs": 39,
+   "views": 201999,
+   "late_all": 0.0003928296203258297,
+   "late_first_tenth": 0.003396856044264318,
+   "late_last_tenth": 2.8879317457985998e-05,
+   "final_position_per_pair": 3.734173669467787
+  },
+  {
+   "n": 85,
+   "delta": 5,
+   "epochs": 39,
+   "views": 201999,
+   "late_all": 0.0006957542694105978,
+   "late_first_tenth": 0.005844525542282875,
+   "late_last_tenth": 9.695199432313562e-05,
+   "final_position_per_pair": 6.613725490196078
+  },
+  {
+   "n": 85,
+   "delta": 50,
+   "epochs": 39,
+   "views": 201999,
+   "late_all": 0.0015420279072574372,
+   "late_first_tenth": 0.012628512962687966,
+   "late_last_tenth": 0.00021806831549886496,
+   "final_position_per_pair": 14.658263305322128
+  }
+ ]
+}

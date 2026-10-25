@@ -1,0 +1,57 @@
+
+=== ring+chords, generous kernel budget ===
+    M_max=192 entries (8 KiB), U_max=192 updates/view
+forecaster  policy          hit  starve   p50 ms   p99 ms  miss dl   waste  churn  trunc
+--          reactive      0.000   0.000    7.500     9.00    0.000   0.000    0.0      0
+ewma        greedy        0.007   0.000    7.500     9.00    0.000   0.051  101.1      0
+ewma        hysteretic    0.007   0.000    7.500     9.00    0.000   0.040   94.5      0
+ewma        atomic        0.007   0.000    7.500     9.00    0.000   0.042  101.8      0
+ewma        quorum        0.007   0.000    7.500     9.00    0.000   0.042  101.8      0
+holt        greedy        0.044   0.000    7.500     9.00    0.000   0.037   94.1      0
+holt        hysteretic    0.044   0.000    7.500     9.00    0.000   0.037   89.6      0
+holt        atomic        0.044   0.000    7.500     9.00    0.000   0.044   94.5      0
+holt        quorum        0.044   0.000    7.500     9.00    0.000   0.044   94.5      0
+structural  greedy        0.652   0.000    0.050     9.00    0.000   0.033   83.8      0
+structural  exact_dp      0.655   0.000    0.050     9.00    0.000   0.033   83.7      0
+structural  hysteretic    0.652   0.000    0.050     9.00    0.000   0.026   81.7      0
+structural  lagrangian    0.652   0.000    0.050     9.00    0.000   0.033   83.8      0
+structural  atomic        0.943   0.000    0.050     7.50    0.000   0.872   85.3      0
+structural  quorum        0.835   0.000    0.050     9.00    0.000   1.225   68.6      0
+
+=== ring+chords, constrained update budget ===
+    M_max=192 entries (8 KiB), U_max=24 updates/view
+forecaster  policy          hit  starve   p50 ms   p99 ms  miss dl   waste  churn  trunc
+--          reactive      0.000   0.000    7.500     9.00    0.000   0.000    0.0      0
+ewma        greedy        0.001   0.000    7.500     9.00    0.000   0.019   24.0    380
+ewma        hysteretic    0.001   0.000    7.500     9.00    0.000   0.000   24.0    380
+ewma        atomic        0.003   0.000    7.500     9.00    0.000   0.058   24.0    377
+ewma        quorum        0.003   0.000    7.500     9.00    0.000   0.058   24.0    377
+holt        greedy        0.009   0.000    7.500     9.00    0.000   0.015   24.0    380
+holt        hysteretic    0.009   0.000    7.500     9.00    0.000   0.003   24.0    380
+holt        atomic        0.029   0.000    7.500     9.00    0.000   0.090   24.0    380
+holt        quorum        0.029   0.000    7.500     9.00    0.000   0.090   24.0    380
+structural  greedy        0.172   0.000    6.000     9.00    0.000   0.010   24.0    380
+structural  exact_dp      0.174   0.000    6.000     9.00    0.000   0.010   24.0    380
+structural  hysteretic    0.430   0.000    4.500     9.00    0.000   0.002   24.0    359
+structural  lagrangian    0.172   0.000    6.000     9.00    0.000   0.010   24.0    380
+structural  atomic        0.330   0.000    7.500     9.00    0.000   0.010   15.0      0
+structural  quorum        0.529   0.000    0.050     9.00    0.000   0.008   22.7      0
+
+=== metro star, constrained update budget ===
+    M_max=192 entries (8 KiB), U_max=24 updates/view
+forecaster  policy          hit  starve   p50 ms   p99 ms  miss dl   waste  churn  trunc
+--          reactive      0.000   0.000    7.500     7.50    0.000   0.000    0.0      0
+ewma        greedy        0.001   0.000    7.500     7.50    0.000   0.028   24.0    380
+ewma        hysteretic    0.001   0.000    7.500     7.50    0.000   0.000   24.0    380
+ewma        atomic        0.002   0.000    7.500     7.50    0.000   0.085   24.0    380
+ewma        quorum        0.002   0.000    7.500     7.50    0.000   0.085   24.0    380
+holt        greedy        0.008   0.000    7.500     7.50    0.000   0.027   24.0    380
+holt        hysteretic    0.007   0.000    7.500     7.50    0.000   0.003   24.0    380
+holt        atomic        0.025   0.000    7.500     7.50    0.000   0.124   24.0    380
+holt        quorum        0.025   0.000    7.500     7.50    0.000   0.124   24.0    380
+structural  greedy        0.155   0.000    7.500     7.50    0.000   0.010   24.0    380
+structural  exact_dp      0.155   0.000    7.500     7.50    0.000   0.010   24.0    380
+structural  hysteretic    0.465   0.000    7.500     7.50    0.000   0.001   24.0    359
+structural  lagrangian    0.155   0.000    7.500     7.50    0.000   0.010   24.0    380
+structural  atomic        0.330   0.000    7.500     7.50    0.000   0.007   14.8      0
+structural  quorum        0.531   0.000    0.050     7.50    0.000   0.011   23.0     22

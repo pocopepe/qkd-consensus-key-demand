@@ -1,0 +1,9 @@
+{
+ "head_slot": 15410138,
+ "epoch_counted": 481565,
+ "committees": 2048,
+ "slots": 32,
+ "active_validators": 846377,
+ "fetched": "2026-10-12",
+ "source": "https://ethereum-beacon-api.publicnode.com /eth/v1/beacon/states/head/committees?epoch="
+}

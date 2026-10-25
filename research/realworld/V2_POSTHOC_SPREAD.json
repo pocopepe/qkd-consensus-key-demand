@@ -1,0 +1,9 @@
+{
+ "observed_sd_across_epochs": 0.002245430476760729,
+ "predicted_sd_window_mean": 0.002093161205833974,
+ "ratio": 1.0727460792328638,
+ "observed_mean_offset": 0.0010037962009066075,
+ "simulated_mean_offset": 2.0467568701264723e-05,
+ "epochs": 30,
+ "simulated_windows": 1200
+}

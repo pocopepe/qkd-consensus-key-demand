@@ -1,0 +1,39 @@
+# Upstream implementations under test — each is a separate git repository.
+# Their commit hashes, submodule pointers, and instrumentation diffs are
+# recorded in research/REPRODUCIBILITY_FREEZE.md and research/freeze/*.diff
+ext/
+
+# Raw CometBFT p2p traces for E1: 1.68 GiB across 30 files.
+# Retained on disk, deliberately not stored in git.
+# Every file is SHA-256 pinned in research/freeze/EXCLUDED_RAW_SHA256.txt
+# Derived outputs (processed/, tables/, figures/) ARE committed.
+research/results/e1/raw/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# LaTeX build products (paper.bbl and paper.pdf are kept on purpose)
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.blg
+paper/*.synctex.gz
+
+# Regenerated on every ./demo/run.sh
+demo/output/
+
+# Atomic-write temporaries and derived, regenerable trace copies
+*.tmp
+research/realworld/e3/raw_dedup/
+research/realworld/e3/raw_c_dedup/
+research/realworld/e3/raw_d_dedup/
+research/realworld/e3/raw_t_dedup/
+research/realworld/sampleA_v2fmt/
+
+# Cycle-3 full-epoch Aptos archive (large; regenerable from the chain while retained; SHA-256 recorded at completion)
+research/realworld/raw_v3_full/
+# Cycle-3 scheduler state
+research/realworld/cycle3/*.done
+research/realworld/cycle3/.*.lock
+research/realworld/cycle3/*.finished

@@ -1,0 +1,107 @@
+{
+ "tag_bits": 128,
+ "rows": [
+  {
+   "chain": "Aptos",
+   "n": 84,
+   "f": 27,
+   "floor_tags_per_view_L1": 2352.0,
+   "tags_per_decision": 14027,
+   "ratio_to_floor_L1": 5.963860544217687,
+   "max_L_at_which_pattern_is_below_floor": 0
+  },
+  {
+   "chain": "Cosmos Hub",
+   "n": 180,
+   "f": 59,
+   "floor_tags_per_view_L1": 10800.0,
+   "tags_per_decision": 64619,
+   "ratio_to_floor_L1": 5.983240740740741,
+   "max_L_at_which_pattern_is_below_floor": 0
+  },
+  {
+   "chain": "Polkadot",
+   "n": 599,
+   "f": 199,
+   "floor_tags_per_view_L1": 119800.0,
+   "tags_per_decision": 717002,
+   "ratio_to_floor_L1": 5.984991652754591,
+   "max_L_at_which_pattern_is_below_floor": 0
+  },
+  {
+   "chain": "Sui",
+   "n": 127,
+   "f": 42,
+   "floor_tags_per_view_L1": 5461.0,
+   "tags_per_decision": 16002,
+   "ratio_to_floor_L1": 2.9302325581395348,
+   "max_L_at_which_pattern_is_below_floor": 0
+  },
+  {
+   "chain": "Solana",
+   "n": 672,
+   "f": 223,
+   "floor_tags_per_view_L1": 150528.0,
+   "tags_per_decision": 1342,
+   "ratio_to_floor_L1": 0.008915284863945579,
+   "max_L_at_which_pattern_is_below_floor": 112
+  },
+  {
+   "chain": "Avalanche",
+   "n": 590,
+   "f": 196,
+   "floor_tags_per_view_L1": 116230.0,
+   "tags_per_decision": 472000,
+   "ratio_to_floor_L1": 4.060913705583756,
+   "max_L_at_which_pattern_is_below_floor": 0
+  },
+  {
+   "chain": "Ethereum",
+   "n": 846377,
+   "f": 282125,
+   "floor_tags_per_view_L1": 238784957502.0,
+   "tags_per_decision": 879145,
+   "ratio_to_floor_L1": 3.6817436458183783e-06,
+   "max_L_at_which_pattern_is_below_floor": 271610
+  }
+ ],
+ "t2_model_only": {
+  "84": {
+   "f": 27,
+   "k20_all_corrupt": 1.0856366387275481e-13,
+   "k20_15_of_20_corrupt": 8.732848721541457e-06,
+   "k_for_1e-9": 16
+  },
+  "590": {
+   "f": 196,
+   "k20_all_corrupt": 1.4085840433275e-10,
+   "k20_15_of_20_corrupt": 0.00012626309604687764,
+   "k_for_1e-9": 19
+  }
+ },
+ "stake_weighted": {
+  "aptos": {
+   "n": 84,
+   "smallest_count_over_third": 14,
+   "src": "raw_v3 epoch stakes, 10 epochs, all 14",
+   "floor_L1": 1176,
+   "hybrid_L_threshold": 7.0843373493975905,
+   "broadcast_ratio_to_stake_floor": 11.927721088435375
+  },
+  "solana": {
+   "n": 672,
+   "smallest_count_over_third": 18,
+   "src": "chains/solana_stake.json (18 of 673 at the stake query; n = 672 as in the chain table, one validator fewer at the earlier query)",
+   "floor_L1": 12096,
+   "hybrid_L_threshold": 9.013412816691504
+  }
+ },
+ "n84": {
+  "f": 27,
+  "floor_L1": 2352.0,
+  "broadcast_ratio": 2.999574829931973,
+  "hybrid_L_threshold": 14.168674698795181,
+  "ithotstuff_ratio": 23.714285714285715,
+  "limit_ratio_f_to_n_over_3": 3.0
+ }
+}

@@ -1,0 +1,245 @@
+{
+ "chosen": [
+  {
+   "epoch": 17254,
+   "version": 7179156045,
+   "next_version": 7180107871,
+   "first_height": 1039759592,
+   "last_height": 1039954220,
+   "start_height": 1039894631
+  },
+  {
+   "epoch": 17276,
+   "version": 7200986307,
+   "next_version": 7202126647,
+   "first_height": 1044032499,
+   "last_height": 1044231892,
+   "start_height": 1044116023
+  },
+  {
+   "epoch": 17231,
+   "version": 7154444140,
+   "next_version": 7155717021,
+   "first_height": 1035339314,
+   "last_height": 1035531233,
+   "start_height": 1035383612
+  },
+  {
+   "epoch": 17235,
+   "version": 7158987544,
+   "next_version": 7160029042,
+   "first_height": 1036111419,
+   "last_height": 1036302025,
+   "start_height": 1036214237
+  },
+  {
+   "epoch": 17278,
+   "version": 7203205749,
+   "next_version": 7204595127,
+   "first_height": 1044428233,
+   "last_height": 1044615845,
+   "start_height": 1044480871
+  },
+  {
+   "epoch": 17256,
+   "version": 7181054002,
+   "next_version": 7182005533,
+   "first_height": 1040145973,
+   "last_height": 1040339271,
+   "start_height": 1040325926
+  },
+  {
+   "epoch": 17243,
+   "version": 7167859068,
+   "next_version": 7169291531,
+   "first_height": 1037647218,
+   "last_height": 1037832894,
+   "start_height": 1037806307
+  },
+  {
+   "epoch": 17248,
+   "version": 7173485869,
+   "next_version": 7174397451,
+   "first_height": 1038601343,
+   "last_height": 1038791452,
+   "start_height": 1038625102
+  },
+  {
+   "epoch": 17310,
+   "version": 7240137373,
+   "next_version": 7241194408,
+   "first_height": 1050698216,
+   "last_height": 1050893558,
+   "start_height": 1050799813
+  },
+  {
+   "epoch": 17274,
+   "version": 7198828822,
+   "next_version": 7199875550,
+   "first_height": 1043633121,
+   "last_height": 1043833521,
+   "start_height": 1043700062
+  },
+  {
+   "epoch": 17320,
+   "version": 7251279123,
+   "next_version": 7252384155,
+   "first_height": 1052624453,
+   "last_height": 1052816659,
+   "start_height": 1052639961
+  },
+  {
+   "epoch": 17264,
+   "version": 7188553566,
+   "next_version": 7189610490,
+   "first_height": 1041702982,
+   "last_height": 1041897026,
+   "start_height": 1041769187
+  },
+  {
+   "epoch": 17262,
+   "version": 7186633768,
+   "next_version": 7187576476,
+   "first_height": 1041312134,
+   "last_height": 1041507651,
+   "start_height": 1041364244
+  },
+  {
+   "epoch": 17230,
+   "version": 7152963488,
+   "next_version": 7154444140,
+   "first_height": 1035152157,
+   "last_height": 1035339313,
+   "start_height": 1035177362
+  },
+  {
+   "epoch": 17255,
+   "version": 7180107871,
+   "next_version": 7181054002,
+   "first_height": 1039954221,
+   "last_height": 1040145972,
+   "start_height": 1040018662
+  },
+  {
+   "epoch": 17323,
+   "version": 7254730970,
+   "next_version": 7255895222,
+   "first_height": 1053198925,
+   "last_height": 1053389938,
+   "start_height": 1053282437
+  },
+  {
+   "epoch": 17317,
+   "version": 7248205892,
+   "next_version": 7249287941,
+   "first_height": 1052043269,
+   "last_height": 1052237527,
+   "start_height": 1052131809
+  },
+  {
+   "epoch": 17311,
+   "version": 7241194408,
+   "next_version": 7242269110,
+   "first_height": 1050893559,
+   "last_height": 1051087905,
+   "start_height": 1051049656
+  },
+  {
+   "epoch": 17272,
+   "version": 7196580949,
+   "next_version": 7197722477,
+   "first_height": 1043240790,
+   "last_height": 1043434766,
+   "start_height": 1043307318
+  },
+  {
+   "epoch": 17289,
+   "version": 7215670004,
+   "next_version": 7216711391,
+   "first_height": 1046596817,
+   "last_height": 1046796541,
+   "start_height": 1046649549
+  },
+  {
+   "epoch": 17302,
+   "version": 7230467939,
+   "next_version": 7231762777,
+   "first_height": 1049154233,
+   "last_height": 1049346825,
+   "start_height": 1049183208
+  },
+  {
+   "epoch": 17306,
+   "version": 7235839742,
+   "next_version": 7236885698,
+   "first_height": 1049918294,
+   "last_height": 1050113869,
+   "start_height": 1050027537
+  },
+  {
+   "epoch": 17268,
+   "version": 7192575901,
+   "next_version": 7193549704,
+   "first_height": 1042473140,
+   "last_height": 1042664703,
+   "start_height": 1042574873
+  },
+  {
+   "epoch": 17271,
+   "version": 7195454318,
+   "next_version": 7196580949,
+   "first_height": 1043049630,
+   "last_height": 1043240789,
+   "start_height": 1043180770
+  },
+  {
+   "epoch": 17242,
+   "version": 7166150043,
+   "next_version": 7167859068,
+   "first_height": 1037472213,
+   "last_height": 1037647217,
+   "start_height": 1037597912
+  },
+  {
+   "epoch": 17249,
+   "version": 7174397451,
+   "next_version": 7175337955,
+   "first_height": 1038791453,
+   "last_height": 1038980018,
+   "start_height": 1038937578
+  },
+  {
+   "epoch": 17318,
+   "version": 7249287941,
+   "next_version": 7250262129,
+   "first_height": 1052237528,
+   "last_height": 1052432628,
+   "start_height": 1052288252
+  },
+  {
+   "epoch": 17281,
+   "version": 7207123160,
+   "next_version": 7208272897,
+   "first_height": 1045003465,
+   "last_height": 1045202445,
+   "start_height": 1045097954
+  },
+  {
+   "epoch": 17275,
+   "version": 7199875550,
+   "next_version": 7200986307,
+   "first_height": 1043833522,
+   "last_height": 1044032498,
+   "start_height": 1043940897
+  },
+  {
+   "epoch": 17263,
+   "version": 7187576476,
+   "next_version": 7188553566,
+   "first_height": 1041507652,
+   "last_height": 1041702981,
+   "start_height": 1041596135
+  }
+ ],
+ "candidates": 92
+}

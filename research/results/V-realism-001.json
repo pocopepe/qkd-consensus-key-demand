@@ -1,0 +1,78 @@
+{
+  "experiment_id": "V-realism-001",
+  "utc": "2026-08-20T14:11:00.191790+00:00",
+  "n": 16,
+  "views": 500,
+  "rows": [
+    {
+      "config": "ideal chained (m=2, k=1)",
+      "pi": 0.5666666666666665,
+      "gain": 0.43333333333333346,
+      "ewma_cov": 0.5666666666666664,
+      "support": 29.0
+    },
+    {
+      "config": "pipelined depth 2",
+      "pi": 0.7333333333333333,
+      "gain": 0.2666666666666667,
+      "ewma_cov": 0.4444444444444446,
+      "support": 42.0
+    },
+    {
+      "config": "pipelined depth 3",
+      "pi": 0.8166666666666665,
+      "gain": 0.18333333333333346,
+      "ewma_cov": 0.3666666666666666,
+      "support": 54.0
+    },
+    {
+      "config": "pipelined depth 5",
+      "pi": 0.9000000000000001,
+      "gain": 0.09999999999999987,
+      "ewma_cov": 0.38888888888888895,
+      "support": 75.0
+    },
+    {
+      "config": "aggregation tree, fanout 4",
+      "pi": 0.4894455577822311,
+      "gain": 0.5105544422177689,
+      "ewma_cov": 0.537536231884058,
+      "support": 28.104
+    },
+    {
+      "config": "aggregation tree, fanout 2",
+      "pi": 0.49378757515030064,
+      "gain": 0.5062124248496993,
+      "ewma_cov": 0.5457246376811593,
+      "support": 28.11
+    },
+    {
+      "config": "vote gossip, degree 2",
+      "pi": 0.32703705282906237,
+      "gain": 0.6729629471709376,
+      "ewma_cov": 0.22853839037927845,
+      "support": 41.12
+    },
+    {
+      "config": "vote gossip, degree 4",
+      "pi": 0.5234519672255904,
+      "gain": 0.4765480327744096,
+      "ewma_cov": 0.2415244909190974,
+      "support": 63.408
+    },
+    {
+      "config": "vote gossip, degree 8",
+      "pi": 0.8052468573510657,
+      "gain": 0.19475314264893429,
+      "ewma_cov": 0.24407114624505924,
+      "support": 97.022
+    },
+    {
+      "config": "batching x64 (control)",
+      "pi": 0.9866666666666665,
+      "gain": 0.01333333333333353,
+      "ewma_cov": 0.13333333333333333,
+      "support": 29.0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+<svg viewBox="0 0 510 180" width="100%" xmlns="http://www.w3.org/2000/svg" class="viz">
+<style>.viz{--surface-1:#fcfcfb;--ink:#0b0b0b;--ink2:#52514e;--edge:#8a8a86;--hub:#2a78d6;--node:#c9d3de;font-family:ui-sans-serif,system-ui,sans-serif}@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .viz{--surface-1:#1a1a19;--ink:#f5f5f2;--ink2:#c3c2b7;--edge:#5a5a56;--hub:#3987e5;--node:#3b4654;}}:root[data-theme="dark"] .viz{--surface-1:#1a1a19;--ink:#f5f5f2;--ink2:#c3c2b7;--edge:#5a5a56;--hub:#3987e5;--node:#3b4654;}.gt{fill:var(--ink);font-size:12px;font-weight:600}.gs{fill:var(--ink2);font-size:10px}.ge{stroke:var(--edge);stroke-width:1.4}.gn{fill:var(--node);stroke:var(--surface-1);stroke-width:1.5}.gh{fill:var(--hub);stroke:var(--surface-1);stroke-width:1.5}</style>
+<rect width="510" height="180" fill="var(--surface-1)"/>
+<g transform="translate(0,0)"><g>
+<text class="gt" x="78" y="16" text-anchor="middle">ideal chained rotation</text>
+<text class="gs" x="78" y="30" text-anchor="middle">model: m=2, k=1</text>
+<line class="ge" x1="78.0" y1="36.0" x2="130.0" y2="88.0"/>
+<line class="ge" x1="78.0" y1="36.0" x2="78.0" y2="140.0"/>
+<line class="ge" x1="78.0" y1="36.0" x2="26.0" y2="88.0"/>
+<line class="ge" x1="130.0" y1="88.0" x2="78.0" y2="140.0"/>
+<line class="ge" x1="130.0" y1="88.0" x2="26.0" y2="88.0"/>
+<circle class="gh" cx="78.0" cy="36.0" r="5"/>
+<circle class="gh" cx="130.0" cy="88.0" r="5"/>
+<circle class="gn" cx="78.0" cy="140.0" r="5"/>
+<circle class="gn" cx="26.0" cy="88.0" r="5"/>
+</g></g>
+<g transform="translate(170,0)"><g>
+<text class="gt" x="78" y="16" text-anchor="middle">libhotstuff</text>
+<text class="gs" x="78" y="30" text-anchor="middle">measured: 3 edges, view (6118, 0)</text>
+<line class="ge" x1="78.0" y1="36.0" x2="130.0" y2="88.0"/>
+<line class="ge" x1="78.0" y1="36.0" x2="78.0" y2="140.0"/>
+<line class="ge" x1="78.0" y1="36.0" x2="26.0" y2="88.0"/>
+<circle class="gh" cx="78.0" cy="36.0" r="5"/>
+<circle class="gn" cx="130.0" cy="88.0" r="5"/>
+<circle class="gn" cx="78.0" cy="140.0" r="5"/>
+<circle class="gn" cx="26.0" cy="88.0" r="5"/>
+</g></g>
+<g transform="translate(340,0)"><g>
+<text class="gt" x="78" y="16" text-anchor="middle">CometBFT</text>
+<text class="gs" x="78" y="30" text-anchor="middle">measured: 6 edges, view (679, 0)</text>
+<line class="ge" x1="78.0" y1="36.0" x2="130.0" y2="88.0"/>
+<line class="ge" x1="78.0" y1="36.0" x2="78.0" y2="140.0"/>
+<line class="ge" x1="78.0" y1="36.0" x2="26.0" y2="88.0"/>
+<line class="ge" x1="130.0" y1="88.0" x2="78.0" y2="140.0"/>
+<line class="ge" x1="130.0" y1="88.0" x2="26.0" y2="88.0"/>
+<line class="ge" x1="78.0" y1="140.0" x2="26.0" y2="88.0"/>
+<circle class="gh" cx="78.0" cy="36.0" r="5"/>
+<circle class="gh" cx="130.0" cy="88.0" r="5"/>
+<circle class="gh" cx="78.0" cy="140.0" r="5"/>
+<circle class="gh" cx="26.0" cy="88.0" r="5"/>
+</g></g>
+</svg>

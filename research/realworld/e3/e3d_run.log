@@ -1,0 +1,25 @@
+  role_n8_g0: 1015 views, load 1.2->0.7
+  role_n8_g1: 613 views, load 0.7->0.4
+  role_n8_g2: 850 views, load 0.4->0.2
+  role_n8_g3: 356 views, load 0.2->0.3
+  role_n8_g4: 754 views, load 0.3->0.5
+  role_n8_g5: 376 views, load 0.5->0.2
+  role_n8_g6: 651 views, load 0.2->0.5
+  role_n8_g7: 973 views, load 0.5->0.5
+  role_n16_g0: 778 views, load 0.5->0.7
+  role_n16_g1: 956 views, load 0.7->1.2
+  role_n16_g2: 648 views, load 1.2->1.8
+  role_n16_g3: 539 views, load 1.8->0.6
+  role_n16_g4: 868 views, load 0.6->0.7
+  role_n16_g5: 707 views, load 0.7->1.4
+  role_n16_g6: 750 views, load 1.4->0.9
+  role_n16_g7: 682 views, load 0.9->0.4
+  role_n32_g0: 913 views, load 0.4->2.9
+  role_n32_g1: 775 views, load 2.9->2.3
+  role_n32_g2: 811 views, load 2.3->4.3
+  role_n32_g3: 565 views, load 4.3->1.8
+  role_n32_g4: 675 views, load 1.8->3.5
+  role_n32_g5: 561 views, load 3.5->5.6
+  role_n32_g6: 863 views, load 5.6->4.5
+  role_n32_g7: 732 views, load 4.5->2.8
+E3D_DONE

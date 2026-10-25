@@ -1,0 +1,6 @@
+retained carry-forward, lead  1: on time 0.9858 [0.9841, 0.9871]  standing 2.523 tags/pair
+retained carry-forward, lead  2: on time 0.9815 [0.9794, 0.9832]  standing 3.174 tags/pair
+retained carry-forward, lead  5: on time 0.9769 [0.9743, 0.9789]  standing 3.941 tags/pair
+retained carry-forward, lead 10: on time 0.9719 [0.9688, 0.9744]  standing 4.760 tags/pair
+retained carry-forward, lead 20: on time 0.9648 [0.9609, 0.9678]  standing 5.958 tags/pair
+retained carry-forward, lead 50: on time 0.9493 [0.9438, 0.9537]  standing 8.542 tags/pair

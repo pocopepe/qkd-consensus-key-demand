@@ -1,0 +1,7 @@
+block refill every  10 s =   268 views (66 epochs with a complete period): mean demand   12.6 tags/pair/period (4vT/n =   12.8); 0.99: depth 31 (0.9917); 0.999: depth 40 (0.9991)
+block refill every  30 s =   804 views (66 epochs with a complete period): mean demand   37.9 tags/pair/period (4vT/n =   38.3); 0.99: depth 80 (0.9904); 0.999: depth 103 (0.9991)
+block refill every  60 s =  1608 views (65 epochs with a complete period): mean demand   75.8 tags/pair/period (4vT/n =   76.6); 0.99: depth 154 (0.9904); 0.999: depth 195 (0.9990)
+block refill every  90 s =  2412 views (36 epochs with a complete period): mean demand  113.7 tags/pair/period (4vT/n =  114.8); 0.99: depth 228 (0.9903); 0.999: depth 287 (0.9990)
+ring, 1 view(s) per hop, farthest pair 42 views: 0.99: uniform 9 / by distance 6.502159081960641; 0.999: uniform 12 / by distance 8.786278600523817
+ring, 2 view(s) per hop, farthest pair 84 views: 0.99: uniform 13 / by distance 9.150901952602874; 0.999: uniform 18 / by distance 11.975282234105766
+ring, 5 view(s) per hop, farthest pair 210 views: 0.99: uniform 25 / by distance 15.362875796539866; 0.999: uniform 33 / by distance 19.198049953826

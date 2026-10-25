@@ -1,0 +1,48 @@
+<svg viewBox="0 0 760 420" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Figure 4  Starvation difference S(TTL=8) - S(TTL=1) vs amplification" class="viz">
+<style>.viz{--surface-1:#fcfcfb;--text-primary:#0b0b0b;--text-secondary:#52514e;--muted:#8a8a86;--grid:#e4e4e1;--s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--s4:#4a3aa7;font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .viz{--surface-1:#1a1a19;--text-primary:#f5f5f2;--text-secondary:#c3c2b7;--muted:#8e8e88;--grid:#2e2e2c;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#9085e9;}}:root[data-theme="dark"] .viz{--surface-1:#1a1a19;--text-primary:#f5f5f2;--text-secondary:#c3c2b7;--muted:#8e8e88;--grid:#2e2e2c;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#9085e9;}.viz .ttl{fill:var(--text-primary);font-size:15px;font-weight:600}.viz .sub{fill:var(--text-secondary);font-size:12px}.viz .ax{fill:var(--text-secondary);font-size:11px;font-variant-numeric:tabular-nums}.viz .axname{fill:var(--muted);font-size:11px;letter-spacing:.04em}.viz .gl{stroke:var(--grid);stroke-width:1}.viz .dl{font-size:11.5px;font-weight:600;font-variant-numeric:tabular-nums}.viz .ln{fill:none;stroke-width:2;stroke-linejoin:round;stroke-linecap:round}.viz .mk{stroke:var(--surface-1);stroke-width:2}</style>
+<rect x="0" y="0" width="760" height="420" fill="var(--surface-1)"/>
+<text class="ttl" x="64" y="24">Figure 4  Starvation difference S(TTL=8) - S(TTL=1) vs amplification</text>
+<text class="sub" x="64" y="42">Rises toward zero as h grows; the real topology arm crosses above it.</text>
+<line class="gl" x1="64" y1="364.0" x2="628" y2="364.0"/>
+<text class="ax" x="55" y="368.0" text-anchor="end">-0.300</text>
+<line class="gl" x1="64" y1="266.0" x2="628" y2="266.0"/>
+<text class="ax" x="55" y="270.0" text-anchor="end">-0.200</text>
+<line class="gl" x1="64" y1="168.0" x2="628" y2="168.0"/>
+<text class="ax" x="55" y="172.0" text-anchor="end">-0.100</text>
+<line class="gl" x1="64" y1="70.0" x2="628" y2="70.0"/>
+<text class="ax" x="55" y="74.0" text-anchor="end">-0.000</text>
+<text class="ax" x="64.0" y="383.0" text-anchor="middle">1</text>
+<text class="ax" x="144.6" y="383.0" text-anchor="middle">2</text>
+<text class="ax" x="305.7" y="383.0" text-anchor="middle">4</text>
+<text class="ax" x="628.0" y="383.0" text-anchor="middle">8</text>
+<text class="axname" x="346" y="410" text-anchor="middle">amplification factor h</text>
+<text class="axname" transform="translate(16,217) rotate(-90)" text-anchor="middle">S(TTL=8) - S(TTL=1)</text>
+<path class="ln" d="M64.0,326.9 L144.6,195.3 L305.7,127.7 L628.0,93.6" stroke="var(--s1)"/>
+<circle class="mk" cx="64.0" cy="326.9" r="4.5" fill="var(--s1)"><title>stationary/scarce: 1, -0.262</title></circle>
+<circle class="mk" cx="144.6" cy="195.3" r="4.5" fill="var(--s1)"><title>stationary/scarce: 2, -0.128</title></circle>
+<circle class="mk" cx="305.7" cy="127.7" r="4.5" fill="var(--s1)"><title>stationary/scarce: 4, -0.059</title></circle>
+<circle class="mk" cx="628.0" cy="93.6" r="4.5" fill="var(--s1)"><title>stationary/scarce: 8, -0.024</title></circle>
+<text class="dl" x="638.0" y="97.6" fill="var(--s1)">stationary/scarce</text>
+<path class="ln" d="M64.0,309.0 L144.6,185.7 L305.7,122.1 L628.0,91.1" stroke="var(--s2)"/>
+<circle class="mk" cx="64.0" cy="309.0" r="4.5" fill="var(--s2)"><title>bursty/scarce: 1, -0.244</title></circle>
+<circle class="mk" cx="144.6" cy="185.7" r="4.5" fill="var(--s2)"><title>bursty/scarce: 2, -0.118</title></circle>
+<circle class="mk" cx="305.7" cy="122.1" r="4.5" fill="var(--s2)"><title>bursty/scarce: 4, -0.053</title></circle>
+<circle class="mk" cx="628.0" cy="91.1" r="4.5" fill="var(--s2)"><title>bursty/scarce: 8, -0.022</title></circle>
+<text class="dl" x="638.0" y="95.1" fill="var(--s2)">bursty/scarce</text>
+<path class="ln" d="M64.0,70.0 L144.6,186.4 L305.7,166.1 L628.0,117.6" stroke="var(--s3)"/>
+<circle class="mk" cx="64.0" cy="70.0" r="4.5" fill="var(--s3)"><title>stationary/moderate: 1, 0.000</title></circle>
+<circle class="mk" cx="144.6" cy="186.4" r="4.5" fill="var(--s3)"><title>stationary/moderate: 2, -0.119</title></circle>
+<circle class="mk" cx="305.7" cy="166.1" r="4.5" fill="var(--s3)"><title>stationary/moderate: 4, -0.098</title></circle>
+<circle class="mk" cx="628.0" cy="117.6" r="4.5" fill="var(--s3)"><title>stationary/moderate: 8, -0.049</title></circle>
+<text class="dl" x="638.0" y="121.6" fill="var(--s3)">stationary/moderate</text>
+<path class="ln" d="M64.0,81.6 L144.6,192.0 L305.7,166.4 L628.0,116.5" stroke="var(--s4)"/>
+<circle class="mk" cx="64.0" cy="81.6" r="4.5" fill="var(--s4)"><title>bursty/moderate: 1, -0.012</title></circle>
+<circle class="mk" cx="144.6" cy="192.0" r="4.5" fill="var(--s4)"><title>bursty/moderate: 2, -0.124</title></circle>
+<circle class="mk" cx="305.7" cy="166.4" r="4.5" fill="var(--s4)"><title>bursty/moderate: 4, -0.098</title></circle>
+<circle class="mk" cx="628.0" cy="116.5" r="4.5" fill="var(--s4)"><title>bursty/moderate: 8, -0.047</title></circle>
+<text class="dl" x="638.0" y="120.5" fill="var(--s4)">bursty/moderate</text>
+<path class="ln" d="M64.0,70.0 L628.0,70.0" stroke="var(--s1)" stroke-dasharray="6 4"/>
+<circle class="mk" cx="64.0" cy="70.0" r="4.5" fill="var(--s1)"><title>zero: 1, 0.000</title></circle>
+<circle class="mk" cx="628.0" cy="70.0" r="4.5" fill="var(--s1)"><title>zero: 8, 0.000</title></circle>
+<text class="dl" x="638.0" y="74.0" fill="var(--s1)">zero</text>
+</svg>

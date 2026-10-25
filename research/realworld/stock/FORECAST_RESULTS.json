@@ -1,0 +1,4314 @@
+{
+ "epochs": [
+  "epoch_17230.json",
+  "epoch_17231.json",
+  "epoch_17235.json",
+  "epoch_17242.json",
+  "epoch_17243.json",
+  "epoch_17248.json",
+  "epoch_17249.json",
+  "epoch_17254.json",
+  "epoch_17255.json",
+  "epoch_17256.json",
+  "epoch_17262.json",
+  "epoch_17263.json",
+  "epoch_17264.json",
+  "epoch_17268.json",
+  "epoch_17271.json",
+  "epoch_17272.json",
+  "epoch_17274.json",
+  "epoch_17275.json",
+  "epoch_17276.json",
+  "epoch_17278.json",
+  "epoch_17281.json",
+  "epoch_17289.json",
+  "epoch_17302.json",
+  "epoch_17306.json",
+  "epoch_17310.json",
+  "epoch_17311.json",
+  "epoch_17317.json",
+  "epoch_17318.json",
+  "epoch_17320.json",
+  "epoch_17323.json",
+  "epoch_17284.json",
+  "epoch_17285.json",
+  "epoch_17287.json",
+  "epoch_17292.json",
+  "epoch_17293.json",
+  "epoch_17297.json",
+  "epoch_17298.json",
+  "epoch_17299.json",
+  "epoch_17300.json",
+  "epoch_17301.json",
+  "epoch_17303.json",
+  "epoch_17304.json",
+  "epoch_17307.json",
+  "epoch_17308.json",
+  "epoch_17315.json",
+  "epoch_17319.json",
+  "epoch_17322.json",
+  "epoch_17324.json",
+  "epoch_17325.json",
+  "epoch_17327.json",
+  "epoch_17328.json",
+  "epoch_17331.json",
+  "epoch_17332.json",
+  "epoch_17339.json",
+  "epoch_17343.json",
+  "epoch_17345.json",
+  "epoch_17347.json",
+  "epoch_17348.json",
+  "epoch_17349.json",
+  "epoch_17350.json",
+  "epoch_17351.json",
+  "epoch_17352.json",
+  "epoch_17353.json",
+  "epoch_17354.json",
+  "epoch_17356.json",
+  "epoch_17360.json"
+ ],
+ "cells": {
+  "0": {
+   "delta": 0,
+   "per_epoch": [
+    {
+     "epoch": "epoch_17230.json",
+     "n": 84,
+     "served": 174981,
+     "total": 331668,
+     "rr_served": 169830,
+     "rr_total": 331668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17231.json",
+     "n": 84,
+     "served": 176272,
+     "total": 331668,
+     "rr_served": 169830,
+     "rr_total": 331668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17235.json",
+     "n": 84,
+     "served": 176030,
+     "total": 331668,
+     "rr_served": 169830,
+     "rr_total": 331668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17242.json",
+     "n": 84,
+     "served": 176025,
+     "total": 331668,
+     "rr_served": 169830,
+     "rr_total": 331668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17243.json",
+     "n": 84,
+     "served": 175867,
+     "total": 331668,
+     "rr_served": 169830,
+     "rr_total": 331668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17248.json",
+     "n": 84,
+     "served": 176509,
+     "total": 331668,
+     "rr_served": 169830,
+     "rr_total": 331668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17249.json",
+     "n": 84,
+     "served": 175786,
+     "total": 331668,
+     "rr_served": 169830,
+     "rr_total": 331668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17254.json",
+     "n": 84,
+     "served": 177068,
+     "total": 331668,
+     "rr_served": 169830,
+     "rr_total": 331668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17255.json",
+     "n": 84,
+     "served": 174977,
+     "total": 331668,
+     "rr_served": 169830,
+     "rr_total": 331668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17256.json",
+     "n": 84,
+     "served": 174982,
+     "total": 331668,
+     "rr_served": 169830,
+     "rr_total": 331668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17262.json",
+     "n": 84,
+     "served": 177076,
+     "total": 331668,
+     "rr_served": 169830,
+     "rr_total": 331668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17263.json",
+     "n": 84,
+     "served": 175866,
+     "total": 331668,
+     "rr_served": 169830,
+     "rr_total": 331668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17264.json",
+     "n": 84,
+     "served": 176432,
+     "total": 331668,
+     "rr_served": 169830,
+     "rr_total": 331668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17268.json",
+     "n": 84,
+     "served": 174985,
+     "total": 331668,
+     "rr_served": 169830,
+     "rr_total": 331668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17271.json",
+     "n": 84,
+     "served": 175378,
+     "total": 331668,
+     "rr_served": 169830,
+     "rr_total": 331668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17272.json",
+     "n": 84,
+     "served": 175553,
+     "total": 331668,
+     "rr_served": 169830,
+     "rr_total": 331668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17274.json",
+     "n": 84,
+     "served": 174899,
+     "total": 331668,
+     "rr_served": 169830,
+     "rr_total": 331668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17275.json",
+     "n": 84,
+     "served": 174984,
+     "total": 331668,
+     "rr_served": 169830,
+     "rr_total": 331668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17276.json",
+     "n": 84,
+     "served": 175147,
+     "total": 331668,
+     "rr_served": 169830,
+     "rr_total": 331668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17278.json",
+     "n": 84,
+     "served": 175795,
+     "total": 331668,
+     "rr_served": 169830,
+     "rr_total": 331668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17281.json",
+     "n": 84,
+     "served": 175539,
+     "total": 331668,
+     "rr_served": 169830,
+     "rr_total": 331668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17289.json",
+     "n": 84,
+     "served": 174665,
+     "total": 331668,
+     "rr_served": 169830,
+     "rr_total": 331668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17302.json",
+     "n": 85,
+     "served": 176720,
+     "total": 335664,
+     "rr_served": 171828,
+     "rr_total": 335664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17306.json",
+     "n": 85,
+     "served": 176714,
+     "total": 335664,
+     "rr_served": 171828,
+     "rr_total": 335664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17310.json",
+     "n": 85,
+     "served": 177854,
+     "total": 335664,
+     "rr_served": 171828,
+     "rr_total": 335664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17311.json",
+     "n": 85,
+     "served": 176556,
+     "total": 335664,
+     "rr_served": 171828,
+     "rr_total": 335664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17317.json",
+     "n": 85,
+     "served": 177943,
+     "total": 335664,
+     "rr_served": 171828,
+     "rr_total": 335664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17318.json",
+     "n": 85,
+     "served": 175986,
+     "total": 335664,
+     "rr_served": 171828,
+     "rr_total": 335664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17320.json",
+     "n": 85,
+     "served": 177121,
+     "total": 335664,
+     "rr_served": 171828,
+     "rr_total": 335664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17323.json",
+     "n": 85,
+     "served": 177942,
+     "total": 335664,
+     "rr_served": 171828,
+     "rr_total": 335664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17284.json",
+     "n": 84,
+     "served": 528434,
+     "total": 995668,
+     "rr_served": 509830,
+     "rr_total": 995668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17285.json",
+     "n": 84,
+     "served": 525521,
+     "total": 995668,
+     "rr_served": 509830,
+     "rr_total": 995668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17287.json",
+     "n": 84,
+     "served": 523995,
+     "total": 995668,
+     "rr_served": 509830,
+     "rr_total": 995668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17292.json",
+     "n": 84,
+     "served": 525771,
+     "total": 995668,
+     "rr_served": 509830,
+     "rr_total": 995668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17293.json",
+     "n": 84,
+     "served": 524474,
+     "total": 995668,
+     "rr_served": 509830,
+     "rr_total": 995668,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17297.json",
+     "n": 85,
+     "served": 533438,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17298.json",
+     "n": 85,
+     "served": 530254,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17299.json",
+     "n": 85,
+     "served": 531649,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17300.json",
+     "n": 85,
+     "served": 535156,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17301.json",
+     "n": 85,
+     "served": 531967,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17303.json",
+     "n": 85,
+     "served": 530990,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17304.json",
+     "n": 85,
+     "served": 534339,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17307.json",
+     "n": 85,
+     "served": 531394,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17308.json",
+     "n": 85,
+     "served": 534162,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17315.json",
+     "n": 85,
+     "served": 532041,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17319.json",
+     "n": 85,
+     "served": 531472,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17322.json",
+     "n": 85,
+     "served": 533030,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17324.json",
+     "n": 85,
+     "served": 533252,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17325.json",
+     "n": 85,
+     "served": 533514,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17327.json",
+     "n": 85,
+     "served": 533433,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17328.json",
+     "n": 85,
+     "served": 532706,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17331.json",
+     "n": 85,
+     "served": 531481,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17332.json",
+     "n": 85,
+     "served": 533102,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17339.json",
+     "n": 85,
+     "served": 533607,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17343.json",
+     "n": 85,
+     "served": 532854,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17345.json",
+     "n": 85,
+     "served": 533763,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17347.json",
+     "n": 85,
+     "served": 532784,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17348.json",
+     "n": 85,
+     "served": 532030,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17349.json",
+     "n": 85,
+     "served": 532365,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17350.json",
+     "n": 85,
+     "served": 530904,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17351.json",
+     "n": 85,
+     "served": 532527,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17352.json",
+     "n": 85,
+     "served": 533932,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17353.json",
+     "n": 85,
+     "served": 531553,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17354.json",
+     "n": 85,
+     "served": 531883,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17356.json",
+     "n": 85,
+     "served": 530010,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17360.json",
+     "n": 85,
+     "served": 534242,
+     "total": 1007664,
+     "rr_served": 515828,
+     "rr_total": 1007664,
+     "armed_per_pair": 0.09355742296918768
+    }
+   ],
+   "fill": 0.5285881844234932,
+   "rr_fill": 0.5119428722480478,
+   "armed_per_pair": 0.09401026566157679,
+   "ci": [
+    0.5282150131803495,
+    0.5289774219508763
+   ]
+  },
+  "1": {
+   "delta": 1,
+   "per_epoch": [
+    {
+     "epoch": "epoch_17230.json",
+     "n": 84,
+     "served": 18290,
+     "total": 331502,
+     "rr_served": 7988,
+     "rr_total": 331502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17231.json",
+     "n": 84,
+     "served": 20872,
+     "total": 331502,
+     "rr_served": 7988,
+     "rr_total": 331502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17235.json",
+     "n": 84,
+     "served": 20225,
+     "total": 331502,
+     "rr_served": 7988,
+     "rr_total": 331502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17242.json",
+     "n": 84,
+     "served": 18838,
+     "total": 331502,
+     "rr_served": 7988,
+     "rr_total": 331502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17243.json",
+     "n": 84,
+     "served": 18848,
+     "total": 331502,
+     "rr_served": 7988,
+     "rr_total": 331502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17248.json",
+     "n": 84,
+     "served": 19645,
+     "total": 331502,
+     "rr_served": 7988,
+     "rr_total": 331502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17249.json",
+     "n": 84,
+     "served": 19494,
+     "total": 331502,
+     "rr_served": 7988,
+     "rr_total": 331502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17254.json",
+     "n": 84,
+     "served": 20765,
+     "total": 331502,
+     "rr_served": 7988,
+     "rr_total": 331502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17255.json",
+     "n": 84,
+     "served": 17472,
+     "total": 331502,
+     "rr_served": 7988,
+     "rr_total": 331502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17256.json",
+     "n": 84,
+     "served": 18050,
+     "total": 331502,
+     "rr_served": 7988,
+     "rr_total": 331502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17262.json",
+     "n": 84,
+     "served": 20940,
+     "total": 331502,
+     "rr_served": 7988,
+     "rr_total": 331502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17263.json",
+     "n": 84,
+     "served": 19494,
+     "total": 331502,
+     "rr_served": 7988,
+     "rr_total": 331502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17264.json",
+     "n": 84,
+     "served": 20623,
+     "total": 331502,
+     "rr_served": 7988,
+     "rr_total": 331502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17268.json",
+     "n": 84,
+     "served": 18864,
+     "total": 331502,
+     "rr_served": 7988,
+     "rr_total": 331502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17271.json",
+     "n": 84,
+     "served": 18759,
+     "total": 331502,
+     "rr_served": 7988,
+     "rr_total": 331502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17272.json",
+     "n": 84,
+     "served": 19921,
+     "total": 331502,
+     "rr_served": 7988,
+     "rr_total": 331502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17274.json",
+     "n": 84,
+     "served": 17963,
+     "total": 331502,
+     "rr_served": 7988,
+     "rr_total": 331502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17275.json",
+     "n": 84,
+     "served": 18701,
+     "total": 331502,
+     "rr_served": 7988,
+     "rr_total": 331502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17276.json",
+     "n": 84,
+     "served": 19270,
+     "total": 331502,
+     "rr_served": 7988,
+     "rr_total": 331502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17278.json",
+     "n": 84,
+     "served": 19917,
+     "total": 331502,
+     "rr_served": 7988,
+     "rr_total": 331502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17281.json",
+     "n": 84,
+     "served": 18513,
+     "total": 331502,
+     "rr_served": 7988,
+     "rr_total": 331502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17289.json",
+     "n": 84,
+     "served": 18549,
+     "total": 331502,
+     "rr_served": 7988,
+     "rr_total": 331502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17302.json",
+     "n": 85,
+     "served": 18101,
+     "total": 335496,
+     "rr_served": 7988,
+     "rr_total": 335496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17306.json",
+     "n": 85,
+     "served": 18334,
+     "total": 335496,
+     "rr_served": 7988,
+     "rr_total": 335496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17310.json",
+     "n": 85,
+     "served": 19465,
+     "total": 335496,
+     "rr_served": 7988,
+     "rr_total": 335496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17311.json",
+     "n": 85,
+     "served": 17691,
+     "total": 335496,
+     "rr_served": 7988,
+     "rr_total": 335496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17317.json",
+     "n": 85,
+     "served": 21367,
+     "total": 335496,
+     "rr_served": 7988,
+     "rr_total": 335496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17318.json",
+     "n": 85,
+     "served": 17124,
+     "total": 335496,
+     "rr_served": 7988,
+     "rr_total": 335496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17320.json",
+     "n": 85,
+     "served": 18084,
+     "total": 335496,
+     "rr_served": 7988,
+     "rr_total": 335496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17323.json",
+     "n": 85,
+     "served": 19888,
+     "total": 335496,
+     "rr_served": 7988,
+     "rr_total": 335496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17284.json",
+     "n": 84,
+     "served": 63059,
+     "total": 995502,
+     "rr_served": 23988,
+     "rr_total": 995502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17285.json",
+     "n": 84,
+     "served": 55696,
+     "total": 995502,
+     "rr_served": 23988,
+     "rr_total": 995502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17287.json",
+     "n": 84,
+     "served": 53126,
+     "total": 995502,
+     "rr_served": 23988,
+     "rr_total": 995502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17292.json",
+     "n": 84,
+     "served": 56521,
+     "total": 995502,
+     "rr_served": 23988,
+     "rr_total": 995502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17293.json",
+     "n": 84,
+     "served": 54813,
+     "total": 995502,
+     "rr_served": 23988,
+     "rr_total": 995502,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17297.json",
+     "n": 85,
+     "served": 59868,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17298.json",
+     "n": 85,
+     "served": 54482,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17299.json",
+     "n": 85,
+     "served": 55959,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17300.json",
+     "n": 85,
+     "served": 63710,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17301.json",
+     "n": 85,
+     "served": 55938,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17303.json",
+     "n": 85,
+     "served": 55132,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17304.json",
+     "n": 85,
+     "served": 59615,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17307.json",
+     "n": 85,
+     "served": 55446,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17308.json",
+     "n": 85,
+     "served": 58443,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17315.json",
+     "n": 85,
+     "served": 55920,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17319.json",
+     "n": 85,
+     "served": 55606,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17322.json",
+     "n": 85,
+     "served": 58640,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17324.json",
+     "n": 85,
+     "served": 58347,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17325.json",
+     "n": 85,
+     "served": 58053,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17327.json",
+     "n": 85,
+     "served": 58789,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17328.json",
+     "n": 85,
+     "served": 58892,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17331.json",
+     "n": 85,
+     "served": 56608,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17332.json",
+     "n": 85,
+     "served": 58782,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17339.json",
+     "n": 85,
+     "served": 60119,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17343.json",
+     "n": 85,
+     "served": 57219,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17345.json",
+     "n": 85,
+     "served": 58300,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17347.json",
+     "n": 85,
+     "served": 57818,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17348.json",
+     "n": 85,
+     "served": 54340,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17349.json",
+     "n": 85,
+     "served": 56897,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17350.json",
+     "n": 85,
+     "served": 54139,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17351.json",
+     "n": 85,
+     "served": 55742,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17352.json",
+     "n": 85,
+     "served": 60523,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17353.json",
+     "n": 85,
+     "served": 55927,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17354.json",
+     "n": 85,
+     "served": 56670,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17356.json",
+     "n": 85,
+     "served": 52761,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17360.json",
+     "n": 85,
+     "served": 58846,
+     "total": 1007496,
+     "rr_served": 23988,
+     "rr_total": 1007496,
+     "armed_per_pair": 0.09355742296918768
+    }
+   ],
+   "fill": 0.0570467624822953,
+   "rr_fill": 0.023885734867927264,
+   "armed_per_pair": 0.09401026566157679,
+   "ci": [
+    0.05640852950248962,
+    0.05776257505407578
+   ]
+  },
+  "2": {
+   "delta": 2,
+   "per_epoch": [
+    {
+     "epoch": "epoch_17230.json",
+     "n": 84,
+     "served": 18772,
+     "total": 331336,
+     "rr_served": 7984,
+     "rr_total": 331336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17231.json",
+     "n": 84,
+     "served": 19815,
+     "total": 331336,
+     "rr_served": 7984,
+     "rr_total": 331336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17235.json",
+     "n": 84,
+     "served": 19411,
+     "total": 331336,
+     "rr_served": 7984,
+     "rr_total": 331336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17242.json",
+     "n": 84,
+     "served": 16404,
+     "total": 331336,
+     "rr_served": 7984,
+     "rr_total": 331336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17243.json",
+     "n": 84,
+     "served": 17143,
+     "total": 331336,
+     "rr_served": 7984,
+     "rr_total": 331336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17248.json",
+     "n": 84,
+     "served": 18021,
+     "total": 331336,
+     "rr_served": 7984,
+     "rr_total": 331336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17249.json",
+     "n": 84,
+     "served": 19083,
+     "total": 331336,
+     "rr_served": 7984,
+     "rr_total": 331336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17254.json",
+     "n": 84,
+     "served": 19061,
+     "total": 331336,
+     "rr_served": 7984,
+     "rr_total": 331336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17255.json",
+     "n": 84,
+     "served": 17549,
+     "total": 331336,
+     "rr_served": 7984,
+     "rr_total": 331336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17256.json",
+     "n": 84,
+     "served": 18288,
+     "total": 331336,
+     "rr_served": 7984,
+     "rr_total": 331336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17262.json",
+     "n": 84,
+     "served": 17777,
+     "total": 331336,
+     "rr_served": 7984,
+     "rr_total": 331336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17263.json",
+     "n": 84,
+     "served": 18436,
+     "total": 331336,
+     "rr_served": 7984,
+     "rr_total": 331336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17264.json",
+     "n": 84,
+     "served": 19647,
+     "total": 331336,
+     "rr_served": 7984,
+     "rr_total": 331336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17268.json",
+     "n": 84,
+     "served": 18938,
+     "total": 331336,
+     "rr_served": 7984,
+     "rr_total": 331336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17271.json",
+     "n": 84,
+     "served": 18512,
+     "total": 331336,
+     "rr_served": 7984,
+     "rr_total": 331336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17272.json",
+     "n": 84,
+     "served": 19836,
+     "total": 331336,
+     "rr_served": 7984,
+     "rr_total": 331336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17274.json",
+     "n": 84,
+     "served": 18121,
+     "total": 331336,
+     "rr_served": 7984,
+     "rr_total": 331336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17275.json",
+     "n": 84,
+     "served": 19021,
+     "total": 331336,
+     "rr_served": 7984,
+     "rr_total": 331336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17276.json",
+     "n": 84,
+     "served": 19428,
+     "total": 331336,
+     "rr_served": 7984,
+     "rr_total": 331336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17278.json",
+     "n": 84,
+     "served": 18859,
+     "total": 331336,
+     "rr_served": 7984,
+     "rr_total": 331336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17281.json",
+     "n": 84,
+     "served": 18831,
+     "total": 331336,
+     "rr_served": 7984,
+     "rr_total": 331336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17289.json",
+     "n": 84,
+     "served": 19356,
+     "total": 331336,
+     "rr_served": 7984,
+     "rr_total": 331336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17302.json",
+     "n": 85,
+     "served": 19081,
+     "total": 335328,
+     "rr_served": 7984,
+     "rr_total": 335328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17306.json",
+     "n": 85,
+     "served": 19316,
+     "total": 335328,
+     "rr_served": 7984,
+     "rr_total": 335328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17310.json",
+     "n": 85,
+     "served": 19296,
+     "total": 335328,
+     "rr_served": 7984,
+     "rr_total": 335328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17311.json",
+     "n": 85,
+     "served": 18509,
+     "total": 335328,
+     "rr_served": 7984,
+     "rr_total": 335328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17317.json",
+     "n": 85,
+     "served": 22100,
+     "total": 335328,
+     "rr_served": 7984,
+     "rr_total": 335328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17318.json",
+     "n": 85,
+     "served": 17940,
+     "total": 335328,
+     "rr_served": 7984,
+     "rr_total": 335328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17320.json",
+     "n": 85,
+     "served": 18324,
+     "total": 335328,
+     "rr_served": 7984,
+     "rr_total": 335328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17323.json",
+     "n": 85,
+     "served": 18899,
+     "total": 335328,
+     "rr_served": 7984,
+     "rr_total": 335328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17284.json",
+     "n": 84,
+     "served": 63294,
+     "total": 995336,
+     "rr_served": 23984,
+     "rr_total": 995336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17285.json",
+     "n": 84,
+     "served": 57070,
+     "total": 995336,
+     "rr_served": 23984,
+     "rr_total": 995336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17287.json",
+     "n": 84,
+     "served": 54498,
+     "total": 995336,
+     "rr_served": 23984,
+     "rr_total": 995336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17292.json",
+     "n": 84,
+     "served": 59029,
+     "total": 995336,
+     "rr_served": 23984,
+     "rr_total": 995336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17293.json",
+     "n": 84,
+     "served": 57563,
+     "total": 995336,
+     "rr_served": 23984,
+     "rr_total": 995336,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17297.json",
+     "n": 85,
+     "served": 60849,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17298.json",
+     "n": 85,
+     "served": 56202,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17299.json",
+     "n": 85,
+     "served": 56119,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17300.json",
+     "n": 85,
+     "served": 62151,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17301.json",
+     "n": 85,
+     "served": 55607,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17303.json",
+     "n": 85,
+     "served": 55374,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17304.json",
+     "n": 85,
+     "served": 56988,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17307.json",
+     "n": 85,
+     "served": 55931,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17308.json",
+     "n": 85,
+     "served": 57126,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17315.json",
+     "n": 85,
+     "served": 55999,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17319.json",
+     "n": 85,
+     "served": 57079,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17322.json",
+     "n": 85,
+     "served": 57978,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17324.json",
+     "n": 85,
+     "served": 59329,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17325.json",
+     "n": 85,
+     "served": 57066,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17327.json",
+     "n": 85,
+     "served": 57227,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17328.json",
+     "n": 85,
+     "served": 59381,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17331.json",
+     "n": 85,
+     "served": 57833,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17332.json",
+     "n": 85,
+     "served": 60091,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17339.json",
+     "n": 85,
+     "served": 60196,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17343.json",
+     "n": 85,
+     "served": 57785,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17345.json",
+     "n": 85,
+     "served": 57067,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17347.json",
+     "n": 85,
+     "served": 58386,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17348.json",
+     "n": 85,
+     "served": 54334,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17349.json",
+     "n": 85,
+     "served": 57057,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17350.json",
+     "n": 85,
+     "served": 55283,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17351.json",
+     "n": 85,
+     "served": 54670,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17352.json",
+     "n": 85,
+     "served": 59206,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17353.json",
+     "n": 85,
+     "served": 57399,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17354.json",
+     "n": 85,
+     "served": 57239,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17356.json",
+     "n": 85,
+     "served": 54071,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17360.json",
+     "n": 85,
+     "served": 56954,
+     "total": 1007328,
+     "rr_served": 23984,
+     "rr_total": 1007328,
+     "armed_per_pair": 0.09355742296918768
+    }
+   ],
+   "fill": 0.057025570761383045,
+   "rr_fill": 0.023885725235157484,
+   "armed_per_pair": 0.09401026566157679,
+   "ci": [
+    0.05645025548819759,
+    0.05761832214264021
+   ]
+  },
+  "5": {
+   "delta": 5,
+   "per_epoch": [
+    {
+     "epoch": "epoch_17230.json",
+     "n": 84,
+     "served": 18032,
+     "total": 330838,
+     "rr_served": 7972,
+     "rr_total": 330838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17231.json",
+     "n": 84,
+     "served": 20696,
+     "total": 330838,
+     "rr_served": 7972,
+     "rr_total": 330838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17235.json",
+     "n": 84,
+     "served": 19641,
+     "total": 330838,
+     "rr_served": 7972,
+     "rr_total": 330838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17242.json",
+     "n": 84,
+     "served": 20769,
+     "total": 330838,
+     "rr_served": 7972,
+     "rr_total": 330838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17243.json",
+     "n": 84,
+     "served": 19804,
+     "total": 330838,
+     "rr_served": 7972,
+     "rr_total": 330838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17248.json",
+     "n": 84,
+     "served": 19548,
+     "total": 330838,
+     "rr_served": 7972,
+     "rr_total": 330838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17249.json",
+     "n": 84,
+     "served": 19883,
+     "total": 330838,
+     "rr_served": 7972,
+     "rr_total": 330838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17254.json",
+     "n": 84,
+     "served": 17916,
+     "total": 330838,
+     "rr_served": 7972,
+     "rr_total": 330838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17255.json",
+     "n": 84,
+     "served": 17296,
+     "total": 330838,
+     "rr_served": 7972,
+     "rr_total": 330838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17256.json",
+     "n": 84,
+     "served": 17628,
+     "total": 330838,
+     "rr_served": 7972,
+     "rr_total": 330838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17262.json",
+     "n": 84,
+     "served": 17117,
+     "total": 330838,
+     "rr_served": 7972,
+     "rr_total": 330838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17263.json",
+     "n": 84,
+     "served": 20203,
+     "total": 330838,
+     "rr_served": 7972,
+     "rr_total": 330838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17264.json",
+     "n": 84,
+     "served": 19796,
+     "total": 330838,
+     "rr_served": 7972,
+     "rr_total": 330838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17268.json",
+     "n": 84,
+     "served": 17548,
+     "total": 330838,
+     "rr_served": 7972,
+     "rr_total": 330838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17271.json",
+     "n": 84,
+     "served": 18502,
+     "total": 330838,
+     "rr_served": 7972,
+     "rr_total": 330838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17272.json",
+     "n": 84,
+     "served": 19015,
+     "total": 330838,
+     "rr_served": 7972,
+     "rr_total": 330838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17274.json",
+     "n": 84,
+     "served": 18515,
+     "total": 330838,
+     "rr_served": 7972,
+     "rr_total": 330838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17275.json",
+     "n": 84,
+     "served": 18929,
+     "total": 330838,
+     "rr_served": 7972,
+     "rr_total": 330838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17276.json",
+     "n": 84,
+     "served": 17231,
+     "total": 330838,
+     "rr_served": 7972,
+     "rr_total": 330838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17278.json",
+     "n": 84,
+     "served": 17472,
+     "total": 330838,
+     "rr_served": 7972,
+     "rr_total": 330838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17281.json",
+     "n": 84,
+     "served": 16878,
+     "total": 330838,
+     "rr_served": 7972,
+     "rr_total": 330838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17289.json",
+     "n": 84,
+     "served": 19586,
+     "total": 330838,
+     "rr_served": 7972,
+     "rr_total": 330838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17302.json",
+     "n": 85,
+     "served": 19151,
+     "total": 334824,
+     "rr_served": 7972,
+     "rr_total": 334824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17306.json",
+     "n": 85,
+     "served": 17580,
+     "total": 334824,
+     "rr_served": 7972,
+     "rr_total": 334824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17310.json",
+     "n": 85,
+     "served": 16992,
+     "total": 334824,
+     "rr_served": 7972,
+     "rr_total": 334824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17311.json",
+     "n": 85,
+     "served": 18495,
+     "total": 334824,
+     "rr_served": 7972,
+     "rr_total": 334824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17317.json",
+     "n": 85,
+     "served": 18807,
+     "total": 334824,
+     "rr_served": 7972,
+     "rr_total": 334824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17318.json",
+     "n": 85,
+     "served": 18174,
+     "total": 334824,
+     "rr_served": 7972,
+     "rr_total": 334824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17320.json",
+     "n": 85,
+     "served": 18637,
+     "total": 334824,
+     "rr_served": 7972,
+     "rr_total": 334824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17323.json",
+     "n": 85,
+     "served": 20114,
+     "total": 334824,
+     "rr_served": 7972,
+     "rr_total": 334824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17284.json",
+     "n": 84,
+     "served": 53803,
+     "total": 994838,
+     "rr_served": 23972,
+     "rr_total": 994838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17285.json",
+     "n": 84,
+     "served": 57380,
+     "total": 994838,
+     "rr_served": 23972,
+     "rr_total": 994838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17287.json",
+     "n": 84,
+     "served": 56029,
+     "total": 994838,
+     "rr_served": 23972,
+     "rr_total": 994838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17292.json",
+     "n": 84,
+     "served": 59663,
+     "total": 994838,
+     "rr_served": 23972,
+     "rr_total": 994838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17293.json",
+     "n": 84,
+     "served": 56900,
+     "total": 994838,
+     "rr_served": 23972,
+     "rr_total": 994838,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17297.json",
+     "n": 85,
+     "served": 55668,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17298.json",
+     "n": 85,
+     "served": 54383,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17299.json",
+     "n": 85,
+     "served": 58325,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17300.json",
+     "n": 85,
+     "served": 57300,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17301.json",
+     "n": 85,
+     "served": 56984,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17303.json",
+     "n": 85,
+     "served": 53636,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17304.json",
+     "n": 85,
+     "served": 51399,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17307.json",
+     "n": 85,
+     "served": 55020,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17308.json",
+     "n": 85,
+     "served": 60141,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17315.json",
+     "n": 85,
+     "served": 59350,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17319.json",
+     "n": 85,
+     "served": 56162,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17322.json",
+     "n": 85,
+     "served": 58790,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17324.json",
+     "n": 85,
+     "served": 56367,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17325.json",
+     "n": 85,
+     "served": 51475,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17327.json",
+     "n": 85,
+     "served": 58115,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17328.json",
+     "n": 85,
+     "served": 56415,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17331.json",
+     "n": 85,
+     "served": 59217,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17332.json",
+     "n": 85,
+     "served": 56551,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17339.json",
+     "n": 85,
+     "served": 57726,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17343.json",
+     "n": 85,
+     "served": 56298,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17345.json",
+     "n": 85,
+     "served": 51807,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17347.json",
+     "n": 85,
+     "served": 55093,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17348.json",
+     "n": 85,
+     "served": 58259,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17349.json",
+     "n": 85,
+     "served": 60002,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17350.json",
+     "n": 85,
+     "served": 58059,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17351.json",
+     "n": 85,
+     "served": 60236,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17352.json",
+     "n": 85,
+     "served": 59360,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17353.json",
+     "n": 85,
+     "served": 58042,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17354.json",
+     "n": 85,
+     "served": 59440,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17356.json",
+     "n": 85,
+     "served": 58818,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17360.json",
+     "n": 85,
+     "served": 57686,
+     "total": 1006824,
+     "rr_served": 23972,
+     "rr_total": 1006824,
+     "armed_per_pair": 0.09355742296918768
+    }
+   ],
+   "fill": 0.05656042002860601,
+   "rr_fill": 0.02388569630920663,
+   "armed_per_pair": 0.09401026566157679,
+   "ci": [
+    0.055873903246739895,
+    0.057191630637171455
+   ]
+  },
+  "10": {
+   "delta": 10,
+   "per_epoch": [
+    {
+     "epoch": "epoch_17230.json",
+     "n": 84,
+     "served": 19796,
+     "total": 330008,
+     "rr_served": 7952,
+     "rr_total": 330008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17231.json",
+     "n": 84,
+     "served": 17918,
+     "total": 330008,
+     "rr_served": 7952,
+     "rr_total": 330008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17235.json",
+     "n": 84,
+     "served": 18488,
+     "total": 330008,
+     "rr_served": 7952,
+     "rr_total": 330008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17242.json",
+     "n": 84,
+     "served": 19286,
+     "total": 330008,
+     "rr_served": 7952,
+     "rr_total": 330008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17243.json",
+     "n": 84,
+     "served": 18568,
+     "total": 330008,
+     "rr_served": 7952,
+     "rr_total": 330008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17248.json",
+     "n": 84,
+     "served": 19122,
+     "total": 330008,
+     "rr_served": 7952,
+     "rr_total": 330008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17249.json",
+     "n": 84,
+     "served": 17835,
+     "total": 330008,
+     "rr_served": 7952,
+     "rr_total": 330008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17254.json",
+     "n": 84,
+     "served": 19354,
+     "total": 330008,
+     "rr_served": 7952,
+     "rr_total": 330008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17255.json",
+     "n": 84,
+     "served": 19544,
+     "total": 330008,
+     "rr_served": 7952,
+     "rr_total": 330008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17256.json",
+     "n": 84,
+     "served": 19551,
+     "total": 330008,
+     "rr_served": 7952,
+     "rr_total": 330008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17262.json",
+     "n": 84,
+     "served": 18634,
+     "total": 330008,
+     "rr_served": 7952,
+     "rr_total": 330008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17263.json",
+     "n": 84,
+     "served": 20183,
+     "total": 330008,
+     "rr_served": 7952,
+     "rr_total": 330008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17264.json",
+     "n": 84,
+     "served": 19128,
+     "total": 330008,
+     "rr_served": 7952,
+     "rr_total": 330008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17268.json",
+     "n": 84,
+     "served": 18340,
+     "total": 330008,
+     "rr_served": 7952,
+     "rr_total": 330008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17271.json",
+     "n": 84,
+     "served": 17831,
+     "total": 330008,
+     "rr_served": 7952,
+     "rr_total": 330008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17272.json",
+     "n": 84,
+     "served": 19077,
+     "total": 330008,
+     "rr_served": 7952,
+     "rr_total": 330008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17274.json",
+     "n": 84,
+     "served": 17845,
+     "total": 330008,
+     "rr_served": 7952,
+     "rr_total": 330008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17275.json",
+     "n": 84,
+     "served": 16965,
+     "total": 330008,
+     "rr_served": 7952,
+     "rr_total": 330008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17276.json",
+     "n": 84,
+     "served": 16886,
+     "total": 330008,
+     "rr_served": 7952,
+     "rr_total": 330008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17278.json",
+     "n": 84,
+     "served": 19638,
+     "total": 330008,
+     "rr_served": 7952,
+     "rr_total": 330008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17281.json",
+     "n": 84,
+     "served": 17829,
+     "total": 330008,
+     "rr_served": 7952,
+     "rr_total": 330008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17289.json",
+     "n": 84,
+     "served": 18432,
+     "total": 330008,
+     "rr_served": 7952,
+     "rr_total": 330008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17302.json",
+     "n": 85,
+     "served": 17656,
+     "total": 333984,
+     "rr_served": 7952,
+     "rr_total": 333984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17306.json",
+     "n": 85,
+     "served": 18464,
+     "total": 333984,
+     "rr_served": 7952,
+     "rr_total": 333984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17310.json",
+     "n": 85,
+     "served": 18281,
+     "total": 333984,
+     "rr_served": 7952,
+     "rr_total": 333984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17311.json",
+     "n": 85,
+     "served": 18312,
+     "total": 333984,
+     "rr_served": 7952,
+     "rr_total": 333984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17317.json",
+     "n": 85,
+     "served": 18788,
+     "total": 333984,
+     "rr_served": 7952,
+     "rr_total": 333984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17318.json",
+     "n": 85,
+     "served": 17909,
+     "total": 333984,
+     "rr_served": 7952,
+     "rr_total": 333984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17320.json",
+     "n": 85,
+     "served": 17714,
+     "total": 333984,
+     "rr_served": 7952,
+     "rr_total": 333984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17323.json",
+     "n": 85,
+     "served": 19767,
+     "total": 333984,
+     "rr_served": 7952,
+     "rr_total": 333984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17284.json",
+     "n": 84,
+     "served": 54512,
+     "total": 994008,
+     "rr_served": 23952,
+     "rr_total": 994008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17285.json",
+     "n": 84,
+     "served": 57683,
+     "total": 994008,
+     "rr_served": 23952,
+     "rr_total": 994008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17287.json",
+     "n": 84,
+     "served": 58439,
+     "total": 994008,
+     "rr_served": 23952,
+     "rr_total": 994008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17292.json",
+     "n": 84,
+     "served": 59321,
+     "total": 994008,
+     "rr_served": 23952,
+     "rr_total": 994008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17293.json",
+     "n": 84,
+     "served": 54048,
+     "total": 994008,
+     "rr_served": 23952,
+     "rr_total": 994008,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17297.json",
+     "n": 85,
+     "served": 56632,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17298.json",
+     "n": 85,
+     "served": 58463,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17299.json",
+     "n": 85,
+     "served": 56501,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17300.json",
+     "n": 85,
+     "served": 56705,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17301.json",
+     "n": 85,
+     "served": 56310,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17303.json",
+     "n": 85,
+     "served": 57965,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17304.json",
+     "n": 85,
+     "served": 58439,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17307.json",
+     "n": 85,
+     "served": 55899,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17308.json",
+     "n": 85,
+     "served": 56104,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17315.json",
+     "n": 85,
+     "served": 55230,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17319.json",
+     "n": 85,
+     "served": 60077,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17322.json",
+     "n": 85,
+     "served": 57623,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17324.json",
+     "n": 85,
+     "served": 57408,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17325.json",
+     "n": 85,
+     "served": 55637,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17327.json",
+     "n": 85,
+     "served": 57440,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17328.json",
+     "n": 85,
+     "served": 54509,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17331.json",
+     "n": 85,
+     "served": 56652,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17332.json",
+     "n": 85,
+     "served": 58994,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17339.json",
+     "n": 85,
+     "served": 54100,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17343.json",
+     "n": 85,
+     "served": 58164,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17345.json",
+     "n": 85,
+     "served": 57284,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17347.json",
+     "n": 85,
+     "served": 59014,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17348.json",
+     "n": 85,
+     "served": 56188,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17349.json",
+     "n": 85,
+     "served": 54486,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17350.json",
+     "n": 85,
+     "served": 60013,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17351.json",
+     "n": 85,
+     "served": 55540,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17352.json",
+     "n": 85,
+     "served": 54745,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17353.json",
+     "n": 85,
+     "served": 58020,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17354.json",
+     "n": 85,
+     "served": 56959,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17356.json",
+     "n": 85,
+     "served": 55107,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17360.json",
+     "n": 85,
+     "served": 55365,
+     "total": 1005984,
+     "rr_served": 23952,
+     "rr_total": 1005984,
+     "armed_per_pair": 0.09355742296918768
+    }
+   ],
+   "fill": 0.05647326942140956,
+   "rr_fill": 0.023885648006951633,
+   "armed_per_pair": 0.09401026566157679,
+   "ci": [
+    0.05599421315116422,
+    0.05693822953081635
+   ]
+  },
+  "20": {
+   "delta": 20,
+   "per_epoch": [
+    {
+     "epoch": "epoch_17230.json",
+     "n": 84,
+     "served": 18945,
+     "total": 328348,
+     "rr_served": 7912,
+     "rr_total": 328348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17231.json",
+     "n": 84,
+     "served": 18206,
+     "total": 328348,
+     "rr_served": 7912,
+     "rr_total": 328348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17235.json",
+     "n": 84,
+     "served": 19098,
+     "total": 328348,
+     "rr_served": 7912,
+     "rr_total": 328348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17242.json",
+     "n": 84,
+     "served": 18924,
+     "total": 328348,
+     "rr_served": 7912,
+     "rr_total": 328348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17243.json",
+     "n": 84,
+     "served": 19749,
+     "total": 328348,
+     "rr_served": 7912,
+     "rr_total": 328348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17248.json",
+     "n": 84,
+     "served": 19002,
+     "total": 328348,
+     "rr_served": 7912,
+     "rr_total": 328348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17249.json",
+     "n": 84,
+     "served": 20146,
+     "total": 328348,
+     "rr_served": 7912,
+     "rr_total": 328348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17254.json",
+     "n": 84,
+     "served": 17610,
+     "total": 328348,
+     "rr_served": 7912,
+     "rr_total": 328348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17255.json",
+     "n": 84,
+     "served": 19016,
+     "total": 328348,
+     "rr_served": 7912,
+     "rr_total": 328348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17256.json",
+     "n": 84,
+     "served": 18376,
+     "total": 328348,
+     "rr_served": 7912,
+     "rr_total": 328348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17262.json",
+     "n": 84,
+     "served": 18759,
+     "total": 328348,
+     "rr_served": 7912,
+     "rr_total": 328348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17263.json",
+     "n": 84,
+     "served": 19089,
+     "total": 328348,
+     "rr_served": 7912,
+     "rr_total": 328348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17264.json",
+     "n": 84,
+     "served": 18360,
+     "total": 328348,
+     "rr_served": 7912,
+     "rr_total": 328348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17268.json",
+     "n": 84,
+     "served": 18054,
+     "total": 328348,
+     "rr_served": 7912,
+     "rr_total": 328348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17271.json",
+     "n": 84,
+     "served": 17469,
+     "total": 328348,
+     "rr_served": 7912,
+     "rr_total": 328348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17272.json",
+     "n": 84,
+     "served": 17983,
+     "total": 328348,
+     "rr_served": 7912,
+     "rr_total": 328348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17274.json",
+     "n": 84,
+     "served": 17888,
+     "total": 328348,
+     "rr_served": 7912,
+     "rr_total": 328348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17275.json",
+     "n": 84,
+     "served": 16115,
+     "total": 328348,
+     "rr_served": 7912,
+     "rr_total": 328348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17276.json",
+     "n": 84,
+     "served": 19034,
+     "total": 328348,
+     "rr_served": 7912,
+     "rr_total": 328348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17278.json",
+     "n": 84,
+     "served": 19923,
+     "total": 328348,
+     "rr_served": 7912,
+     "rr_total": 328348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17281.json",
+     "n": 84,
+     "served": 18278,
+     "total": 328348,
+     "rr_served": 7912,
+     "rr_total": 328348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17289.json",
+     "n": 84,
+     "served": 17744,
+     "total": 328348,
+     "rr_served": 7912,
+     "rr_total": 328348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17302.json",
+     "n": 85,
+     "served": 16714,
+     "total": 332304,
+     "rr_served": 7912,
+     "rr_total": 332304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17306.json",
+     "n": 85,
+     "served": 17849,
+     "total": 332304,
+     "rr_served": 7912,
+     "rr_total": 332304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17310.json",
+     "n": 85,
+     "served": 18242,
+     "total": 332304,
+     "rr_served": 7912,
+     "rr_total": 332304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17311.json",
+     "n": 85,
+     "served": 16471,
+     "total": 332304,
+     "rr_served": 7912,
+     "rr_total": 332304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17317.json",
+     "n": 85,
+     "served": 18587,
+     "total": 332304,
+     "rr_served": 7912,
+     "rr_total": 332304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17318.json",
+     "n": 85,
+     "served": 20248,
+     "total": 332304,
+     "rr_served": 7912,
+     "rr_total": 332304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17320.json",
+     "n": 85,
+     "served": 18990,
+     "total": 332304,
+     "rr_served": 7912,
+     "rr_total": 332304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17323.json",
+     "n": 85,
+     "served": 17266,
+     "total": 332304,
+     "rr_served": 7912,
+     "rr_total": 332304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17284.json",
+     "n": 84,
+     "served": 55121,
+     "total": 992348,
+     "rr_served": 23912,
+     "rr_total": 992348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17285.json",
+     "n": 84,
+     "served": 55135,
+     "total": 992348,
+     "rr_served": 23912,
+     "rr_total": 992348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17287.json",
+     "n": 84,
+     "served": 57184,
+     "total": 992348,
+     "rr_served": 23912,
+     "rr_total": 992348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17292.json",
+     "n": 84,
+     "served": 57423,
+     "total": 992348,
+     "rr_served": 23912,
+     "rr_total": 992348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17293.json",
+     "n": 84,
+     "served": 58706,
+     "total": 992348,
+     "rr_served": 23912,
+     "rr_total": 992348,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17297.json",
+     "n": 85,
+     "served": 54462,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17298.json",
+     "n": 85,
+     "served": 56212,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17299.json",
+     "n": 85,
+     "served": 55478,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17300.json",
+     "n": 85,
+     "served": 56913,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17301.json",
+     "n": 85,
+     "served": 57422,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17303.json",
+     "n": 85,
+     "served": 60142,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17304.json",
+     "n": 85,
+     "served": 56344,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17307.json",
+     "n": 85,
+     "served": 55944,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17308.json",
+     "n": 85,
+     "served": 58289,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17315.json",
+     "n": 85,
+     "served": 55605,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17319.json",
+     "n": 85,
+     "served": 55940,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17322.json",
+     "n": 85,
+     "served": 56593,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17324.json",
+     "n": 85,
+     "served": 57947,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17325.json",
+     "n": 85,
+     "served": 57235,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17327.json",
+     "n": 85,
+     "served": 56582,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17328.json",
+     "n": 85,
+     "served": 58978,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17331.json",
+     "n": 85,
+     "served": 58089,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17332.json",
+     "n": 85,
+     "served": 56246,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17339.json",
+     "n": 85,
+     "served": 56187,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17343.json",
+     "n": 85,
+     "served": 58867,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17345.json",
+     "n": 85,
+     "served": 58306,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17347.json",
+     "n": 85,
+     "served": 57576,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17348.json",
+     "n": 85,
+     "served": 57134,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17349.json",
+     "n": 85,
+     "served": 55512,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17350.json",
+     "n": 85,
+     "served": 52668,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17351.json",
+     "n": 85,
+     "served": 57058,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17352.json",
+     "n": 85,
+     "served": 59951,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17353.json",
+     "n": 85,
+     "served": 61098,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17354.json",
+     "n": 85,
+     "served": 59708,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17356.json",
+     "n": 85,
+     "served": 56707,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17360.json",
+     "n": 85,
+     "served": 53110,
+     "total": 1004304,
+     "rr_served": 23912,
+     "rr_total": 1004304,
+     "armed_per_pair": 0.09355742296918768
+    }
+   ],
+   "fill": 0.05663685598260636,
+   "rr_fill": 0.023885551054682434,
+   "armed_per_pair": 0.09401026566157679,
+   "ci": [
+    0.05609887900809963,
+    0.057154488395916116
+   ]
+  },
+  "50": {
+   "delta": 50,
+   "per_epoch": [
+    {
+     "epoch": "epoch_17230.json",
+     "n": 84,
+     "served": 18502,
+     "total": 323368,
+     "rr_served": 7792,
+     "rr_total": 323368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17231.json",
+     "n": 84,
+     "served": 18248,
+     "total": 323368,
+     "rr_served": 7792,
+     "rr_total": 323368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17235.json",
+     "n": 84,
+     "served": 18734,
+     "total": 323368,
+     "rr_served": 7792,
+     "rr_total": 323368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17242.json",
+     "n": 84,
+     "served": 16535,
+     "total": 323368,
+     "rr_served": 7792,
+     "rr_total": 323368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17243.json",
+     "n": 84,
+     "served": 19301,
+     "total": 323368,
+     "rr_served": 7792,
+     "rr_total": 323368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17248.json",
+     "n": 84,
+     "served": 19775,
+     "total": 323368,
+     "rr_served": 7792,
+     "rr_total": 323368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17249.json",
+     "n": 84,
+     "served": 20271,
+     "total": 323368,
+     "rr_served": 7792,
+     "rr_total": 323368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17254.json",
+     "n": 84,
+     "served": 18059,
+     "total": 323368,
+     "rr_served": 7792,
+     "rr_total": 323368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17255.json",
+     "n": 84,
+     "served": 20761,
+     "total": 323368,
+     "rr_served": 7792,
+     "rr_total": 323368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17256.json",
+     "n": 84,
+     "served": 18908,
+     "total": 323368,
+     "rr_served": 7792,
+     "rr_total": 323368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17262.json",
+     "n": 84,
+     "served": 19936,
+     "total": 323368,
+     "rr_served": 7792,
+     "rr_total": 323368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17263.json",
+     "n": 84,
+     "served": 17758,
+     "total": 323368,
+     "rr_served": 7792,
+     "rr_total": 323368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17264.json",
+     "n": 84,
+     "served": 17997,
+     "total": 323368,
+     "rr_served": 7792,
+     "rr_total": 323368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17268.json",
+     "n": 84,
+     "served": 19232,
+     "total": 323368,
+     "rr_served": 7792,
+     "rr_total": 323368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17271.json",
+     "n": 84,
+     "served": 17110,
+     "total": 323368,
+     "rr_served": 7792,
+     "rr_total": 323368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17272.json",
+     "n": 84,
+     "served": 19078,
+     "total": 323368,
+     "rr_served": 7792,
+     "rr_total": 323368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17274.json",
+     "n": 84,
+     "served": 18577,
+     "total": 323368,
+     "rr_served": 7792,
+     "rr_total": 323368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17275.json",
+     "n": 84,
+     "served": 19074,
+     "total": 323368,
+     "rr_served": 7792,
+     "rr_total": 323368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17276.json",
+     "n": 84,
+     "served": 17376,
+     "total": 323368,
+     "rr_served": 7792,
+     "rr_total": 323368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17278.json",
+     "n": 84,
+     "served": 19318,
+     "total": 323368,
+     "rr_served": 7792,
+     "rr_total": 323368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17281.json",
+     "n": 84,
+     "served": 17184,
+     "total": 323368,
+     "rr_served": 7792,
+     "rr_total": 323368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17289.json",
+     "n": 84,
+     "served": 19163,
+     "total": 323368,
+     "rr_served": 7792,
+     "rr_total": 323368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17302.json",
+     "n": 85,
+     "served": 18562,
+     "total": 327264,
+     "rr_served": 7792,
+     "rr_total": 327264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17306.json",
+     "n": 85,
+     "served": 19290,
+     "total": 327264,
+     "rr_served": 7792,
+     "rr_total": 327264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17310.json",
+     "n": 85,
+     "served": 18039,
+     "total": 327264,
+     "rr_served": 7792,
+     "rr_total": 327264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17311.json",
+     "n": 85,
+     "served": 18892,
+     "total": 327264,
+     "rr_served": 7792,
+     "rr_total": 327264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17317.json",
+     "n": 85,
+     "served": 19207,
+     "total": 327264,
+     "rr_served": 7792,
+     "rr_total": 327264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17318.json",
+     "n": 85,
+     "served": 19472,
+     "total": 327264,
+     "rr_served": 7792,
+     "rr_total": 327264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17320.json",
+     "n": 85,
+     "served": 17803,
+     "total": 327264,
+     "rr_served": 7792,
+     "rr_total": 327264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17323.json",
+     "n": 85,
+     "served": 18876,
+     "total": 327264,
+     "rr_served": 7792,
+     "rr_total": 327264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17284.json",
+     "n": 84,
+     "served": 55405,
+     "total": 987368,
+     "rr_served": 23792,
+     "rr_total": 987368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17285.json",
+     "n": 84,
+     "served": 58092,
+     "total": 987368,
+     "rr_served": 23792,
+     "rr_total": 987368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17287.json",
+     "n": 84,
+     "served": 56337,
+     "total": 987368,
+     "rr_served": 23792,
+     "rr_total": 987368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17292.json",
+     "n": 84,
+     "served": 58841,
+     "total": 987368,
+     "rr_served": 23792,
+     "rr_total": 987368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17293.json",
+     "n": 84,
+     "served": 55836,
+     "total": 987368,
+     "rr_served": 23792,
+     "rr_total": 987368,
+     "armed_per_pair": 0.09466437177280551
+    },
+    {
+     "epoch": "epoch_17297.json",
+     "n": 85,
+     "served": 56965,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17298.json",
+     "n": 85,
+     "served": 57566,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17299.json",
+     "n": 85,
+     "served": 57410,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17300.json",
+     "n": 85,
+     "served": 60810,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17301.json",
+     "n": 85,
+     "served": 53364,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17303.json",
+     "n": 85,
+     "served": 56248,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17304.json",
+     "n": 85,
+     "served": 53274,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17307.json",
+     "n": 85,
+     "served": 60091,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17308.json",
+     "n": 85,
+     "served": 58823,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17315.json",
+     "n": 85,
+     "served": 57367,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17319.json",
+     "n": 85,
+     "served": 51477,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17322.json",
+     "n": 85,
+     "served": 57542,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17324.json",
+     "n": 85,
+     "served": 57089,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17325.json",
+     "n": 85,
+     "served": 54983,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17327.json",
+     "n": 85,
+     "served": 55888,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17328.json",
+     "n": 85,
+     "served": 59849,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17331.json",
+     "n": 85,
+     "served": 62892,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17332.json",
+     "n": 85,
+     "served": 56540,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17339.json",
+     "n": 85,
+     "served": 57301,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17343.json",
+     "n": 85,
+     "served": 58993,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17345.json",
+     "n": 85,
+     "served": 55480,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17347.json",
+     "n": 85,
+     "served": 51221,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17348.json",
+     "n": 85,
+     "served": 57752,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17349.json",
+     "n": 85,
+     "served": 57443,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17350.json",
+     "n": 85,
+     "served": 53779,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17351.json",
+     "n": 85,
+     "served": 55052,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17352.json",
+     "n": 85,
+     "served": 58361,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17353.json",
+     "n": 85,
+     "served": 56388,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17354.json",
+     "n": 85,
+     "served": 59512,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17356.json",
+     "n": 85,
+     "served": 56668,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    },
+    {
+     "epoch": "epoch_17360.json",
+     "n": 85,
+     "served": 52745,
+     "total": 999264,
+     "rr_served": 23792,
+     "rr_total": 999264,
+     "armed_per_pair": 0.09355742296918768
+    }
+   ],
+   "fill": 0.05705667008834377,
+   "rr_fill": 0.023885257385538417,
+   "armed_per_pair": 0.09401026566157679,
+   "ci": [
+    0.05638519536771199,
+    0.0577408986342276
+   ]
+  }
+ }
+}

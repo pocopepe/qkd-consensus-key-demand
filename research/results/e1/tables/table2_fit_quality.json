@@ -1,0 +1,80 @@
+[
+  {
+    "impl": "CometBFT",
+    "regime": "steady",
+    "n": 4,
+    "model": "D-all",
+    "support": 5.994837758112094,
+    "max_edges": 6,
+    "m": 2.99594395280236,
+    "m_cv": 0.018662786757038335,
+    "k_cv": 0.02025448123907283,
+    "rho": 0.0,
+    "hub_union": "yes"
+  },
+  {
+    "impl": "CometBFT",
+    "regime": "steady",
+    "n": 4,
+    "model": "D-core",
+    "support": 5.994100294985251,
+    "max_edges": 6,
+    "m": 2.995575221238938,
+    "m_cv": 0.0202470070686862,
+    "k_cv": 0.021724680283002777,
+    "rho": 0.0,
+    "hub_union": "yes"
+  },
+  {
+    "impl": "libhotstuff",
+    "regime": "induced-rotation",
+    "n": 4,
+    "model": "D-all",
+    "support": 2.9973890339425586,
+    "max_edges": 6,
+    "m": 1,
+    "m_cv": 0.0,
+    "k_cv": 0.04184022620946291,
+    "rho": 0.0008703220191470844,
+    "hub_union": "yes"
+  },
+  {
+    "impl": "libhotstuff",
+    "regime": "induced-rotation",
+    "n": 4,
+    "model": "D-core",
+    "support": 2.9973890339425586,
+    "max_edges": 6,
+    "m": 1,
+    "m_cv": 0.0,
+    "k_cv": 0.04184022620946291,
+    "rho": 0.0008703220191470844,
+    "hub_union": "yes"
+  },
+  {
+    "impl": "libhotstuff",
+    "regime": "stable-leader",
+    "n": 4,
+    "model": "D-all",
+    "support": 3,
+    "max_edges": 6,
+    "m": 1,
+    "m_cv": 0.0,
+    "k_cv": 0.0,
+    "rho": 0.0,
+    "hub_union": "yes"
+  },
+  {
+    "impl": "libhotstuff",
+    "regime": "stable-leader",
+    "n": 4,
+    "model": "D-core",
+    "support": 3,
+    "max_edges": 6,
+    "m": 1,
+    "m_cv": 0.0,
+    "k_cv": 0.0,
+    "rho": 0.0,
+    "hub_union": "yes"
+  }
+]

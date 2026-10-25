@@ -1,0 +1,47 @@
+<svg viewBox="0 0 760 420" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Figure 2  Wasted key vs the theoretical gap 1 - pi" class="viz">
+<style>.viz{--surface-1:#fcfcfb;--text-primary:#0b0b0b;--text-secondary:#52514e;--muted:#8a8a86;--grid:#e4e4e1;--s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--s4:#4a3aa7;font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .viz{--surface-1:#1a1a19;--text-primary:#f5f5f2;--text-secondary:#c3c2b7;--muted:#8e8e88;--grid:#2e2e2c;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#9085e9;}}:root[data-theme="dark"] .viz{--surface-1:#1a1a19;--text-primary:#f5f5f2;--text-secondary:#c3c2b7;--muted:#8e8e88;--grid:#2e2e2c;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#9085e9;}.viz .ttl{fill:var(--text-primary);font-size:15px;font-weight:600}.viz .sub{fill:var(--text-secondary);font-size:12px}.viz .ax{fill:var(--text-secondary);font-size:11px;font-variant-numeric:tabular-nums}.viz .axname{fill:var(--muted);font-size:11px;letter-spacing:.04em}.viz .gl{stroke:var(--grid);stroke-width:1}.viz .dl{font-size:11.5px;font-weight:600;font-variant-numeric:tabular-nums}.viz .ln{fill:none;stroke-width:2;stroke-linejoin:round;stroke-linecap:round}.viz .mk{stroke:var(--surface-1);stroke-width:2}</style>
+<rect x="0" y="0" width="760" height="420" fill="var(--surface-1)"/>
+<text class="ttl" x="64" y="24">Figure 2  Wasted key vs the theoretical gap 1 - pi</text>
+<text class="sub" x="64" y="42">Slope 0.975, corr +0.983. Structural waste is exactly zero at every pi.</text>
+<line class="gl" x1="64" y1="364.0" x2="628" y2="364.0"/>
+<text class="ax" x="55" y="368.0" text-anchor="end">0.00</text>
+<line class="gl" x1="64" y1="305.2" x2="628" y2="305.2"/>
+<text class="ax" x="55" y="309.2" text-anchor="end">0.20</text>
+<line class="gl" x1="64" y1="246.4" x2="628" y2="246.4"/>
+<text class="ax" x="55" y="250.4" text-anchor="end">0.40</text>
+<line class="gl" x1="64" y1="187.6" x2="628" y2="187.6"/>
+<text class="ax" x="55" y="191.6" text-anchor="end">0.60</text>
+<line class="gl" x1="64" y1="128.8" x2="628" y2="128.8"/>
+<text class="ax" x="55" y="132.8" text-anchor="end">0.80</text>
+<line class="gl" x1="64" y1="70.0" x2="628" y2="70.0"/>
+<text class="ax" x="55" y="74.0" text-anchor="end">1.00</text>
+<text class="ax" x="64.0" y="383.0" text-anchor="middle">0.00</text>
+<text class="ax" x="178.9" y="383.0" text-anchor="middle">0.18</text>
+<text class="ax" x="293.8" y="383.0" text-anchor="middle">0.37</text>
+<text class="ax" x="335.6" y="383.0" text-anchor="middle">0.43</text>
+<text class="ax" x="408.7" y="383.0" text-anchor="middle">0.55</text>
+<text class="ax" x="607.1" y="383.0" text-anchor="middle">0.87</text>
+<text class="ax" x="628.0" y="383.0" text-anchor="middle">0.90</text>
+<text class="axname" x="346" y="410" text-anchor="middle">1 - pi  (theoretical prediction gap)</text>
+<text class="axname" transform="translate(16,217) rotate(-90)" text-anchor="middle">wasted key / demand</text>
+<path class="ln" d="M64.0,364.0 L628.0,99.4" stroke="var(--s1)" stroke-dasharray="6 4"/>
+<circle class="mk" cx="64.0" cy="364.0" r="4.5" fill="var(--s1)"><title>y = 1 - pi: 0.00, 0.00</title></circle>
+<circle class="mk" cx="628.0" cy="99.4" r="4.5" fill="var(--s1)"><title>y = 1 - pi: 0.90, 0.90</title></circle>
+<text class="dl" x="638.0" y="103.4" fill="var(--s1)">y = 1 - pi</text>
+<path class="ln" d="M607.1,110.5 L408.7,173.9 L335.6,217.7 L293.8,217.7 L178.9,281.1 L64.0,364.0" stroke="var(--s2)"/>
+<circle class="mk" cx="607.1" cy="110.5" r="4.5" fill="var(--s2)"><title>carry-forward: 0.87, 0.86</title></circle>
+<circle class="mk" cx="408.7" cy="173.9" r="4.5" fill="var(--s2)"><title>carry-forward: 0.55, 0.65</title></circle>
+<circle class="mk" cx="335.6" cy="217.7" r="4.5" fill="var(--s2)"><title>carry-forward: 0.43, 0.50</title></circle>
+<circle class="mk" cx="293.8" cy="217.7" r="4.5" fill="var(--s2)"><title>carry-forward: 0.37, 0.50</title></circle>
+<circle class="mk" cx="178.9" cy="281.1" r="4.5" fill="var(--s2)"><title>carry-forward: 0.18, 0.28</title></circle>
+<circle class="mk" cx="64.0" cy="364.0" r="4.5" fill="var(--s2)"><title>carry-forward: 0.00, 0.00</title></circle>
+<text class="dl" x="74.0" y="368.0" fill="var(--s2)">carry-forward</text>
+<path class="ln" d="M607.1,364.0 L408.7,364.0 L335.6,364.0 L293.8,364.0 L178.9,364.0 L64.0,364.0" stroke="var(--s3)"/>
+<circle class="mk" cx="607.1" cy="364.0" r="4.5" fill="var(--s3)"><title>structural: 0.87, 0.00</title></circle>
+<circle class="mk" cx="408.7" cy="364.0" r="4.5" fill="var(--s3)"><title>structural: 0.55, 0.00</title></circle>
+<circle class="mk" cx="335.6" cy="364.0" r="4.5" fill="var(--s3)"><title>structural: 0.43, 0.00</title></circle>
+<circle class="mk" cx="293.8" cy="364.0" r="4.5" fill="var(--s3)"><title>structural: 0.37, 0.00</title></circle>
+<circle class="mk" cx="178.9" cy="364.0" r="4.5" fill="var(--s3)"><title>structural: 0.18, 0.00</title></circle>
+<circle class="mk" cx="64.0" cy="364.0" r="4.5" fill="var(--s3)"><title>structural: 0.00, 0.00</title></circle>
+<text class="dl" x="74.0" y="368.0" fill="var(--s3)">structural</text>
+</svg>

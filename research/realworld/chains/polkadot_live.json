@@ -1,0 +1,7 @@
+{
+ "validators": 599,
+ "head": 33388408,
+ "seconds_per_block": 6.012,
+ "fetched": "2026-10-12",
+ "source": "https://rpc.polkadot.io Session.Validators storage; timestamps of blocks h-10000 and h"
+}

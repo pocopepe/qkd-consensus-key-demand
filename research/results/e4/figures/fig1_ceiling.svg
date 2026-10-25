@@ -1,0 +1,53 @@
+<svg viewBox="0 0 760 420" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Figure 1  Fast-path hit rate vs key-generation rate" class="viz">
+<style>.viz{--surface-1:#fcfcfb;--text-primary:#0b0b0b;--text-secondary:#52514e;--muted:#8a8a86;--grid:#e4e4e1;--s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--s4:#4a3aa7;font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .viz{--surface-1:#1a1a19;--text-primary:#f5f5f2;--text-secondary:#c3c2b7;--muted:#8e8e88;--grid:#2e2e2c;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#9085e9;}}:root[data-theme="dark"] .viz{--surface-1:#1a1a19;--text-primary:#f5f5f2;--text-secondary:#c3c2b7;--muted:#8e8e88;--grid:#2e2e2c;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#9085e9;}.viz .ttl{fill:var(--text-primary);font-size:15px;font-weight:600}.viz .sub{fill:var(--text-secondary);font-size:12px}.viz .ax{fill:var(--text-secondary);font-size:11px;font-variant-numeric:tabular-nums}.viz .axname{fill:var(--muted);font-size:11px;letter-spacing:.04em}.viz .gl{stroke:var(--grid);stroke-width:1}.viz .dl{font-size:11.5px;font-weight:600;font-variant-numeric:tabular-nums}.viz .ln{fill:none;stroke-width:2;stroke-linejoin:round;stroke-linecap:round}.viz .mk{stroke:var(--surface-1);stroke-width:2}</style>
+<rect x="0" y="0" width="760" height="420" fill="var(--surface-1)"/>
+<text class="ttl" x="64" y="24">Figure 1  Fast-path hit rate vs key-generation rate</text>
+<text class="sub" x="64" y="42">Flat across a 256x sweep: more key does not buy past pi.</text>
+<line class="gl" x1="64" y1="364.0" x2="628" y2="364.0"/>
+<text class="ax" x="55" y="368.0" text-anchor="end">0.00</text>
+<line class="gl" x1="64" y1="305.2" x2="628" y2="305.2"/>
+<text class="ax" x="55" y="309.2" text-anchor="end">0.20</text>
+<line class="gl" x1="64" y1="246.4" x2="628" y2="246.4"/>
+<text class="ax" x="55" y="250.4" text-anchor="end">0.40</text>
+<line class="gl" x1="64" y1="187.6" x2="628" y2="187.6"/>
+<text class="ax" x="55" y="191.6" text-anchor="end">0.60</text>
+<line class="gl" x1="64" y1="128.8" x2="628" y2="128.8"/>
+<text class="ax" x="55" y="132.8" text-anchor="end">0.80</text>
+<line class="gl" x1="64" y1="70.0" x2="628" y2="70.0"/>
+<text class="ax" x="55" y="74.0" text-anchor="end">1.00</text>
+<text class="ax" x="64.0" y="383.0" text-anchor="middle">256</text>
+<text class="ax" x="70.6" y="383.0" text-anchor="middle">1024</text>
+<text class="ax" x="97.2" y="383.0" text-anchor="middle">4096</text>
+<text class="ax" x="203.3" y="383.0" text-anchor="middle">16384</text>
+<text class="ax" x="628.0" y="383.0" text-anchor="middle">65536</text>
+<text class="axname" x="346" y="410" text-anchor="middle">key generated per pair per view (bits, log-spaced)</text>
+<text class="axname" transform="translate(16,217) rotate(-90)" text-anchor="middle">fast-path hit rate</text>
+<path class="ln" d="M64.0,75.7 L70.6,71.0 L97.2,71.0 L203.3,71.0 L628.0,71.0" stroke="var(--s1)"/>
+<circle class="mk" cx="64.0" cy="75.7" r="4.5" fill="var(--s1)"><title>pi=1.00: 256, 0.98</title></circle>
+<circle class="mk" cx="70.6" cy="71.0" r="4.5" fill="var(--s1)"><title>pi=1.00: 1024, 1.00</title></circle>
+<circle class="mk" cx="97.2" cy="71.0" r="4.5" fill="var(--s1)"><title>pi=1.00: 4096, 1.00</title></circle>
+<circle class="mk" cx="203.3" cy="71.0" r="4.5" fill="var(--s1)"><title>pi=1.00: 16384, 1.00</title></circle>
+<circle class="mk" cx="628.0" cy="71.0" r="4.5" fill="var(--s1)"><title>pi=1.00: 65536, 1.00</title></circle>
+<text class="dl" x="638.0" y="75.0" fill="var(--s1)">pi=1.00</text>
+<path class="ln" d="M64.0,146.9 L70.6,146.9 L97.2,146.9 L203.3,146.9 L628.0,146.9" stroke="var(--s2)"/>
+<circle class="mk" cx="64.0" cy="146.9" r="4.5" fill="var(--s2)"><title>pi=0.82: 256, 0.74</title></circle>
+<circle class="mk" cx="70.6" cy="146.9" r="4.5" fill="var(--s2)"><title>pi=0.82: 1024, 0.74</title></circle>
+<circle class="mk" cx="97.2" cy="146.9" r="4.5" fill="var(--s2)"><title>pi=0.82: 4096, 0.74</title></circle>
+<circle class="mk" cx="203.3" cy="146.9" r="4.5" fill="var(--s2)"><title>pi=0.82: 16384, 0.74</title></circle>
+<circle class="mk" cx="628.0" cy="146.9" r="4.5" fill="var(--s2)"><title>pi=0.82: 65536, 0.74</title></circle>
+<text class="dl" x="638.0" y="150.9" fill="var(--s2)">pi=0.82</text>
+<path class="ln" d="M64.0,206.6 L70.6,206.6 L97.2,206.6 L203.3,206.6 L628.0,206.6" stroke="var(--s3)"/>
+<circle class="mk" cx="64.0" cy="206.6" r="4.5" fill="var(--s3)"><title>pi=0.63: 256, 0.54</title></circle>
+<circle class="mk" cx="70.6" cy="206.6" r="4.5" fill="var(--s3)"><title>pi=0.63: 1024, 0.54</title></circle>
+<circle class="mk" cx="97.2" cy="206.6" r="4.5" fill="var(--s3)"><title>pi=0.63: 4096, 0.54</title></circle>
+<circle class="mk" cx="203.3" cy="206.6" r="4.5" fill="var(--s3)"><title>pi=0.63: 16384, 0.54</title></circle>
+<circle class="mk" cx="628.0" cy="206.6" r="4.5" fill="var(--s3)"><title>pi=0.63: 65536, 0.54</title></circle>
+<text class="dl" x="638.0" y="210.6" fill="var(--s3)">pi=0.63</text>
+<path class="ln" d="M64.0,212.4 L70.6,212.4 L97.2,212.4 L203.3,212.4 L628.0,212.4" stroke="var(--s4)"/>
+<circle class="mk" cx="64.0" cy="212.4" r="4.5" fill="var(--s4)"><title>pi=0.57: 256, 0.52</title></circle>
+<circle class="mk" cx="70.6" cy="212.4" r="4.5" fill="var(--s4)"><title>pi=0.57: 1024, 0.52</title></circle>
+<circle class="mk" cx="97.2" cy="212.4" r="4.5" fill="var(--s4)"><title>pi=0.57: 4096, 0.52</title></circle>
+<circle class="mk" cx="203.3" cy="212.4" r="4.5" fill="var(--s4)"><title>pi=0.57: 16384, 0.52</title></circle>
+<circle class="mk" cx="628.0" cy="212.4" r="4.5" fill="var(--s4)"><title>pi=0.57: 65536, 0.52</title></circle>
+<text class="dl" x="638.0" y="216.4" fill="var(--s4)">pi=0.57</text>
+</svg>

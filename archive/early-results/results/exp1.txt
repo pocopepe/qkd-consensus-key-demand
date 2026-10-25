@@ -1,0 +1,32 @@
+
+=== round_robin, no faults  (n=16) ===
+forecaster                cover@48  prec@48   wasted   MAE(bits)
+ewma (alpha*=0.3)            0.593    0.359    0.726        96.3
+holt                         0.626    0.380    0.687       132.7
+structural                   0.993    0.609    0.163        15.6
+structural -hazard           0.993    0.609    0.072         7.4
+structural -schedule         0.400    0.252    0.749       104.8
+
+=== round_robin, 2 byzantine  (n=16) ===
+forecaster                cover@48  prec@48   wasted   MAE(bits)
+ewma (alpha*=0.3)            0.521    0.410    0.642       118.9
+holt                         0.554    0.430    0.613       132.0
+structural                   0.920    0.657    0.145        18.8
+structural -hazard           0.920    0.657    0.269        47.4
+structural -schedule         0.397    0.342    0.658        96.9
+
+=== vrf, lookahead=4  (n=16) ===
+forecaster                cover@48  prec@48   wasted   MAE(bits)
+ewma (alpha*=0.5)            0.694    0.401    0.572        79.1
+holt                         0.686    0.398    0.606       131.0
+structural                   0.993    0.588    0.163        15.8
+structural -hazard           0.993    0.588    0.073         7.8
+structural -schedule         0.400    0.243    0.758       106.0
+
+=== vrf, lookahead=0 (blind)  (n=16) ===
+forecaster                cover@48  prec@48   wasted   MAE(bits)
+ewma (alpha*=0.5)            0.694    0.401    0.572        79.1
+holt                         0.686    0.398    0.606       131.0
+structural                   0.400    0.243    0.758       101.9
+structural -hazard           0.400    0.243    0.758       101.9
+structural -schedule         0.400    0.243    0.758       101.9

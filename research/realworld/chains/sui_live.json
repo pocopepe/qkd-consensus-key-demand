@@ -1,0 +1,8 @@
+{
+ "active_validators": 127,
+ "epoch": 1277,
+ "start": "2026-10-11T00:05:42.642Z",
+ "end": null,
+ "fetched": "2026-10-12",
+ "source": "https://graphql.mainnet.sui.io/graphql epoch.validatorSet.activeValidators (paged by 50)"
+}

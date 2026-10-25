@@ -1,0 +1,36 @@
+diff --git a/server/server.go b/server/server.go
+index dc97a55..21d51f2 100644
+--- a/server/server.go
++++ b/server/server.go
+@@ -125,6 +125,7 @@ func (impl *serviceImpl) Propose(ctx gorums.ServerCtx, proposal *hotstuffpb.Prop
+ 	proposal.Block.Proposer = uint32(id)
+ 	proposeMsg := hotstuffpb.ProposalFromProto(proposal)
+ 	proposeMsg.ID = id
++	ctx.Release() // E3c: per-message delay; without this the sleep holds the per-sender stream lock and delays accumulate
+ 	impl.srv.addNetworkDelay(id)
+ 	impl.srv.eventLoop.AddEvent(proposeMsg)
+ }
+@@ -136,6 +137,7 @@ func (impl *serviceImpl) Vote(ctx gorums.ServerCtx, cert *hotstuffpb.PartialCert
+ 		impl.srv.logger.Warnf("Could not get replica ID: %v", err)
+ 		return
+ 	}
++	ctx.Release() // E3c: per-message delay; without this the sleep holds the per-sender stream lock and delays accumulate
+ 	impl.srv.addNetworkDelay(id)
+ 	impl.srv.eventLoop.AddEvent(hotstuff.VoteMsg{
+ 		ID:          id,
+@@ -150,6 +152,7 @@ func (impl *serviceImpl) NewView(ctx gorums.ServerCtx, msg *hotstuffpb.SyncInfo)
+ 		impl.srv.logger.Warnf("Could not get replica ID: %v", err)
+ 		return
+ 	}
++	ctx.Release() // E3c: per-message delay; without this the sleep holds the per-sender stream lock and delays accumulate
+ 	impl.srv.addNetworkDelay(id)
+ 	impl.srv.eventLoop.AddEvent(hotstuff.NewViewMsg{
+ 		ID:       id,
+@@ -180,6 +183,7 @@ func (impl *serviceImpl) Timeout(ctx gorums.ServerCtx, msg *hotstuffpb.TimeoutMs
+ 	}
+ 	timeoutMsg := hotstuffpb.TimeoutMsgFromProto(msg)
+ 	timeoutMsg.ID = id
++	ctx.Release() // E3c: per-message delay; without this the sleep holds the per-sender stream lock and delays accumulate
+ 	impl.srv.addNetworkDelay(id)
+ 	impl.srv.eventLoop.AddEvent(timeoutMsg)
+ }

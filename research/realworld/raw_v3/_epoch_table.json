@@ -1,0 +1,364 @@
+{
+ "chosen": [
+  {
+   "epoch": 17292,
+   "version": 7219369427,
+   "next_version": 7220546543,
+   "first_height": 1047182323,
+   "last_height": 1047377967,
+   "start_height": 1047226178
+  },
+  {
+   "epoch": 17280,
+   "version": 7205932088,
+   "next_version": 7207123160,
+   "first_height": 1044806382,
+   "last_height": 1045003464,
+   "start_height": 1044943332
+  },
+  {
+   "epoch": 17325,
+   "version": 7257037869,
+   "next_version": 7258189746,
+   "first_height": 1053581040,
+   "last_height": 1053771734,
+   "start_height": 1053612617
+  },
+  {
+   "epoch": 17360,
+   "version": 7296130504,
+   "next_version": 7297493429,
+   "first_height": 1060205122,
+   "last_height": 1060396612,
+   "start_height": 1060232113
+  },
+  {
+   "epoch": 17331,
+   "version": 7264397615,
+   "next_version": 7265439110,
+   "first_height": 1054706283,
+   "last_height": 1054896851,
+   "start_height": 1054717136
+  },
+  {
+   "epoch": 17327,
+   "version": 7259604057,
+   "next_version": 7260977783,
+   "first_height": 1053955377,
+   "last_height": 1054141931,
+   "start_height": 1054076643
+  },
+  {
+   "epoch": 17347,
+   "version": 7281533971,
+   "next_version": 7282583769,
+   "first_height": 1057739128,
+   "last_height": 1057928393,
+   "start_height": 1057813316
+  },
+  {
+   "epoch": 17351,
+   "version": 7285729899,
+   "next_version": 7286845107,
+   "first_height": 1058495351,
+   "last_height": 1058682970,
+   "start_height": 1058659690
+  },
+  {
+   "epoch": 17279,
+   "version": 7204595127,
+   "next_version": 7205932088,
+   "first_height": 1044615846,
+   "last_height": 1044806381,
+   "start_height": 1044667509
+  },
+  {
+   "epoch": 17270,
+   "version": 7194478634,
+   "next_version": 7195454318,
+   "first_height": 1042857577,
+   "last_height": 1043049629,
+   "start_height": 1042886760
+  },
+  {
+   "epoch": 17301,
+   "version": 7229410257,
+   "next_version": 7230467939,
+   "first_height": 1048957400,
+   "last_height": 1049154232,
+   "start_height": 1049047554
+  },
+  {
+   "epoch": 17322,
+   "version": 7253573894,
+   "next_version": 7254730970,
+   "first_height": 1053007634,
+   "last_height": 1053198924,
+   "start_height": 1053165684
+  },
+  {
+   "epoch": 17287,
+   "version": 7213535369,
+   "next_version": 7214610248,
+   "first_height": 1046197312,
+   "last_height": 1046397105,
+   "start_height": 1046360936
+  },
+  {
+   "epoch": 17285,
+   "version": 7211449264,
+   "next_version": 7212470587,
+   "first_height": 1045797967,
+   "last_height": 1045997427,
+   "start_height": 1045933154
+  },
+  {
+   "epoch": 17352,
+   "version": 7286845107,
+   "next_version": 7288050617,
+   "first_height": 1058682971,
+   "last_height": 1058869212,
+   "start_height": 1058826754
+  },
+  {
+   "epoch": 17319,
+   "version": 7250262129,
+   "next_version": 7251279123,
+   "first_height": 1052432629,
+   "last_height": 1052624452,
+   "start_height": 1052486966
+  },
+  {
+   "epoch": 17349,
+   "version": 7283623664,
+   "next_version": 7284668591,
+   "first_height": 1058118608,
+   "last_height": 1058307568,
+   "start_height": 1058185468
+  },
+  {
+   "epoch": 17353,
+   "version": 7288050617,
+   "next_version": 7289101500,
+   "first_height": 1058869213,
+   "last_height": 1059059034,
+   "start_height": 1058892514
+  },
+  {
+   "epoch": 17283,
+   "version": 7209366961,
+   "next_version": 7210383872,
+   "first_height": 1045400686,
+   "last_height": 1045599375,
+   "start_height": 1045403580
+  },
+  {
+   "epoch": 17356,
+   "version": 7291341185,
+   "next_version": 7292676225,
+   "first_height": 1059433745,
+   "last_height": 1059623982,
+   "start_height": 1059521055
+  },
+  {
+   "epoch": 17298,
+   "version": 7226246019,
+   "next_version": 7227288973,
+   "first_height": 1048363209,
+   "last_height": 1048561195,
+   "start_height": 1048421375
+  },
+  {
+   "epoch": 17339,
+   "version": 7272936991,
+   "next_version": 7274030084,
+   "first_height": 1056226241,
+   "last_height": 1056414157,
+   "start_height": 1056326375
+  },
+  {
+   "epoch": 17284,
+   "version": 7210383872,
+   "next_version": 7211449264,
+   "first_height": 1045599376,
+   "last_height": 1045797966,
+   "start_height": 1045716673
+  },
+  {
+   "epoch": 17332,
+   "version": 7265439110,
+   "next_version": 7266570804,
+   "first_height": 1054896852,
+   "last_height": 1055087719,
+   "start_height": 1055066716
+  },
+  {
+   "epoch": 17350,
+   "version": 7284668591,
+   "next_version": 7285729899,
+   "first_height": 1058307569,
+   "last_height": 1058495350,
+   "start_height": 1058370841
+  },
+  {
+   "epoch": 17354,
+   "version": 7289101500,
+   "next_version": 7290199708,
+   "first_height": 1059059035,
+   "last_height": 1059247008,
+   "start_height": 1059124014
+  },
+  {
+   "epoch": 17308,
+   "version": 7237941930,
+   "next_version": 7239075599,
+   "first_height": 1050310137,
+   "last_height": 1050503885,
+   "start_height": 1050342560
+  },
+  {
+   "epoch": 17299,
+   "version": 7227288973,
+   "next_version": 7228353169,
+   "first_height": 1048561196,
+   "last_height": 1048759789,
+   "start_height": 1048723679
+  },
+  {
+   "epoch": 17343,
+   "version": 7277217082,
+   "next_version": 7278223861,
+   "first_height": 1056982225,
+   "last_height": 1057172483,
+   "start_height": 1057150772
+  },
+  {
+   "epoch": 17300,
+   "version": 7228353169,
+   "next_version": 7229410257,
+   "first_height": 1048759790,
+   "last_height": 1048957399,
+   "start_height": 1048794878
+  },
+  {
+   "epoch": 17328,
+   "version": 7260977783,
+   "next_version": 7262164866,
+   "first_height": 1054141932,
+   "last_height": 1054329006,
+   "start_height": 1054213978
+  },
+  {
+   "epoch": 17315,
+   "version": 7245782844,
+   "next_version": 7247063316,
+   "first_height": 1051659999,
+   "last_height": 1051851024,
+   "start_height": 1051798813
+  },
+  {
+   "epoch": 17324,
+   "version": 7255895222,
+   "next_version": 7257037869,
+   "first_height": 1053389939,
+   "last_height": 1053581039,
+   "start_height": 1053507294
+  },
+  {
+   "epoch": 17293,
+   "version": 7220546543,
+   "next_version": 7221997283,
+   "first_height": 1047377968,
+   "last_height": 1047567104,
+   "start_height": 1047471016
+  },
+  {
+   "epoch": 17307,
+   "version": 7236885698,
+   "next_version": 7237941930,
+   "first_height": 1050113870,
+   "last_height": 1050310136,
+   "start_height": 1050276614
+  },
+  {
+   "epoch": 17303,
+   "version": 7231762777,
+   "next_version": 7233013853,
+   "first_height": 1049346826,
+   "last_height": 1049540656,
+   "start_height": 1049435303
+  },
+  {
+   "epoch": 17345,
+   "version": 7279300906,
+   "next_version": 7280489423,
+   "first_height": 1057361685,
+   "last_height": 1057549739,
+   "start_height": 1057372067
+  },
+  {
+   "epoch": 17348,
+   "version": 7282583769,
+   "next_version": 7283623664,
+   "first_height": 1057928394,
+   "last_height": 1058118607,
+   "start_height": 1058068710
+  },
+  {
+   "epoch": 17297,
+   "version": 7225195166,
+   "next_version": 7226246019,
+   "first_height": 1048165328,
+   "last_height": 1048363208,
+   "start_height": 1048345346
+  },
+  {
+   "epoch": 17304,
+   "version": 7233013853,
+   "next_version": 7234275383,
+   "first_height": 1049540657,
+   "last_height": 1049731956,
+   "start_height": 1049647968
+  }
+ ],
+ "candidates": 76,
+ "excluded_seen": [
+  17230,
+  17231,
+  17235,
+  17242,
+  17243,
+  17248,
+  17249,
+  17254,
+  17255,
+  17256,
+  17262,
+  17263,
+  17264,
+  17265,
+  17266,
+  17267,
+  17268,
+  17271,
+  17272,
+  17274,
+  17275,
+  17276,
+  17278,
+  17281,
+  17286,
+  17289,
+  17302,
+  17305,
+  17306,
+  17310,
+  17311,
+  17314,
+  17317,
+  17318,
+  17320,
+  17323
+ ],
+ "utc": "2026-09-21T20:16:59Z"
+}

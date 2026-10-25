@@ -1,0 +1,17 @@
+{
+ "primary_network_validators": 590,
+ "c_chain_seconds_per_block": 0.9943,
+ "c_chain_blocks": [
+  97282608,
+  97302608
+ ],
+ "fetched": "2026-10-11",
+ "source": "https://api.avax.network/ext/bc/P platform.getCurrentValidators; /ext/bc/C/rpc block timestamps",
+ "snowball_defaults": {
+  "K": 20,
+  "AlphaPreference": 15,
+  "AlphaConfidence": 15,
+  "Beta": 20,
+  "source": "avalanchego master snow/consensus/snowball/parameters.go"
+ }
+}

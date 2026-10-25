@@ -1,0 +1,23 @@
+{
+  "label": "D-all",
+  "n": 4,
+  "views": 1356,
+  "support_mean": 5.989675516224189,
+  "m_mean": 2.99188790560472,
+  "m_sd": 0.11167393196652586,
+  "m_cv": 0.03732557351407667,
+  "k_mean": 2.9911439114391145,
+  "k_sd": 0.12116813647522093,
+  "k_cv": 0.04050896247814566,
+  "rho_mean": 0.0,
+  "pi_measured": 1.0,
+  "pi_sd": 0.0,
+  "m_used": 3,
+  "k_used": 3,
+  "pi_theory": 1.0,
+  "error": 0.0,
+  "impl": "CometBFT",
+  "regime": "steady",
+  "file": "comet_n4_run1.json",
+  "demand_model": "D-all"
+}

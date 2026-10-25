@@ -1,0 +1,77 @@
+{
+  "experiment_id": "S-ssle-leak-001",
+  "utc": "2026-08-20T13:58:02.043748+00:00",
+  "protocol": "SSLE / gossiped attestations",
+  "attest_sweep": [
+    {
+      "attest_frac": 1.0,
+      "traffic_Lt": 0.06,
+      "traffic_Lt1": 0.056666666666666664,
+      "central_Lt1": 0.056666666666666664,
+      "selfarm_Lt1": 0.056666666666666664
+    },
+    {
+      "attest_frac": 0.5,
+      "traffic_Lt": 1.0,
+      "traffic_Lt1": 0.056666666666666664,
+      "central_Lt1": 0.93,
+      "selfarm_Lt1": 0.93
+    },
+    {
+      "attest_frac": 0.25,
+      "traffic_Lt": 1.0,
+      "traffic_Lt1": 0.07333333333333333,
+      "central_Lt1": 0.93,
+      "selfarm_Lt1": 0.93
+    },
+    {
+      "attest_frac": 0.1,
+      "traffic_Lt": 1.0,
+      "traffic_Lt1": 0.06,
+      "central_Lt1": 0.93,
+      "selfarm_Lt1": 0.93
+    }
+  ],
+  "scaling": [
+    {
+      "n": 7,
+      "traffic_Lt": 1.0,
+      "traffic_Lt1": 0.1275,
+      "central_Lt1": 0.8775,
+      "selfarm_Lt1": 0.8775,
+      "marginal": 0.75
+    },
+    {
+      "n": 16,
+      "traffic_Lt": 1.0,
+      "traffic_Lt1": 0.065,
+      "central_Lt1": 0.945,
+      "selfarm_Lt1": 0.945,
+      "marginal": 0.8799999999999999
+    },
+    {
+      "n": 31,
+      "traffic_Lt": 1.0,
+      "traffic_Lt1": 0.0125,
+      "central_Lt1": 0.98,
+      "selfarm_Lt1": 0.98,
+      "marginal": 0.9675
+    },
+    {
+      "n": 64,
+      "traffic_Lt": 1.0,
+      "traffic_Lt1": 0.0125,
+      "central_Lt1": 0.9875,
+      "selfarm_Lt1": 0.9875,
+      "marginal": 0.9750000000000001
+    },
+    {
+      "n": 128,
+      "traffic_Lt": 1.0,
+      "traffic_Lt1": 0.0025,
+      "central_Lt1": 0.99,
+      "selfarm_Lt1": 0.99,
+      "marginal": 0.9875
+    }
+  ]
+}

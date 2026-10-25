@@ -1,0 +1,8 @@
+2026-09-21T20:40:41Z [all] locks verified; starting
+2026-09-21T21:04:01Z [all] aptos_fetch complete (pass 1)
+2026-09-21T22:11:42Z [all] cosmos_fetch complete (pass 1)
+2026-09-21T23:13:00Z [all] E3T finished: 72/72 runs (results: e3/E3T_RESULTS.json)
+2026-09-21T23:16:55Z [all] V3 replication finished (results: V3_RESULTS.json)
+2026-09-21T23:17:34Z [all] C1 finished (results: theory/C1_RESULTS.json)
+2026-09-21T23:36:31Z [all] aptos_archive complete (pass 1)
+2026-09-21T23:36:31Z [all] ALL STREAMS FINISHED

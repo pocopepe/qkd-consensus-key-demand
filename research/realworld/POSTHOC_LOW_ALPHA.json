@@ -1,0 +1,42 @@
+{
+ "alphas": [
+  0.1,
+  0.3,
+  0.5,
+  0.7,
+  0.9
+ ],
+ "note": "post hoc; same scoring loop, budget and warm-up as the pre-specified run",
+ "first": {
+  "epochs": 30,
+  "pi_mean": 0.5293803836377255,
+  "ewma0.1": 0.13193165519219735,
+  "ewma0.1_epochs_above_pi": 0,
+  "ewma0.3": 0.12061108521387136,
+  "ewma0.3_epochs_above_pi": 0,
+  "ewma0.5": 0.5111798981640849,
+  "ewma0.5_epochs_above_pi": 0,
+  "ewma0.7": 0.511181571524192,
+  "ewma0.7_epochs_above_pi": 0,
+  "ewma0.9": 0.5111823982437688,
+  "ewma0.9_epochs_above_pi": 0,
+  "last": 0.5194523879247147,
+  "last_epochs_above_pi": 0
+ },
+ "second": {
+  "epochs": 40,
+  "pi_mean": 0.5286600270128131,
+  "ewma0.1": 0.13356991955918912,
+  "ewma0.1_epochs_above_pi": 0,
+  "ewma0.3": 0.11951032179312489,
+  "ewma0.3_epochs_above_pi": 0,
+  "ewma0.5": 0.5123791296136928,
+  "ewma0.5_epochs_above_pi": 0,
+  "ewma0.7": 0.5123791296136928,
+  "ewma0.7_epochs_above_pi": 0,
+  "ewma0.9": 0.5123797496533753,
+  "ewma0.9_epochs_above_pi": 0,
+  "last": 0.5201024484844139,
+  "last_epochs_above_pi": 0
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "validators_current": 672,
+ "delinquent": 8,
+ "epoch": 1054,
+ "slots_in_epoch": 432000,
+ "fetched": "2026-10-12",
+ "source": "https://api.mainnet-beta.solana.com getVoteAccounts, getEpochInfo; getBlockTime of two slots 20000 apart",
+ "seconds_per_slot": 0.21905,
+ "slots": [
+  455741154,
+  455761154
+ ]
+}

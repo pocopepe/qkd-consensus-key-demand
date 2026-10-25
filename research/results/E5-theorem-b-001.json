@@ -1,0 +1,14 @@
+{
+  "experiment_id": "E5-theorem-b-001",
+  "utc": "2026-08-20T19:07:18.495300+00:00",
+  "conjecture_as_stated": "cov <= pi for every RWC predictor",
+  "status": "REFUTED as stated; replaced by the three-case theorem",
+  "condition": "lag-1 dominance: w_1 > sum_{s>=2} w_s",
+  "ewma_equivalent": "alpha > 1/2",
+  "cases": {
+    "|S(t-1)|=K": "cov = pi exactly",
+    "|S(t-1)|>K": "cov <= pi",
+    "|S(t-1)|<K": "cov >= pi"
+  },
+  "checks_passed": "7/7"
+}

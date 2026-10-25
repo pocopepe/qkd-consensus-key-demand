@@ -1,0 +1,120 @@
+{
+ "cells": {
+  "rr_random_n16": {
+   "windows": 100,
+   "R": 0.010933895556945175,
+   "mean_abs_effect": 0.0002872245873653867,
+   "mean_lost_per_view": 0.01515272909364046,
+   "distinct_share": 1.0,
+   "max_abs_sim_minus_prop1": 0.0001048096865259307,
+   "scored": true,
+   "ok": true
+  },
+  "rr_random_n32": {
+   "windows": 100,
+   "R": 0.010167038142667268,
+   "mean_abs_effect": 0.0002829192052363949,
+   "mean_lost_per_view": 0.0329293940911367,
+   "distinct_share": 1.0,
+   "max_abs_sim_minus_prop1": 2.3938898695896604e-05,
+   "scored": true,
+   "ok": true
+  },
+  "rr_random_n64": {
+   "windows": 100,
+   "R": 0.005769325852747972,
+   "mean_abs_effect": 0.0003284179361137829,
+   "mean_lost_per_view": 0.0798347521281923,
+   "distinct_share": 1.0,
+   "max_abs_sim_minus_prop1": 1.9710153554730603e-05,
+   "scored": true,
+   "ok": true
+  },
+  "rr_stress_n16": {
+   "windows": 100,
+   "R": 0.011392743781715054,
+   "mean_abs_effect": 0.002324356338001654,
+   "mean_lost_per_view": 0.12206309464196295,
+   "distinct_share": 1.0,
+   "max_abs_sim_minus_prop1": 0.00013050592303776032,
+   "scored": true,
+   "ok": true
+  },
+  "rr_stress_n32": {
+   "windows": 100,
+   "R": 0.015855644802376168,
+   "mean_abs_effect": 0.0010985455381432219,
+   "mean_lost_per_view": 0.12900851276915373,
+   "distinct_share": 1.0,
+   "max_abs_sim_minus_prop1": 0.00017162550361515816,
+   "scored": true,
+   "ok": true
+  },
+  "rr_stress_n64": {
+   "windows": 100,
+   "R": 0.021094816384097444,
+   "mean_abs_effect": 0.0005372538500064861,
+   "mean_lost_per_view": 0.13329494241362044,
+   "distinct_share": 1.0,
+   "max_abs_sim_minus_prop1": 0.00010397340421808288,
+   "scored": true,
+   "ok": true
+  },
+  "stake_random_n16": {
+   "windows": 100,
+   "R": 0.14648817226030955,
+   "mean_abs_effect": 0.0002048436857953617,
+   "mean_lost_per_view": 0.012523785678517776,
+   "distinct_share": 0.21631947921882821,
+   "max_abs_sim_minus_prop1": 0.3480608280948122
+  },
+  "stake_random_n32": {
+   "windows": 100,
+   "R": 0.1275912819499,
+   "mean_abs_effect": 0.00013646378116473622,
+   "mean_lost_per_view": 0.016199298948422633,
+   "distinct_share": 0.4200450676014021,
+   "max_abs_sim_minus_prop1": 0.2454643272046475
+  },
+  "stake_random_n64": {
+   "windows": 100,
+   "R": 0.03610390485270873,
+   "mean_abs_effect": 0.00029862684834221275,
+   "mean_lost_per_view": 0.07504757135703556,
+   "distinct_share": 0.5786279419128693,
+   "max_abs_sim_minus_prop1": 0.16667296430125034
+  },
+  "stake_stress_n16": {
+   "windows": 100,
+   "R": 0.21538793516913546,
+   "mean_abs_effect": 0.001964893688902096,
+   "mean_lost_per_view": 0.1258037055583375,
+   "distinct_share": 0.13377566349524286,
+   "max_abs_sim_minus_prop1": 0.3236150241533373
+  },
+  "stake_stress_n32": {
+   "windows": 100,
+   "R": 0.05041235832637984,
+   "mean_abs_effect": 0.0010746077721958335,
+   "mean_lost_per_view": 0.13103655483224838,
+   "distinct_share": 0.43655983975963947,
+   "max_abs_sim_minus_prop1": 0.1994456446213686
+  },
+  "stake_stress_n64": {
+   "windows": 100,
+   "R": 0.044502566594268426,
+   "mean_abs_effect": 0.0005401367076202923,
+   "mean_lost_per_view": 0.13430145217826742,
+   "distinct_share": 0.6548673009514272,
+   "max_abs_sim_minus_prop1": 0.12651952695568203
+  }
+ },
+ "C1A": {
+  "scored_cells": 6,
+  "verdict": "SUPPORTED"
+ },
+ "C1B": {
+  "verdict": "DESCRIPTIVE",
+  "note": "stake-weighted schedules with repeated leaders are outside Proposition 1; R is reported per cell with the distinct-leader share"
+ }
+}

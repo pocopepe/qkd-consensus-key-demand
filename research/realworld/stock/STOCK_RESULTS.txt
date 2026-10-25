@@ -1,0 +1,7 @@
+66 epochs, 46208966 tags demanded; largest |measured - model| over 180 cells: 0.0034
+lead  1  round-robin needs 3   0.99: uniform 3 (0.9995) stake 2.49 (0.9940, q=0.999)   0.999: uniform 3 (0.9995) stake 3.00 (0.9996, q=0.9999)
+lead  2  round-robin needs 4   0.99: uniform 4 (0.9990) stake 3.03 (0.9908, q=0.999)   0.999: uniform 5 (1.0000) stake 4.03 (0.9994, q=0.9999)
+lead  5  round-robin needs 4   0.99: uniform 4 (0.9909) stake 3.79 (0.9906, q=0.998)   0.999: uniform 6 (0.9997) stake 5.36 (0.9994, q=0.9999)
+lead 10  round-robin needs 4   0.99: uniform 6 (0.9965) stake 4.83 (0.9916, q=0.998)   0.999: uniform 8 (0.9997) stake 6.76 (0.9995, q=0.9999)
+lead 20  round-robin needs 4   0.99: uniform 8 (0.9960) stake 6.53 (0.9937, q=0.998)   0.999: uniform 10 (0.9995) stake 8.87 (0.9997, q=0.9999)
+lead 50  round-robin needs 4   0.99: uniform 12 (0.9919) stake 10.30 (0.9952, q=0.998)   0.999: uniform 16 (0.9994) stake 13.41 (0.9997, q=0.9999)
